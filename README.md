@@ -7,6 +7,7 @@ The route is intended to prioritize the following assumptions:
 - At least two giant ancient cores will be obtained so that an ancient bow and ancient shield can be purchased.
 - Most pictures will be taken.
 - All ores along the route will be gathered.
+- All drops from talus will be collected.
 - Wepaon selection is mostly at the discression of the runner.
 
 You can view the route at https://celer.itntpiston.app/#/gh/31PNMR/Hundo-EX-Glitchless
