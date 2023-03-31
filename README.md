@@ -15,6 +15,8 @@ The route prioritizes the following assumptions:
 
 You can see more about the route engine by visiting [iTNTPiston's GitHub](https://github.com/iTNTPiston/celer).
 
+If you have any questions/corrections, please join the Discord server below and contact me there.
+
 # Thanks
 I appricate the help of [zd3nik](https://www.twitch.tv/zd3nik), [savage13](https://www.speedrun.com/user/savage13_), and [KatieShesko](https://www.twitch.tv/katieshesko) for helping to correct errors and beta test the route.
 
