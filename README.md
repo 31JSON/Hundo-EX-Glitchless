@@ -16,7 +16,7 @@ The route prioritizes the following assumptions:
 You can see more about the route engine by visiting [iTNTPiston's GitHub](https://github.com/iTNTPiston/celer).
 
 # Thanks
-I appricate the help of [zd3nik](https://www.twitch.tv/zd3nik), savage13, and [KatieShesko](https://www.twitch.tv/katieshesko) for helping to correct errors and beta test the route.
+I appricate the help of [zd3nik](https://www.twitch.tv/zd3nik), [savage13](https://www.speedrun.com/user/savage13_), and [KatieShesko](https://www.twitch.tv/katieshesko) for helping to correct errors and beta test the route.
 
 # Discord
 Join the [Angry Hylian Collective](https://discord.gg/hylian) for fun BotW science and hundo chat.
