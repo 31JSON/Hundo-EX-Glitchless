@@ -951,7 +951,7 @@ _route:
     - _Korok::D21
     - _Npc<Hestu/ボックリン>:
         comment: Hestu's Maracas/大事なマラカス
-        notes: 2 bow slots; All Korok seeds and the maracas should be out of your inventory
+        notes: 2 bow slots
         movements:
           - to: [2114,1367.8554009524141]
           - to: [2099.4375,1393.3524216635105]
@@ -1154,6 +1154,7 @@ _route:
         hide-icon-on-map: true
     - _Material<Shard of Farosh's Horn, 50>:
         comment: フロドラの角のかけら
+        notes: Used to make a bunch of 30 min Speed and Attack Up foods.
         hide-icon-on-map: true
     - Movements to Mighty Bananas:
         movements:
@@ -1442,7 +1443,10 @@ _route:
         icon: medoh-enter
         hide-icon-on-map: true
         split-type: UserDefined
-    - _Chest<Giant Ancient>:
+    - _Chest<Ancient Core>:
+        comment: 古代のコア
+        hide-icon-on-map: true
+    - _Chest<Giant Ancient Core>:
         comment: 古代の巨大なコア
         notes: Chest on Medoh's nose
         hide-icon-on-map: true
@@ -2130,7 +2134,7 @@ _route:
         notes: Buy cold darner if you don't have at least 2
         hide-icon-on-map: true
     - _Cook<Cold Elixir>:
-        notes: Cold darner, lizalfos tail; for quest
+        notes: Cold darner and monster part; for quest
         coord: [-2811.31, 134.87, 2239.89]
     - _Npc::SheikaMale<Pirou/ピルエ>:
         comment: Rushroom Rush!/ゴーゴーダケ GoGo！
@@ -2138,6 +2142,7 @@ _route:
         notes: Start quest
     - _Chest<Ice Arrow x10>:
         coord: [-2780.03, 134.33, 2235.16]
+        notes: Dog treasure
 
   - Wasteland Tower:
     - _Warp::VahNaboris
@@ -2300,7 +2305,7 @@ _route:
     - _Boss::Hinox::Red:
         comment: ヒノックス
         coord: [3251.0625,1331.5625]
-    - _Material<Ore Deposit>>:
+    - _Material<Ore Deposit>:
         coord: [3263.53, 271.22, 1348.30]
     - _Korok::N22
     - _Korok::N29:
@@ -2456,7 +2461,7 @@ _route:
         coord: [3596.0625,-342.875]
     - Enter Ruta:
         icon: ruta-enter
-        notes: .link([Video]https://youtu.be/s8UMMQmUioQ?t=2884); Stasis+, GEB x 2 (body) + OB x 1 (any)
+        notes: .link([Video]https://youtu.be/s8UMMQmUioQ?t=2884)
         split-type: UserDefined
     - _Material<Heart Vessel, 1>:
         hide-icon-on-map: true
