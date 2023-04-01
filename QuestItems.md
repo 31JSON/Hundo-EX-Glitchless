@@ -1,10 +1,10 @@
 This is a list of all the items needed for each quest.
 
 **From the Ground Up**
-Wood 110
+- Wood 110
 
 **A Parent's Love**
-Monster Cake (Monster Extract, Tabantha Wheat, Cane Sugar, Goat Butter)
+- Monster Cake (Monster Extract, Tabantha Wheat, Cane Sugar, Goat Butter)
 
 **Little Sister's Big Request**
 Warm Darner
