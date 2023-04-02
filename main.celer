@@ -12,7 +12,7 @@ _project:
   url: ""
   version: 1.0.0
 _route:
-  - Glitch Setup:
+  - Great Plateau:
     - Line Color - Blue
     - _Material<Heart Vessel, 3>:
         line-color: rgb(0, 176, 240)
