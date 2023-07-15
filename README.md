@@ -13,7 +13,7 @@ The route prioritizes the following assumptions:
 
 **[You can view the route here](https://celer.itntpiston.app/#/gh/31PNMR/Hundo-EX-Glitchless)**
 
-You can see more about the route engine by visiting [iTNTPiston's GitHub](https://github.com/iTNTPiston/celer).
+You can see more about the route engine by visiting [Pistonight's GitHub](https://github.com/Pistonight/celer)).
 
 If you have any questions/corrections, please join the Discord server below and contact me there.
 
