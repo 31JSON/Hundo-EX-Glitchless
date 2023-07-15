@@ -9,7 +9,7 @@ The route prioritizes the following assumptions:
 - Most pictures will be taken.
 - All ores along the route will be gathered.
 - All drops from talus will be collected.
-- Wepaon selection is mostly at the discression of the runner.
+- Wepaon selection is mostly at the discretion of the runner.
 
 **[You can view the route here](https://celer.itntpiston.app/#/gh/31PNMR/Hundo-EX-Glitchless)**
 
