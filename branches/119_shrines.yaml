@@ -1,0 +1,81 @@
+- _Warp::Shrine::JitanSami
+- _Korok::Z62
+- _Korok::Z61
+- _Korok::Z57
+- _Korok::Z59
+- _Korok::Z58
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [4441.9375, 350.8125]
+- _Korok::Z56
+- Blow up rubble for wind
+- Land on pedestal:
+    coord: [4241.5625, 288.0625]
+- _Shrine::ShaiYota:
+    comment: "\u30B7\u30FB\u30E8\u30BF\u306E\u7960"
+- _Korok::Z36
+- _Korok::Z46
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "Master of the Wind/\u98A8\u3092\u675F\u306D\u3066\u5236\u3059\u308B\u8005\
+      \u3088"
+    coord: [4151.5625, 346.125]
+- _Korok::Z45
+- _Korok::Z55
+- _Korok::Z54
+- _Korok::Z53
+- _Korok::Z52
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [3526.25, 365.125]
+- _Shrine::RuccoMaag:
+    comment: "\u30EB\u30C3\u30B3\u30FB\u30DE\u306E\u7960"
+- _Korok::Z51
+- _Korok::N14
+- _Warp::TravelMedallion<-2780.8125,-2899.6875>
+- _Korok::H36
+- _Korok::H29
+- _Korok::H31
+- _Boss::Talus::Frost:
+    comment: "\u30AC\u30C1\u30ED\u30C3\u30AF"
+    coord: [-2144.75, -3082.5625]
+- .fury():
+    fury: 3
+    time-override: 1000
+- _Korok::H30
+- _Shrine::RokUwog:
+    comment: "\u30E9\u30FC\u30FB\u30AF\u30A2\u306E\u7960"
+- _Korok::H13
+- _Korok::H05
+- _Shrine::ShaGehma:
+    comment: "\u30B7\u30E3\u30FB\u30B2\u30DE\u306E\u7960"
+- _Korok::H06
+- _Shrine::QazaTokki:
+    comment: "\u30AB\u30B6\u30FB\u30C8\u30C3\u30AD\u306E\u7960"
+    notes: Barbarian Legs (Optional)
+- _Korok::H16
+- _Korok::H15
+- Contine to H22:
+    movements:
+    - to: [-1121.9375, -3385.4375]
+    - to: [-1131.0625, -3353.3125]
+    - to: [-1159.625, -3346.875]
+    - to: [-1174.3125, -3325.625]
+    - to: [-1175.8125, -3292.25]
+    - to: [-1177.875, -3267.125]
+    - to: [-1197.5, -3243.1875]
+    - to: [-1234.75, -3226.5]
+    - to: [-1234.8125, -3193.9375]
+- _Korok::H22:
+    movements:
+    - to: [-1110.8, 438.06, -3043.86]
+- _Korok::H14
+- _Korok::H37
+- "_Npc::SheikaFemale<Juannelle/\u30A4\u30C1\u30E8\u30A6>":
+    comment: "Stalhorse Pictured/\u9AA8\u306E\u99AC\u306E\u7D75"
+    coord: [-1641.5, -2561.625]
+- _Shrine::RinOyaa:
+    comment: "\u30EA\u30FB\u30E2\u30CA\u306E\u7960"
+    notes: Ancient core
+- _Korok::H52
+- _Korok::H58
+- _Korok::H62

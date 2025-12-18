@@ -1,0 +1,70 @@
+- Line Color - Purple
+- _Korok::K08:
+    movements:
+    - to: [1210.375, -2849.125]
+    - to: [1210.5, -2818.375]
+    - to: [685.13, 431.89, -2758.46]
+- _Korok::K07
+- _Korok::K06
+- _Korok::K05
+- _Korok::K11
+- From K11, go northeast to the peak that overlooks the Thyphlo Ruins.
+- To help aid in getting out, set a map pin on the enemy camp on the other side of
+  the forest.
+- .gale() from the peak and glide into dark forest:
+    gale: 1
+    notes: Look for glow of fires and then the orb.
+    time-override: 1000
+    coord: [64.0625, -2846.9375]
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    movements:
+    - to: [343.7, 279.8, -3117.2]
+- Place orb:
+    coord: [392.05, 279.63, -3120.37]
+- _Shrine::KetohWawai:
+    comment: "\u30AD\u30C8\u30FB\u30EF\u30EF\u30A4\u306E\u7960"
+    notes: Ancient core (Optional)
+- .gale() from a cryo block toward K04:
+    gale: 1
+    time-override: 1000
+    coord: [503.125, -3202]
+- _Korok::K04
+- _Korok::K01
+- _Material<White-Maned Lynel>:
+    comment: "\u767D\u9AEA\u306E\u30E9\u30A4\u30CD\u30EB"
+    notes: OB Shock; Collect Hoof, club
+    coord: [247.0, 173.39, -3668.5]
+- _Material<Lynel Hoof>:
+    comment: "\u30E9\u30A4\u30CD\u30EB\u306E\u3072\u3065\u3081"
+    icon-map: null
+    notes: Needed for quest
+- _Equipment::Weapon<Lynel Club>:
+    comment: "\u7363\u795E\u306E\u5927\u5263"
+    icon-map: null
+- _Tod::Morning:
+    icon-map: null
+    notes: Do this right after killing the lynel.
+- _Material<Dinraal Scale>:
+    comment: "\u30AA\u30EB\u30C9\u30E9\u306E\u30A6\u30ED\u30B3"
+    icon-map: null
+- _Tod::Morning:
+    icon-map: null
+- _Korok::K02
+- Rock for K03:
+    coord: [1205.52, 207.54, -3784.61]
+- _Korok::K03
+- _Material<Dinraal Claw>:
+    comment: "\u30AA\u30EB\u30C9\u30E9\u306E\u722A"
+    icon-map: null
+- _Tod::Morning:
+    icon-map: null
+- _Korok::E01
+- _Material<Dinraal Horn>:
+    comment: "\u30AA\u30EB\u30C9\u30E9\u306E\u89D2\u306E\u304B\u3051\u3089"
+    icon-map: null
+- _Korok::E02
+- _Snap::Quest<Skeleton>:
+    notes: Zoom in on head
+    coord: [2082.75, -3578.75]
+- _Korok::E03

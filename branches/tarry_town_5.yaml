@@ -1,0 +1,7 @@
+- _Warp::Shrine::DahHesho
+- "_Npc::SheikaMale<Hudson/\u30A8\u30CE\u30AD\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    coord: [3970.74, 233.6, -1623.47]
+- _Material<Heart Vessel, 1>:
+    coord: [3966.27, 233.84, -1611.22]

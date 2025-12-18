@@ -1,0 +1,329 @@
+- Line Color - Orange
+- _Warp::Shrine::RotaOoh:
+    color: rgb(254, 192, 0)
+- _Equipment::Weapon<Fire Rod>:
+    notes: Kill Wizzrobe for Fire Rod
+    coord: [-1696.09, 231.02, 1387.86]
+- _Korok::C85
+- _Korok::R80
+- _Korok::C86
+- _Korok::G29:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/G29.png)
+- _Shrine::DahKaso:
+    comment: "\u30C0\u30FB\u30AB\u30BD\u30FC\u306E\u7960"
+    notes: Ancient Core
+- _Warp::Shrine::RotaOoh
+- _Korok::C72
+- _Korok::C78
+- "_Npc::SheikaFemale<Aliza/\u30A4\u30E9\u30A4\u30B6>":
+    comment: "My Hero/\u308F\u305F\u3057\u306E\u52C7\u8005\u69D8\uFF01"
+    notes: Goodbye quest; Start the quest
+    coord: [-1400.0, 137.72, 1280.0]
+- "_Npc::SheikaMale<Toffa/\u30C8\u30FC\u30C6\u30C4>":
+    comment: "The Royal White Stallion/\u738B\u5BB6\u306E\u767D\u99AC"
+    notes: Start the quest
+    coord: [-1439.25, 137.72, 1278.45]
+- "_Npc::SheikaMale<Trott/\u30C8\u30ED\u30C3\u30C8>":
+    comment: "A Rare Find/\u8089\u98DF\u7CFB\u7537\u5B50\uFF1F\uFF01"
+    notes: Start the quest
+    coord: [-1432.5, 137.72, 1264.5]
+- _Shop<Beedle>:
+    comment: "\u30C6\u30EA\u30FC"
+    notes: Buy grasshoppers; Optional if you want to catch them later
+    coord: [-1421.55, 137.73, 1280.33]
+- _Discover<Tabantha Bridge Stable>:
+    comment: "\u30BF\u30D0\u30F3\u30BF\u5927\u6A4B\u99AC\u5BBF"
+    movements:
+    - to: [-1461, 1221.3125]
+    - to: [-1471.6875, 1194.75]
+    - to: [-1474.75, 1168.125]
+    - to: [-1459.8125, 1134.8125]
+    - to: [-1456, 1104.8125]
+    - to: [-1446.9375, 1084.3753]
+    - to: [-1445.4375, 1067.0625]
+    - to: [-1453.1875, 1043]
+    - to: [-1460.0625, 1032.375]
+    - to: [-1489.5, 1013.5625]
+    - to: [-1526.625, 1015.125]
+    - to: [-1560.125, 1012.25]
+    - to: [-1645.0625, 1019.25]
+    - to: [-1659.25, 1026.625]
+    - to: [-1676.0625, 1041.3125]
+    - to: [-1699.9375, 1044.75]
+    - to: [-1716.875, 1053.9375]
+    - to: [-1781.75, 1059.4375]
+    - to: [-1828, 1077.125]
+    - to: [-1873.3125, 1079.9375]
+    - to: [-1894.625, 1077.75]
+    - to: [-1919.875, 1068.0625]
+    - to: [-1937.5625, 1045.1875]
+    - to: [-1943.8125, 1035.5]
+    - to: [-1952.8125, 1001]
+    - to: [-1947.375, 964.75]
+    - to: [-1925.5, 936.875]
+    - to: [-1880.875, 906.75]
+    - to: [-1818.125, 873.1875]
+    - to: [-1784.8125, 849.5]
+    - to: [-1760.875, 834]
+    - to: [-1751.8125, 823.4375]
+    - to: [-1699.125, 789.3125]
+    - to: [-1668.0625, 755.8125]
+    - to: [-1644.25, 733.875]
+    - to: [-1643.6875, 645.9375]
+    - to: [-1638.5, 598.3125]
+    - to: [-1617.8125, 565.1875]
+    - to: [-1610.6875, 517.125]
+    - to: [-1630, 460.9375]
+    - to: [-1634.0625, 400.5]
+    - to: [-1637.3125, 332.5625]
+    - to: [-1673.6875, 190.8125]
+    - to: [-1706.0625, 70]
+    - to: [-1720.0625, 29.5]
+    - to: [-1771, -33.01879198507686]
+    - to: [-1808, -110.02162365406093]
+    - to: [-1849, -170.02383014937368]
+    - to: [-1828, -261.0271766672631]
+    - to: [-1857.875, -287.5625]
+    - to: [-1936.375, -268.375]
+    - to: [-1947.25, -263.6875]
+    - to: [-1986.75, -234.4375]
+    - to: [-2069.625, -194.18756]
+    - to: [-2114.875, -171.1875]
+    - to: [-2148.8125, -160.875]
+    - to: [-2233.8125, -145.125]
+    - to: [-2300.4375, -142.75]
+    - to: [-2385.4375, -149.5625]
+    - to: [-2468.0625, -163.5625]
+    - to: [-2592.3125, -200.875]
+    - to: [-2630.0625, -224.0625]
+    - to: [-2718.9375, -254.125]
+    - to: [-2740.3125, -268.9375]
+    - to: [-2779.75, -338.3125]
+    - to: [-2805.75, -428.25]
+    - to: [-2809.9375, -461.375]
+    - to: [-2793.5, -504.75]
+    - to: [-2793.6875, -523.375]
+    - to: [-2805.25, -545]
+    - to: [-2819.0625, -556]
+    - to: [-2879.9375, -572.6875]
+    - to: [-2919.125, -580.3125]
+    - to: [-2931.625, -547.75]
+- _Material<Spicy Peppers>:
+    comment: "\u30DD\u30AB\u30DD\u30AB\u8349\u306E\u5B9F"
+    movements:
+    - to: [-2899.45, 276.27, -552.89]
+    - to: [-2899.97, 276.27, -553.12]
+    - to: [-2899.82, 276.27, -553.36]
+- _Material<Wildberry>:
+    comment: "\u30A4\u30C1\u30B4"
+    movements:
+    - to: [-2909.05, 276.78, -565.48]
+    - to: [-2909.05, 276.78, -565.48]
+    - to: [-2909.58, 276.78, -565.85]
+- _Tod::Noon:
+    icon-map: null
+    notes: And also not raining
+- "_Npc::SheikaMale<Toren/\u30C8\u30EA\u30E5\u30FC>":
+    comment: "A Gift for the Great Fairy/\u5927\u5996\u7CBE\u3055\u307E\u306E\u304A\
+      \u3075\u305B"
+    notes: Start quest
+    coord: [-2916.0, 274.73, -561.0]
+- "_Npc::SheikaMale<Geggle/\u30B4\u30FC\u30B0>":
+    comment: "Cliffside Etchings/\u7D76\u58C1\u306E\u6587\u69D8"
+    notes: Start quest
+    coord: [-2951.3125, -497.5625]
+- _Shrine::ShaeLoya:
+    comment: "\u30B7\u30E3\u30AA\u30FB\u30E8\u306E\u7960"
+    notes: Falcon Bow
+- _Discover<Great Fairy Fountain>:
+    comment: "\u5927\u5996\u7CBE\u306E\u6CC9"
+    movements:
+    - to: [-2994.5, -587.9050842486095]
+    - to: [-3262.5, -577.4099816215321]
+    - to: [-3301, -557.4193099509066]
+    - to: [-3341.5, -520.4365673602506]
+    - to: [-3401, -521.4361009437816]
+    - to: [-3450, -522.9354013190787]
+    - to: [-3498, -543.4258397814692]
+    - to: [-3526.5, -606.3964555439379]
+    - to: [-3545, -615.3922577957192]
+    - to: [-3606, -607.895755919235]
+    - to: [-3646.25, -640]
+    - to: [-3539.6875, -747.25]
+- _Discover<Rito Stable>:
+    comment: "\u30EA\u30C8\u306E\u99AC\u5BBF"
+    movements:
+    - to: [-3646.25, -640]
+    - to: [-3663, -661.3708026381573]
+    - to: [-3696.5, -680.3619407252509]
+    - to: [-3730, -721.842584441798]
+    - to: [-3753.5, -738.3348885700634]
+    - to: [-3760, -772.8187972018914]
+    - to: [-3736, -801.3055043325321]
+    - to: [-3700.5, -807.3027058337202]
+    - to: [-3642, -818.2975752525635]
+    - to: [-3547.5, -861.7772861361736]
+    - to: [-3511.5, -853.2812506761575]
+    - to: [-3457.5, -869.7735548044229]
+    - to: [-3424.5, -923.7483683151108]
+    - to: [-3387.5, -953.2346090292826]
+    - to: [-3373.5, -958.2322769469388]
+    - to: [-3361.5, -985.7194504940485]
+    - to: [-3336.5, -994.7152527458297]
+    - to: [-3258, -1079.1758405542205]
+    - to: [-3235, -1132.151120481377]
+    - to: [-3180.5, -1166.1352623214398]
+    - to: [-3170, -1185.6261672002988]
+    - to: [-3155, -1195.6215030356116]
+    - to: [-3131.5, -1252.095150505127]
+    - to: [-3098.5, -1329.5590032287992]
+    - to: [-3087, -1381.5347495724245]
+    - to: [-3046, -1431.5114287489869]
+    - to: [-3039.5, -1462.4969698384557]
+    - to: [-3031, -1490.483910177331]
+    - to: [-3031.5, -1602.4316715328314]
+    - to: [-3073.5, -1644.9118488329095]
+    - to: [-3080, -1647.9104495835036]
+    - to: [-3097.5, -1664.9025205035346]
+    - to: [-3174, -1720.8764011812846]
+    - to: [-3234.5, -1790.8437520284724]
+    - to: [-3259, -1803.3379218226132]
+    - to: [-3255.5625, -1757.625]
+- _Material<Wildberry>:
+    comment: "\u30A4\u30C1\u30B4"
+    movements:
+    - to: [-3219.54, 226.45, -1774.04]
+    - to: [-3220.5, 226.63, -1774.17]
+- _Tod::Noon:
+    comment: If needed to get Beetle to the stable and cold darners.
+    icon-map: null
+- "_Shop<Beedle/\u30C6\u30EA\u30FC>":
+    notes: Buy Warm Darner for quest
+    coord: [-3221.02, 229.42, -1792.25]
+- "_Npc::SheikaMale<Lester/\u30EC\u30B9>":
+    comment: "Curry for What Ails You/\u5BD2\u3044\u6642\u306B\u306F\u30AB\u30EC\u30FC\
+      \u3092\uFF01"
+    notes: Start quest
+    coord: [-3267.07, 224.6, -1773.77]
+- _Material<Cold Darner, 2>:
+    icon-map: null
+    notes: Needed for two quests; static spawns
+- _Material<Spicy Peppers>:
+    comment: "\u30DD\u30AB\u30DD\u30AB\u8349\u306E\u5B9F"
+    movements:
+    - to: [-3268.39, 228.08, -1819.81]
+- _Material<Wildberry>:
+    comment: "\u30A4\u30C1\u30B4"
+    movements:
+    - to: [-3285.83, 226.86, -1791.48]
+    - to: [-3286.67, 226.68, -1791.96]
+- _Material<Wildberry>:
+    comment: "\u30A4\u30C1\u30B4"
+    movements:
+    - to: [-3290.29, 227.11, -1797.96]
+    - to: [-3290.98, 226.93, -1797.27]
+- _Material<Wood>:
+    icon-map: null
+    notes: Farm two rounds of wood
+- _Shop<Slippery Falcon>:
+    comment: "\u3061\u3085\u3093\u5929\u5802"
+    notes: Buy Tabantha Wheat, Cane Sugar, Goat Butter, Sunshroom
+    movements:
+    - to: [-3306.875, -1805.5]
+    - to: [-3362.875, -1804.375]
+    - to: [-3389.25, -1817.625]
+    - to: [-3419.25, -1872.25]
+    - to: [-3445.625, -1879.75]
+    - to: [-3469.25, -1854.875]
+    - to: [-3504.5, -1823.125]
+    - to: [-3540, -1820.125]
+    - to: [-3644.875, -1820.125]
+- "_Npc::Rito<Kaneli/\u30AB\u30FC\u30F3>":
+    comment: "Divine Beast Vah Medoh/\u98A8\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30E1\
+      \u30C9\u30FC"
+    coord: [-3627.25, -1830.8125]
+- "_Npc::Rito<Saki/\u30B5\u30AD>":
+    comment: "Divine Beast Vah Medoh/\u98A8\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30E1\
+      \u30C9\u30FC"
+    coord: [-3606.625, -1822.9375]
+- _Korok::T02
+- _Cook<Needed Food>:
+    coord: [-3792.6, 267.34, -2319.19]
+- "_Npc::Rito<Teba/\u30C6\u30D0>":
+    comment: "Divine Beast Vah Medoh/\u98A8\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30E1\
+      \u30C9\u30FC"
+    coord: [-3798.52, 267.35, -2314.14]
+- _Equipment::Bow<Falcon Bow>:
+    comment: "\u30CF\u30E4\u30D6\u30B5\u306E\u5F13"
+    icon-map: null
+- Enter Medoh:
+    icon-doc: medoh-enter
+    counter: .split(SPLIT)
+- _Chest<Ancient Core>:
+    comment: "\u53E4\u4EE3\u306E\u30B3\u30A2"
+    icon-map: null
+- _Chest<Giant Ancient Core>:
+    comment: "\u53E4\u4EE3\u306E\u5DE8\u5927\u306A\u30B3\u30A2"
+    icon-map: null
+    notes: Chest on Medoh's nose
+- _Material<Heart Vessel, 1>:
+    icon-map: null
+- Revali's Gale:
+    comment: "\u82F1\u5091\u30EA\u30FC\u30D0\u30EB\u306E\u731B\u308A"
+    icon: medoh-done
+    counter: .split(SPLIT)
+    movements:
+    - to: [-3664.125, -1772.8125]
+      warp: True
+- "_Npc::Rito<Kaneli/\u30AB\u30FC\u30F3>":
+    comment: "Divine Beast Vah Medoh/\u98A8\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30E1\
+      \u30C9\u30FC"
+    coord: [-3627.25, -1830.8125]
+- _Chest::Special<Great Eagle Bow>:
+    comment: "\u30AA\u30AA\u30EF\u30B7\u306E\u5F13"
+    coord: [-3630.37, 323.57, -1828.17]
+- _Shrine::AkhVaquot:
+    comment: "\u30A2\u30B3\u30FB\u30F4\u30A1\u30FC\u30BF\u306E\u7960"
+    notes: Ancient Core - .link([Akh Va'quot Solution]https://github.com/31PNMR/hundo-ex-mgr-glitch/blob/880689369edef6b0911ef91b97dd76a420e8e85a/graphics/AkhVaquot-Solution.png)
+- "_Npc::Rito<Amali/\u30CF\u30DF\u30E9>":
+    comment: "Find Kheel/\u30AD\u30FC\u30EB\u3092\u63A2\u3057\u3066\uFF01"
+    notes: Start Quest; Standing on platform next to shrine.
+    coord: [-3668.51, 321.49, -1769.96]
+- _Korok::T10:
+    notes: Collect all apples from offer apple koroks.
+- Rock for T13:
+    coord: [-4020.25, 271.52, -1777.38]
+- _Korok::T13
+- "_Npc::Rito<Kheel/\u30AD\u30FC\u30EB>":
+    comment: "Recital at Warbler's Nest/\u30EA\u30C8\u306E\u5144\u5F1F\u5CA9"
+    notes: Start quest
+    coord: [-3979.25, -1751.3125]
+- _Korok::T16
+- _Chest<Sapphire>:
+    coord: [-4131.64, 213.47, -1730.27]
+- _Chest<Shock Arrow x5>:
+    comment: "\u96FB\u6C17\u306E\u77E2 x5"
+    coord: [-4159.56, 211.33, -1695.18]
+- _Korok::T12
+- _Korok::T09
+- _Korok::T04
+- _Shrine::ShaWarvo:
+    comment: "\u30B7\u30E3\u30FB\u30BF\u30EF\u306E\u7960"
+- _Discover<Hebra Trailhead Lodge>:
+    comment: "\u30D8\u30D6\u30E9\u5C71\u8108\u767B\u5C71\u53E3\u306E\u5C0F\u5C4B"
+    coord: [-3572.75, -2275.625]
+- _Korok::T05
+- Land on pilar:
+    coord: [-3087.0, 226.93, -2120.0]
+- _Material<Voltfin Trout>:
+    comment: "\u30D3\u30EA\u30D3\u30EA\u30DE\u30B9"
+    notes: Needed for quest
+    coord: [-3015.9, 218.06, -2154.81]
+- _Korok::T03
+- _Equipment::Shield<Kite Shield>:
+    comment: "\u98A8\u51EA\u306E\u76FE"
+    notes: Optional; Just for fun; Can use gales to get up to it
+    coord: [-2881.79, 383.51, -2159.86]
+- .gale():
+    gale: 3
+    time-override: 1000

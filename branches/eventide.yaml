@@ -1,0 +1,127 @@
+- Line Color - Green
+- _Warp::Tower::Hateno:
+    color: rgb(146, 207, 80)
+- .gale() from the tower in the direction of F07:
+    gale: 1
+- _Korok::F07
+- _Korok::F13
+- _Boss::Hinox::Black:
+    comment: "\u9ED2\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [2420.875, 2782.75]
+- _Chest<Gold Rupee>:
+    coord: [2421.84, 326.6, 2779.31]
+- Place orb:
+    coord: [2616.5, 2823.3125]
+- _Korok::F14
+- _Boss::Hinox::Red:
+    comment: "\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [2768.25, 2711.375]
+- Place orb:
+    coord: [2646.125, 2820.125]
+- "_Npc<Ancient Text/\u53E4\u4EE3\u306E\u30C6\u30AD\u30B9\u30C8>":
+    comment: "The Three Giant Brothers/\u5DE8\u4EBA\u4E09\u5144\u5F1F\u306E\u79D8\u5BC6"
+    coord: [2654.25, 2843.5625]
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [2693.625, 2967.625]
+- _Material<Courser Bee Honey, 6>:
+    movements:
+    - to: [2712.23, 274.8, 2929.02]
+    - to: [2702.46, 275.15, 2976.73]
+    - to: [2680.84, 284.78, 2983.81]
+    - to: [2677.58, 280.46, 2982.2]
+    - to: [2642.21, 287.03, 2978.73]
+    - to: [2628.29, 274.81, 2957.61]
+- Place orb:
+    coord: [2630.1875, 2849.625]
+- _Shrine::TawaJinn:
+    comment: "\u30BF\u30EF\u30FB\u30B8\u30CC\u306E\u7960"
+- _Korok::F22:
+    comment: Cob
+- _Korok::F18
+- _Korok::N64
+- _Boss::Hinox::Red:
+    comment: "\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [3210.125, 2996.5]
+- _Korok::F32
+- _Shrine::MuwoJeem:
+    comment: "\u30E0\u30AA\u30FB\u30B8\u30FC\u30E0\u306E\u7960"
+- _Korok::F33
+- Rock for N65:
+    coord: [3404.85, 219.83, 3111.9]
+- _Korok::N65
+- .gale() across toward N61:
+    gale: 1
+- Rock for N61:
+    coord: [3485.9, 144.24, 2662.33]
+- _Korok::N61
+- .gale() out to the gold rupee chest:
+    gale: 1
+- _Chest<Gold Rupee>:
+    comment: "\u91D1\u30EB\u30D4\u30FC"
+    coord: [3773.4375, 2647.4375]
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "The Hero's Cache/\u52C7\u8005\u306E\u84C4\u3048\uFF1F"
+    coord: [3745.9375, 2629.375]
+- .gale() back to the shore for N60:
+    gale: 1
+- _Korok::N60
+- "_Npc<Defeat Enemies/\u6575\u3092\u5012\u3059>":
+    comment: "The Sheep Rustlers/\u306B\u3063\u304F\u304D\u30D2\u30C4\u30B8\u6CE5\u68D2"
+    coord: [4121.98, 113.17, 2369.62]
+- _Chest<Ruby>:
+    icon-map: null
+- _Korok::N62
+- _Korok::N54
+- _Korok::N56
+- _Boss::Talus::Luminous:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u591C\u5149\uFF09"
+    coord: [4558.8125, 2465]
+- .fury():
+    fury: 2
+- 3 Rocks for N63:
+    movements:
+    - to: [4561.12, 105.47, 2502.6]
+    - to: [4541.57, 106.04, 2515.59]
+    - to: [4523.53, 107.93, 2515.6]
+    - to: [4529.4, 107.02, 2517.76]
+    - to: [4516.94, 105.84, 2549.58]
+    - to: [4536.43, 106.3, 2528.23]
+- _Korok::N63
+- _Korok::N57
+- _Korok::N55
+- _Warp::Shrine::MuwoJeem
+- _Tod::Morning:
+    icon-map: null
+- Eat a hearty food, endra food and speed food (if needed)
+- Hard Save before gliding out to the island
+- Land in the water at the location indicated, and then make a cryo block
+- .gale() from the cryo block toward the hinox, and shoot it in mid air, then glide back to the water:
+    gale: 1
+    icon: npc-rito
+    coord: [4457.8125, 3653]
+- Do not hit the orb with arrows. It will fly off in a random direction.
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [4537.0625, 3701.9375]
+- _Equipment::Weapon<Boat Oar>:
+    coord: [4473.02, 106.21, 3651.3]
+- Get orb:
+    coord: [4536.23, 111.24, 3701.37]
+- Place orb:
+    coord: [4480.95, 140.54, 3748.21]
+- Get orb:
+    coord: [4642.04, 122.56, 3626.93]
+- Place orb:
+    coord: [4498.17, 108.0, 3394.22]
+- Get orb:
+    coord: [4652.26, 168.67, 3746.62]
+- Place orb:
+    coord: [4673.72, 166.74, 3744.34]
+- .fury() to kill the enemies at the 3rd orb:
+    fury: 1
+- .gale() up to the shrine:
+    gale: 1
+- _Shrine::KorguChideh:
+    comment: "\u30AF\u30B0\u30FB\u30C1\u30C7\u306E\u7960"
+    notes: Gold Rupee

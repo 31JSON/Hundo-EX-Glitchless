@@ -1,0 +1,28 @@
+title: Hundo EX Glitchless
+version: 2.0.0
+
+config:
+- tags:
+    split:
+      background: black
+      color: white
+      split-type: Custom
+  splits:
+  - split
+
+route:
+  use: ./main.yaml
+config:
+- use: Pistonight/celer-presets/botw/full.yaml
+- tags:
+    split:
+      background: black
+      color: white
+      split-type: Custom
+  splits:
+  - split
+  plugins:
+  - use: variables
+  - use: split-format
+    with:
+      Shrines: "[.var(pad02:counter-shrine)] .prop(text)"

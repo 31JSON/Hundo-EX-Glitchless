@@ -1,0 +1,150 @@
+- Line Color - Purple
+- _Warp::Shrine::TakamaShiri
+- _Korok::W13
+- _Korok::W18
+- _Korok::W25
+- _Boss::Molduga:
+    comment: "\u30E2\u30EB\u30C9\u30E9\u30B8\u30FC\u30AF"
+    coord: [-4832.61, 133.21, 2800.42]
+- _Material<Molduga Gut>:
+    comment: "\u30E2\u30EB\u30C9\u30E9\u30B8\u30FC\u30AF\u306E\u809D"
+    icon-map: null
+- _Shrine::ThoKayu:
+    comment: "\u30C8\u30FB\u30AB\u30E6\u30FC\u306E\u7960"
+    notes: .link([Video]https://youtu.be/PHfkeKzyRyU)
+- _Boss::Molduga:
+    comment: "\u30E2\u30EB\u30C9\u30E9\u30B8\u30FC\u30AF"
+    coord: [-4555.62, 137.14, 3256.35]
+- _Chest<Silver Rupee>:
+    coord: [-4604.3, 139.49, 3190.4]
+- _Korok::W51
+- _Shrine::HawaKoth:
+    comment: "\u30CF\u30EF\u30FB\u30AB\u30A4\u306E\u7960"
+    notes: .link([Video]https://youtu.be/hZWTnVsyWHA) - Ancient Core (Optional)
+- "_Snap::Quest<Gerudo Great Skeleton/\u30B2\u30EB\u30C9\u306E\u5927\u5316\u77F3>":
+    coord: [-4824.1875, 3715.875]
+- "_Npc::Gerudo<Barta/\u30D0\u30EC\u30C3\u30BF>":
+    comment: "The Search for Barta/\u30D0\u30EC\u30C3\u30BF\u3092\u63A2\u3057\u3066"
+    coord: [-4818.86, 130.23, 3713.28]
+- _Korok::W65
+- _Material<Endura Carrot>:
+    movements:
+    - to: [-4886.8, 127.35, 3789.54]
+    - to: [-4892.51, 127.72, 3795.16]
+    - to: [-4897.23, 127.67, 3801.39]
+    - to: [-4897.46, 127.6, 3802.48]
+- _Discover<Great Fairy Fountain>:
+    comment: "\u5927\u5996\u7CBE\u306E\u6CC9"
+    coord: [-4870.9375, 3824.5625]
+- _Chest<Sapphire>:
+    coord: [-4618.98, 130.13, 3547.01]
+- _Korok::W55
+- _Korok::W61
+- _Korok::W66
+- _Boss::Molduga:
+    comment: "\u30E2\u30EB\u30C9\u30E9\u30B8\u30FC\u30AF"
+    coord: [-4191.12, 126.91, 3797.45]
+- _Boss::Molduga:
+    comment: "\u30E2\u30EB\u30C9\u30E9\u30B8\u30FC\u30AF"
+    coord: [-3799.06, 118.76, 3653.43]
+- _Korok::W57
+- _Korok::W56
+- "_Npc::Gerudo<Tali/\u30D1\u30D5\u30E5\u30FC>":
+    comment: "The Undefeated Champ/\u7121\u6557\u306E\u5973\u738B"
+    coord: [-3760.2, 154.8, 3114.8]
+- _Shrine::RaqaZunzo:
+    comment: "\u30E9\u30AD\u30E5\u30FB\u30A6\u30ED\u306E\u7960"
+    notes: .link([Video]https://youtu.be/04cJ674lLgY) - Radiant Shield (Optional)
+- .gale() from the location indicated up to W42:
+    gale: 1
+    icon: npc-rito
+    coord: [-3881, 2987.125]
+- _Korok::W42
+- _Tod::Noon:
+    icon-map: null
+    notes: If between 8pm and 6am
+- "_Npc::Gerudo<Calyban/\u30AD\u30E3\u30EA\u30D0\u30F3>":
+    comment: "The Mystery Polluter/\u72AF\u4EBA\u306F\u8AB0\u3060\uFF01"
+    coord: [-3915.29, 169.2, 2954.6]
+- "_Npc::Gerudo<Liana/\u30E9\u30F3\u30B8\u30A7>":
+    comment: "The Search for Barta/\u30D0\u30EC\u30C3\u30BF\u3092\u63A2\u3057\u3066"
+    coord: [-3912.5625, 2931.0625]
+- "_Npc::Gerudo<Malena/\u30E1\u30EB\u30A8\u30CA>":
+    comment: "Medicinal Molduga/\u30E2\u30EB\u30C9\u30E9\u30B8\u30FC\u30AF\u306E\u809D"
+    notes: At noon, she will be with the guards.
+    coord: [-3855.29, 149.47, 2898.87]
+- "_Npc::Gerudo<Dalia/\u30C6\u30A3\u30AF\u30EB>":
+    comment: "The Mystery Polluter/\u72AF\u4EBA\u306F\u8AB0\u3060\uFF01"
+    coord: [-3834.625, 2852.5]
+- "_Npc::Gerudo<Isha/\u30A2\u30A4\u30B7\u30E3>":
+    comment: "Tools of the Trade/\u5B9D\u77F3\u306F\u304A\u597D\u304D\uFF1F"
+    coord: [-3834.85, 149.52, 2875.26]
+- "_Npc::Gerudo<Riju/\u30EB\u30FC\u30B8\u30E5>":
+    comment: "The Thunder Helm/\u30B2\u30EB\u30C9\u306E\u81F3\u5B9D \u96F7\u9CF4\u306E\
+      \u515C\uFF01"
+    coord: [-3886.4375, 2968.25]
+- "_Npc::Gerudo<Greta/\u30A4\u30B0\u30EC\u30C3\u30BF>":
+    comment: "The Secret Club's Secret/\u79D8\u5BC6\u30AF\u30E9\u30D6\u306E\u79D8\u5BC6"
+    notes: Dialog Options 3 3 3 4
+    coord: [-3789.95, 149.36, 2922.42]
+- _Material<Heart Vessel, 2>:
+    coord: [-3769.63, 148.98, 2944.35]
+- _Korok::W43
+- _Korok::W37
+- _Korok::W44:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W44.png)
+- .gale() from the pillar indicated over to the top of the statue for W40:
+    gale: 1
+    icon: npc-rito
+    coord: [-2757.625, 2984.375]
+- _Korok::W40
+- .gale() over to the statue directly north:
+    gale: 1
+- _Korok::W35:
+    notes: Ancient bow, bomb arrow
+    movements:
+    - to: [-2693.25, 2730]
+    - to: [-2628.11, 168.49, 2751.21]
+- Ball 1 (Yellow):
+    movements:
+    - to: [-2691.0, 171.96, 2732.8]
+    - to: [-2691.0, 104.3, 2781.75]
+- Ball 2 (Orange):
+    movements:
+    - to: [-2748.0, 113.6, 2764.7]
+    - to: [-2714.09, 104.3, 2790.42]
+- Ball 3 (Purple):
+    movements:
+    - to: [-2710.48, 104.64, 2825.22]
+    - to: [-2668.93, 104.3, 2835.59]
+- Ball 4 (Grey):
+    movements:
+    - to: [-2693.0, 104.65, 2839.1]
+    - to: [-2667.91, 104.3, 2790.93]
+- Ball 7 (Green):
+    movements:
+    - to: [-2636.1, 107.0, 2761.8]
+    - to: [-2659.24, 104.3, 2813.5]
+- Ball 6 (Red):
+    movements:
+    - to: [-2658.1, 104.5, 2821.8]
+    - to: [-2722.65, 104.3, 2813.5]
+- _Shrine::KorshOhu:
+    comment: "\u30AD\u30E7\u30B7\u30FB\u30AA\u30FC\u306E\u7960"
+    notes: .link([Video]https://youtu.be/fjrT1yIpDmQ) - .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/Heroines_Map_Directions.png)
+- _Warp::Tower::Wasteland
+- _Korok::W30:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W30.png)
+- _Korok::W19
+- _Shrine::KayNoh:
+    comment: "\u30B1\u30FC\u30FB\u30CE\u30A4\u306E\u7960"
+    notes: .link([Video]https://youtu.be/qBkW96PEN3E)
+- _Korok::W15
+- "_Npc::SheikaMale<Sesami/\u30B4\u30DE\u30CA>":
+    comment: "Missing in Action/\u30B2\u30EB\u30C9\u30AD\u30E3\u30CB\u30AA\u30F3\u5931\
+      \u8E2A\u4E8B\u4EF6"
+    coord: [-2797.53, 135.05, 2240.97]
+- "_Npc::SheikaMale<Pirou/\u30D4\u30EB\u30A8>":
+    comment: "Rushroom Rush!/\u30B4\u30FC\u30B4\u30FC\u30C0\u30B1 GoGo\uFF01"
+    notes: If you don't have 55 rushrooms, come back at the end of the run.
+    coord: [-2796.5, 2240.25]

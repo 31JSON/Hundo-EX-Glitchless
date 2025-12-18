@@ -1,0 +1,140 @@
+- Line Color - Green
+- Zora Stone Monument 5:
+    color: rgb(146, 207, 80)
+    comment: "\u77F3\u7891 5"
+    icon: location
+    coord: [2838.09, 228.01, 188.33]
+- _Korok::Z43
+- _Korok::Z44
+- _Korok::Z33:
+    movements:
+    - to: [3116.6875, 264.6875]
+    - to: [3132.75, 238.3125]
+    - to: [3156, 205.4375]
+    - to: [3177.375, 176.3125]
+    - to: [3190.875, 158.5625]
+    - to: [3178.5, 110.75]
+    - to: [3181.25, 73.125]
+    - to: [3191.6875, 51.9375]
+    - to: [3206.76, 312.25, 23.68]
+- _Material<Fleet-Lotus Seeds, 4>:
+    icon-map: null
+- _Discover<Luto's Crossing>:
+    comment: "\u30E9\u30EB\u30FC\u30C8\u5927\u6A4B"
+    movements:
+    - to: [3075.5625, 4.0625]
+- Zora Stone Monument 4:
+    comment: "\u77F3\u7891 4"
+    icon: location
+    coord: [3099.83, 236.67, 70.72]
+- _Material<Hot-Footed Frog, 5>:
+    comment: "\u30B4\u30FC\u30B4\u30FC\u30AC\u30A8\u30EB"
+    icon-map: null
+    notes: For quest
+- .gale() across:
+    gale: 1
+    notes: From the edge next to the monument, to the wall on the other side. Climb
+      up and go to monument 8.
+    time-override: 1000
+    movements:
+    - to: [3106.4375, 43.4375]
+    - to: [3197.125, -61.4375]
+- Zora Stone Monument 8:
+    comment: "\u77F3\u7891 8"
+    icon: location
+    movements:
+    - to: [3203.25, -58.9375]
+    - to: [3218.375, -72.5625]
+    - to: [3260.31, 241.83, -145.22]
+- _Korok::Z25
+- "_Npc::ZoraMale<King Dorephan/\u30C9\u30EC\u30D5\u30A1\u30F3>":
+    comment: "Divine Beast Vah Ruta/\u6C34\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30EB\
+      \u30C3\u30BF"
+    coord: [3338.375, -551.9375]
+- _Material<Stamina Vessel, 1>:
+    coord: [3316.89, 256.04, -503.94]
+- _Shrine::NeezYohma:
+    comment: "\u30CD\u30C5\u30FB\u30E8\u30DE\u306E\u7960"
+    notes: .link([Video]https://youtu.be/79eCN-QQI_E)
+- "_Npc::ZoraMale<Sidon/\u30B7\u30C9>":
+    comment: "Divine Beast Vah Ruta/\u6C34\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30EB\
+      \u30C3\u30BF"
+    coord: [3302.9375, -474.25]
+- _Korok::Z18:
+    movements:
+    - to: [3294.25, -454.75]
+    - to: [3310.5625, -449.9375]
+    - to: [3326.75, -458.5]
+    - to: [3335.375, -472.9375]
+    - to: [3332.5, -496.125]
+    - to: [3346.875, -508.9375]
+    - to: [3378.3125, -494.4375]
+    - to: [3398.75, -487.0625]
+    - to: [3481.6875, -488.3125]
+    - to: [3540.6875, -486.4375]
+    - to: [3564.8125, -456.875]
+    - to: [3589.5, -422.375]
+    - to: [3542.0625, -400.1875]
+    - to: [3591.4375, -417.1875]
+    - to: [3594.5625, -412]
+    - to: [3596.375, -402.4375]
+    - to: [3520.375, -383.125]
+- .gale() up for Z26:
+    gale: 1
+    time-override: 1000
+- _Korok::Z26
+- "East Reservoir Lake/\u6771\u306E\u8CAF\u6C34\u6E56":
+    comment: "Divine Beast Vah Ruta/\u6C34\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30EB\
+      \u30C3\u30BF"
+    coord: [3596.0625, -342.875]
+- Enter Ruta:
+    icon: ruta-enter
+    notes: .link([Video]https://youtu.be/s8UMMQmUioQ?t=2884)
+    counter: .split(SPLIT)
+- _Material<Heart Vessel, 1>:
+    icon-map: null
+- Mipha's Grace:
+    comment: "\u82F1\u5091\u30DF\u30D5\u30A1\u30FC\u306E\u7948\u308A"
+    icon: ruta-done
+    counter: .split(SPLIT)
+    movements:
+    - to: [3284, -431.75]
+      warp: True
+- "_Npc::ZoraMale<King Dorephan/\u30C9\u30EC\u30D5\u30A1\u30F3>":
+    comment: "Divine Beast Vah Ruta/\u6C34\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30EB\
+      \u30C3\u30BF"
+    coord: [3338.375, -551.9375]
+- _Tod::Noon:
+    icon-map: null
+    notes: If between 8pm and 9am
+- "_Npc::ZoraFemale<Laflat/\u30D5\u30E9\u30E9\u30C3\u30C8>":
+    comment: "Lynel Safari/\u30E9\u30A4\u30CD\u30EB\u8ABF\u67FB"
+    coord: [3348.95, 255.66, -513.31]
+- "_Npc::ZoraMale<Fronk/\u30D5\u30FC\u30AD\u30E5>":
+    comment: "A Wife Washed Away/\u6D41\u3055\u308C\u305F\u5AC1"
+    notes: Start quest
+    coord: [3344.375, -471.9375]
+- "_Npc::ZoraFemale<Laruta/\u30EB\u30E9\u30C1\u30E5>":
+    comment: "The Ceremonial Song/\u82F1\u5091\u796D\u306E\u8A69"
+    notes: Start quest
+    coord: [3299.0625, -522.125]
+- "_Npc::ZoraMale<Tumbo/\u30DD\u30F3\u30C6>":
+    comment: "Frog Catching/\u96E8\u3068\u304D\u3069\u304D\u30AB\u30A8\u30EB"
+    coord: [3320.59, 244.66, -474.01]
+- "_Npc::ZoraMale<Ledo/\u30EC\u30C8\u30FC\u30AC\u30F3>":
+    comment: "Luminous Stone Gathering/\u591C\u5149\u77F3\u53CE\u96C6"
+    coord: [3290.09, 244.86, -451.28]
+- "_Npc::ZoraMale<Gruve/\u30CE\u30FC\u30EB>":
+    comment: "Diving is Beauty/\u98DB\u3073\u8FBC\u307F\u306B\u76EE\u899A\u3081\u305F\
+      \u7537"
+    coord: [3292.3125, -520.3125]
+- "_Npc::ZoraFemale<Torfeau/\u30C8\u30EB\u30D5\u30A9\u30FC>":
+    comment: "The Giant of Ralis Pond/\u30E9\u30EB\u30B9\u6C60\u306E\u5DE8\u4EBA\u8A0E\
+      \u4F10"
+    notes: Start quest
+    coord: [3300.84, 255.66, -505.93]
+- "_Npc::ZoraMale<Jiahto/\u30B8\u30A2\u30FC\u30C8>":
+    comment: "Zora Stone Monuments/\u30BE\u30FC\u30E9\u306E\u77F3\u7891\u3092\u63A2\
+      \u3057\u3066"
+    notes: Start quest
+    coord: [3340.25, 256.66, -564.31]

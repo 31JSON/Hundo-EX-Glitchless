@@ -1,0 +1,131 @@
+- Line Color - Green
+- _Chest<Topaz>:
+    coord: [-137.15, 134.04, -295.0]
+- _Korok::C33
+- _Korok::C35
+- _Memory::SacredGrounds:
+    comment: "\u4EEE\u521D\u3081\u306E\u5100\u5F0F"
+- "_Chest::Special<Phantom Armor/\u30D5\u30A1\u30F3\u30C8\u30E0\u306E\u93A7>":
+    comment: "EX Treasure Phantasma/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u5922\
+      \u5E7B\u306E\u93A7"
+    coord: [-245.8, 124.56, -86.58]
+- _Korok::C43
+- _Korok::C42
+- _Korok::C41
+- _Korok::C40
+- _Korok::C39
+- _Korok::C38
+- _Material<Acorn, 6>:
+    movements:
+    - to: [-1305.0, 114.27, 232.42]
+    - to: [-1311.3, 114.29, 227.12]
+    - to: [-1311.61, 114.29, 226.32]
+    - to: [-1312.52, 114.3, 226.67]
+    - to: [-1313.59, 114.32, 232.07]
+    - to: [-1313.29, 114.32, 232.87]
+- _Korok::C36
+- _Chest<Opal>:
+    coord: [-1381.0, 114.3, 280.5]
+- _Material<Acorn, 12>:
+    notes: Check inventory count. Make sure to have 30. If not there are some on Plat
+      between P10 and P06, or north of R73 on Satori.
+    movements:
+    - to: [-1380.21, 114.35, 256.06]
+    - to: [-1380.51, 114.35, 255.26]
+    - to: [-1381.43, 114.36, 255.61]
+    - to: [-1387.73, 114.64, 250.31]
+    - to: [-1388.95, 114.51, 249.86]
+    - to: [-1388.04, 114.54, 249.51]
+    - to: [-1365.64, 114.34, 216.29]
+    - to: [-1365.02, 114.35, 215.84]
+    - to: [-1365.22, 114.49, 214.43]
+    - to: [-1371.16, 114.57, 208.88]
+    - to: [-1371.47, 114.42, 208.08]
+    - to: [-1372.38, 114.37, 208.43]
+- "_Chest::Special<Midna's Helmet/\u30DF\u30C9\u30CA\u306E\u51A0>":
+    comment: "EX Treasure Twilight Relic/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u9EC4\
+      \u660F\u306E\u51A0"
+    coord: [-1402.26, 113.92, 219.36]
+- _Equipment::Shield<Rusty Shield>:
+    icon-map: null
+    notes: Drop Forrest Dweller's Shield if space is needed
+- _Korok::R49:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/R49.png)
+- .gale() up to tree from the location indicated:
+    gale: 1
+    icon: npc-rito
+    coord: [-1522.25, 86]
+- _Korok::R48
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    notes: OB AA
+    coord: [-1534.625, -171.25]
+- _Korok::R40
+- _Korok::R39
+- _Korok::R41
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "The Two Rings/\u3075\u305F\u3064\u306E\u8F2A"
+    coord: [-1681.8125, 51.1875]
+- _Korok::R38
+- Shoot through rings:
+    notes: Use single shot bow
+    coord: [-1855.25, 75.9375]
+- _Shrine::SheemDagoze:
+    comment: "\u30B7\u30FB\u30C0\u30B4\u30BA\u306E\u7960"
+- .gale() over to other side:
+    gale: 1
+    icon: npc-rito
+    coord: [-1919.75, 109.375]
+- _Korok::R47
+- _Korok::R37
+- _Shrine::MijahRokee:
+    comment: "\u30DF\u30C3\u30C0\u30FB\u30ED\u30AD\u306E\u7960"
+    notes: .link([Video]https://youtu.be/O8x0RdEbkmo)
+- .gale() up to Kass:
+    gale: 1
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "Under a Red Moon/\u8D64\u3044\u6708\u306E\u591C\u306B"
+    coord: [-2778.625, 206.625]
+- _Korok::R59
+- _Korok::R71
+- .gale() up the wall:
+    gale: 1
+- _Material<Stam and Endura Shrooms>:
+    movements:
+    - to: [-2803.98, 205.61, 763.54]
+    - to: [-2811.82, 206.0, 789.99]
+    - to: [-2809.83, 206.09, 791.98]
+    - to: [-2811.53, 204.33, 815.04]
+    - to: [-2813.0, 204.56, 816.31]
+    - to: [-2812.84, 204.74, 817.23]
+    - to: [-2790.1, 202.96, 828.14]
+    - to: [-2788.95, 202.94, 828.36]
+    - to: [-2787.29, 202.85, 829.28]
+    - to: [-2757.76, 203.03, 816.0]
+    - to: [-2755.12, 204.68, 795.31]
+    - to: [-2756.81, 207.26, 765.79]
+- _Korok::R72
+- _Material<Stam and Endura Shrooms>:
+    movements:
+    - to: [-2712.67, 206.07, 816.36]
+    - to: [-2695.72, 205.93, 839.52]
+    - to: [-2692.87, 206.14, 843.28]
+    - to: [-2693.11, 206.09, 844.33]
+    - to: [-2714.42, 202.39, 869.75]
+    - to: [-2722.02, 200.36, 900.7]
+    - to: [-2721.42, 200.38, 901.28]
+    - to: [-2685.95, 201.22, 895.54]
+    - to: [-2671.55, 209.6, 854.17]
+    - to: [-2664.93, 207.93, 872.28]
+    - to: [-2666.29, 206.23, 880.34]
+    - to: [-2665.42, 205.97, 881.58]
+    - to: [-2619.15, 210.03, 889.32]
+    - to: [-2647.97, 204.19, 898.06]
+    - to: [-2641.09, 199.99, 921.88]
+    - to: [-2640.47, 199.88, 922.7]
+    - to: [-2641.63, 199.28, 952.93]
+    - to: [-2612.27, 199.45, 929.87]
+    - to: [-2561.04, 198.89, 932.06]
+    - to: [-2540.47, 201.58, 924.48]
+    - to: [-2518.64, 200.59, 934.6]
+    - to: [-2515.41, 201.1, 934.32]

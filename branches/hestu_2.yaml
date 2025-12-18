@@ -1,0 +1,147 @@
+- Line Color - Red
+- _Warp::Shrine::KayaWan:
+    color: rgb(255, 80, 80)
+- .gale():
+    gale: 1
+    time-override: 1000
+- _Memory::HyruleField:
+    comment: "\u7D76\u671B"
+- .gale():
+    gale: 1
+    time-override: 1000
+- _Korok::Z37
+- _Material<Blue Nightshade>:
+    comment: "\u3057\u306E\u3073\u8349"
+    notes: For quest
+    coord: [890.79, 132.75, 249.03]
+- "_Npc<Hestu/\u30DC\u30C3\u30AF\u30EA\u30F3>":
+    coord: [870.83, 131.54, 203.47]
+- _Cook<Needed Food>:
+    coord: [873.58, 131.28, 164.93]
+- _Chest<Knight's Broadsword>:
+    comment: "\u9A0E\u58EB\u306E\u5263"
+    coord: [826.64, 112.8, 123.61]
+- "_Npc::SheikaMale<Izra/\u30A4\u30C3\u30BD\u30FC>":
+    comment: "Riverbed Reward/\u6C34\u5E95\u306B\u6C88\u3080\u304A\u5B9D"
+    coord: [837.625, 125.5]
+- _Material<Hyrule Bass>:
+    icon-map: null
+    notes: In river next to chest.
+- "_Shop<Beedle/\u30C6\u30EA\u30FC>":
+    notes: Buy smotherwing butterflies
+    coord: [890.25, 131.28, 157.06]
+- _Snap::Quest<Blupee>:
+    coord: [1062.49, 140.48, 165.41]
+- _Korok::Z47
+- _Korok::Z48
+- _Korok::Z49
+- _Shrine::DakaTuss:
+    comment: "\u30C0\u30BF\u30FB\u30AF\u30B9\u306E\u7960"
+    notes: .link([Video]https://youtu.be/uYB1VQv9LSM)
+- _Korok::Z50
+- _Material<Ore Deposits>:
+    movements:
+    - to: [1582.0, 182.4, 810.82]
+    - to: [1586.68, 185.23, 827.36]
+- _Korok::Z60
+- _Material<Hyrule Bass>:
+    icon-map: null
+- _Warp::Shrine::TalohNaeg
+- _Material<Ore Deposits>:
+    coord: [1835.03, 245.0, 726.9]
+- _Material<Ore Deposits>:
+    coord: [1954.54, 228.32, 615.04]
+- _Korok::N01
+- _Material<Fleet-Lotus Seeds, 20>:
+    movements:
+    - to: [1960.23, 115.88, 411.1]
+    - to: [1971.53, 115.88, 396.31]
+    - to: [1966.37, 115.88, 394.99]
+    - to: [1956.15, 115.88, 398.86]
+    - to: [1954.2, 115.88, 396.58]
+    - to: [1954.99, 115.88, 390.16]
+    - to: [1961.26, 115.88, 385.72]
+    - to: [1930.6, 115.88, 373.2]
+    - to: [1927.16, 115.88, 372.86]
+    - to: [1880.88, 115.88, 309.69]
+    - to: [1886.31, 115.88, 307.62]
+    - to: [1922.88, 115.88, 287.7]
+    - to: [1930.67, 115.88, 285.01]
+    - to: [1952.72, 115.88, 281.17]
+    - to: [1957.32, 115.88, 277.31]
+    - to: [1944.88, 115.88, 273.44]
+    - to: [1918.99, 115.88, 273.71]
+    - to: [1922.01, 115.88, 260.23]
+    - to: [1902.2, 115.88, 245.89]
+    - to: [1906.96, 115.88, 238.54]
+- Rock for Z41:
+    coord: [2061.37, 124.34, 203.82]
+- _Korok::Z41
+- _Equipment::Bow<Forest Dweller's Bow>:
+    comment: "\u68EE\u4EBA\u306E\u5F13"
+    coord: [2064.0625, 158.625]
+- _Boss::Hinox::Red:
+    comment: "\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [1969.125, 97.5]
+- _Material<Ore Deposits>:
+    coord: [2283.57, 221.68, -113.88]
+- _Tower::Lanayru:
+    comment: "\u30E9\u30CD\u30FC\u30EB\u306E\u5854"
+- _Material<Fleet-Lotus Seeds, 9>:
+    movements:
+    - to: [1516.88, 115.86, -85.6]
+    - to: [1524.2, 115.86, -83.33]
+    - to: [1541.11, 115.86, -66.74]
+    - to: [1544.21, 115.86, -61.15]
+    - to: [1573.62, 115.86, -49.03]
+    - to: [1684.73, 115.86, 44.97]
+    - to: [1689.69, 115.86, 45.03]
+    - to: [1733.99, 115.86, 42.77]
+    - to: [1721.82, 115.86, 69.27]
+- _Korok::Z40
+- _Material<Fleet-Lotus Seeds, 12>:
+    movements:
+    - to: [1677.88, 115.88, 129.79]
+    - to: [1678.36, 115.86, 134.58]
+    - to: [1698.95, 115.86, 136.74]
+    - to: [1725.55, 115.87, 167.83]
+    - to: [1753.38, 115.88, 163.34]
+    - to: [1770.63, 115.88, 156.84]
+    - to: [1782.28, 115.71, 153.09]
+    - to: [1792.09, 115.88, 147.62]
+    - to: [1805.7, 115.88, 132.13]
+    - to: [1788.25, 115.88, 165.05]
+    - to: [1793.93, 115.86, 182.45]
+    - to: [1813.61, 115.52, 190.89]
+- _Material<Endura Shroom>:
+    coord: [1813.61, 115.52, 190.89]
+- _Chest<Opal>:
+    coord: [1868.01, 114.38, 178.08]
+- _Discover<Goponga Villiage Ruins>:
+    comment: "\u30B3\u30DC\u30F3\u30AC\u6751\u8DE1"
+    coord: [1616.4375, 263.5]
+- _Korok::Z39
+- _Korok::Z38
+- Rock for Z29:
+    coord: [1181.36, 161.32, -47.57]
+- _Korok::Z29
+- Rock for Z30:
+    coord: [1397.03, 132.29, -140.52]
+- _Korok::Z30
+- _Discover<Moor Garrison Ruins>:
+    comment: "\u6E7F\u539F\u306E\u99D0\u5C6F\u5730\u8DE1"
+    coord: [1520.3125, -170.0625]
+- .gale():
+    gale: 1
+    time-override: 1000
+- _Shrine::ShehRata:
+    comment: "\u30B7\u30A7\u30E2\u30FB\u30E9\u30BF\u306E\u7960"
+    notes: Opal - .link([Video]https://youtu.be/pd_zjDQH6nE)
+- _Korok::Z12
+- _Warp::Shrine::TalohNaeg
+- _Material<Stamina Vessel, 2>:
+    coord: [1840.12, 218.54, 997.89]
+- "_Npc::SheikaFemale<Impa/\u30A4\u30F3\u30D1>":
+    comment: "Captured Memories/\u30A6\u30C4\u30B7\u30A8\u306E\u8A18\u61B6"
+    notes: Optional to get Champion's Tunic
+    coord: [1772.71, 229.43, 984.31]

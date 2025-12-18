@@ -1,0 +1,138 @@
+- _Korok::E04
+- Rock for E05:
+    coord: [2664.39, 478.82, -3470.32]
+- _Korok::E05
+- "_Npc::Goron<Bayge/\u30D0\u30B1\u30C3\u30C8>":
+    comment: "The Gut Check Challenge/\u30B4\u30ED\u30F3\u306E\u30C9\u6839\u6027\u30AC\
+      \u30B1"
+    coord: [2672.375, -3467.6875]
+- .gale() from first red rupee to the second:
+    gale: 1
+    time-override: 1000
+- _Shrine::GoraeTorr:
+    comment: "\u30B0\u30FB\u30A2\u30C1\u30C8\u30FC\u306E\u7960"
+- _Boss::Hinox::Black:
+    comment: "\u9ED2\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [2917.5625, -3561.375]
+- _Korok::A01
+- At A05, if it's raining or going to rain, adjust TOD to night.
+- _Korok::A05
+- _Korok::A10
+- "_Snap::Quest<Blupee/\u30EB\u30DF\u30FC>":
+    icon-map: null
+    notes: Backup if you missed it at Kaya Wan; Must be quick before stal enemies
+      spawn or octoroks scare them away.
+- _Korok::A11
+- Kill all the octorocks, and then sit to night. Collect the remaining beetles needed.
+- _Korok::A12
+- _Boss::Hinox::Black:
+    comment: "\u9ED2\u30D2\u30CE\u30C3\u30AF\u30B9"
+    movements:
+    - to: [3489.5, -3335.6875]
+- .gale() up to Zuna Kai:
+    gale: 1
+    notes: It's possible to be too fast for them to have recharged. If that's the
+      case, use the gale at the next convenient time.
+    time-override: 1000
+    coord: [3396.125, -3396]
+- _Shrine::ZunaKai:
+    comment: "\u30C5\u30CA\u30FB\u30AB\u30A4\u306E\u7960"
+    notes: Flameblade
+- _Tod::Night:
+    icon-map: null
+    notes: Look in the sky toward the West (in the direction of the labyrinth). Allow
+      the chest to fall and land before continuing to Kilton.
+- "_Snap::Quest<Kilton/\u30AD\u30EB\u30C8\u30F3>":
+    notes: Take several pictures when he is in different positions to make sure one
+      will work for the quest.
+    coord: [3250.4375, -3444.875]
+- _Warp::Shrine::ZunaKai
+- Rock for A02:
+    coord: [3369.33, 325.38, -3651.48]
+- _Korok::A02
+- _Korok::A03
+- _Korok::A06
+- _Chest::Special<Salvager Vest>:
+    comment: "\u30B5\u30EB\u30D9\u30FC\u30B8\u30E3\u30FC\u30DC\u30C7\u30A3"
+    coord: [3636.125, -3519.875]
+- _Korok::A04
+- _Korok::A13
+- _Korok::A07:
+    movements:
+    - to: [4010.33, 303.64, -3207.66]
+    - to: [3779.71, 275.42, -3361.52]
+- Transport blue flame and do A14:
+    notes: Weapon smuggle the flame while doing the korok. Make sure to complete the
+      race while still climbing on the wall or the torch will unsmuggle.
+    movements:
+    - to: [4160.1875, -3167.5]
+- _Korok::A14
+- _Korok::A15:
+    notes: Torch will unsmuggle. Just walk to ancient furnace.
+- ? Talking to Robbie will reduce Ancient Arrow count to 999. You can use the Ancient
+    Furnace (Cherry) without talking to him. Buy ancient short sword, shield, bow.
+    If short on guradian parts, kill the guardians in the basement of the labyrinth
+    and on the way to Katosa Aug.
+  : banner: true
+- "_Shop<Cherry/\u30B7\u30FC\u30AB\u30FC\u30EC\u30F3\u30B8>":
+    coord: [4514.8125, -3162.5]
+- _Korok::A16
+- .gale() to the island:
+    gale: 1
+    time-override: 1000
+- Enter labyrinth here:
+    coord: [4627.625, -3687.625]
+- _Shrine::TuKaloh:
+    comment: "\u30C8\u30A5\u30FB\u30AB\u30ED\u306E\u7960"
+    notes: Barbarian Helm (Optional)
+- "_Chest::Special<Travel Medallion/\u30EF\u30FC\u30D7\u30DE\u30FC\u30AB\u30FC>":
+    comment: "EX Teleportation Rumors!/Ex \u77AC\u9593\u79FB\u52D5\uFF1F\uFF01\u306E\
+      \u30A6\u30EF\u30B5"
+    coord: [4655.0, 155.5, -3560.02]
+- _Korok::A08
+- _Korok::A09
+- .gale() toward start of flower count:
+    gale: 1
+    time-override: 1000
+- _Korok::A17
+- _Korok::A24
+- _Korok::A29
+- _Korok::A28
+- Rock for A23:
+    coord: [4403.18, 229.79, -2748.73]
+- _Korok::A23
+- _Shrine::KatosaAug:
+    comment: "\u30AB\u30C4\u30FB\u30C8\u30B5\u306E\u7960"
+    notes: .link([Video]https://youtu.be/s0rk4vBtP3I)
+- "_Npc::SheikaMale<Hoz/\u30DB\u30B9\u30BF>":
+    comment: "A Shady Customer/\u6C42\u30E0\uFF01 \u4E0D\u5BE9\u8005\u60C5\u5831"
+    coord: [4243.875, -2746.3125]
+- "_Npc::SheikaFemale<Nobo/\u30CE\u30DC\u30BF\u30F3>":
+    comment: "The Spring of Power/\u529B\u306E\u6CC9\u306E\u8A00\u3044\u4F1D\u3048"
+    notes: Start quest
+    coord: [4245.875, -2747.9375]
+- _Korok::A19
+- _Korok::A22
+- _Korok::A18
+- _Korok::E12
+- _Korok::A20
+- _Korok::A21
+- _Memory::SpringofPower:
+    comment: "\u8A2A\u308F\u306C\u529B"
+- _Shrine::TutsuwaNima:
+    comment: "\u30C4\u30C4\u30A2\u30FB\u30CB\u30DE\u306E\u7960"
+    notes: .link([Video]https://youtu.be/b0ezOlYvmiw)
+- _Tod::Night:
+    icon-map: null
+    notes: Make night if needed for the Stalhorse picture and Stalnox
+- _Material<Stamina Vessel, 1>:
+    coord: [3760.55, 111.16, -2679.37]
+- _Material<Heart Vessel, 1>:
+    icon-map: null
+- _Korok::A26
+- _Korok::A27
+- _Snap::Quest<Stalhorse>:
+    coord: [4006.5, 155.76, -2349.5]
+- _Boss::Hinox::Stal:
+    comment: "\u30B9\u30BF\u30EB\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [4146.5, -2225.0625]

@@ -1,0 +1,93 @@
+- Line Color - Purple
+- _Warp::Tower::Hateno:
+    color: rgb(203, 153, 255)
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [2527.625, 1904.5]
+- .fury():
+    fury: 1
+    time-override: 1000
+- _Korok::N35:
+    notes: On side of the plateau below the talus above the boko camp.
+- _Korok::D52
+- _Boss::Hinox::Stal:
+    comment: "\u30B9\u30BF\u30EB\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [1940.4375, 2396.3125]
+- _Chest<Sapphire>:
+    comment: "\u30B5\u30D5\u30A1\u30A4\u30A2"
+    notes: Misko, the Great Bandit
+    coord: [1955.8125, 2609.6875]
+- _Korok::D59
+- _Shrine::TotoSah:
+    comment: "\u30C8\u30C8\u30FB\u30A4\u30B5\u306E\u7960"
+- _Korok::D56
+- _Korok::D55
+- _Korok::D51
+- "_Npc::SheikaMale<Rensa/\u30D5\u30C3\u30B5\u30EC\u30F3>":
+    comment: "Wild Horses/\u91CE\u751F\u99AC\u3092\u6355\u307E\u3048\u3066"
+    coord: [1748.38, 116.11, 1923.67]
+- _Korok::D42
+- _Korok::N34
+- _Korok::N33
+- _Korok::N27
+- _Korok::N26:
+    movements:
+    - to: [2345.35, 204.24, 1529.6]
+    - to: [2276.03, 162.26, 1501.62]
+- "_Npc::SheikaMale<Dr. Calip/\u30AB\u30EA\u30FC\u30E6>":
+    comment: "The Cursed Statue/\u546A\u308F\u308C\u3057\u77F3\u50CF"
+    icon-map: null
+- _Korok::N28
+- _Tod::Night:
+    icon-map: null
+- _Shrine::KamUrog:
+    comment: "\u30AB\u30E0\u30FB\u30E6\u30AA\u306E\u7960"
+- _Korok::N36
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [3199.375, 1904.3125]
+- .fury():
+    fury: 2
+    time-override: 1000
+- _Korok::N38
+- _Korok::N41
+- _Korok::N45:
+    movements:
+    - to: [2835.29, 122.54, 2101.18]
+    - to: [2811.71, 121.71, 2080.08]
+    - to: [2808.72, 122.1, 2048.74]
+    - to: [2859.85, 125.96, 2006.76]
+    - to: [2942.5, 127.54, 2014.27]
+    - to: [2966.63, 119.12, 2116.76]
+    - to: [2965.24, 117.83, 2117.93]
+    - to: [2929.67, 120.49, 2135.82]
+    - to: [2881.41, 123.73, 2142.18]
+    - to: [2855.64, 122.92, 2119.72]
+    - to: [2836.32, 126.63, 2120.51]
+- _Korok::N46
+- _Korok::N51
+- _Korok::N52
+- _Korok::N53
+- "_Npc::SheikaMale<Bolson/\u30B5\u30AF\u30E9\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    coord: [3331.22, 235.28, 2284.61]
+- "_Npc::SheikaMale<Nebb/\u30CA\u30D6>":
+    comment: "The Weapon Connoisseur/\u5E7C\u304D\u6B66\u5668\u30DE\u30CB\u30A2"
+    coord: [3352.4, 225.55, 2138.81]
+- _Shop<Sell Unneeded Armor>:
+    notes: Optional, but it makes armor upgrades easier
+    coord: [3360.75, 2171.5625]
+- "_Npc::SheikaFemale<Clavia/\u30AF\u30EC\u30FC\u30F4\u30A3\u30A2>":
+    comment: "Secret of the Cedars/\u4E09\u672C\u6749\u306E\u79D8\u5BC6"
+    notes: If needed
+    coord: [3434.875, 2149.1875]
+- "_Npc::SheikaMale<Manny/\u30DE\u30F3\u30B5\u30AF>":
+    comment: "A Gift for My Beloved/\u611B\u3057\u306E\u4EBA\u304C\u671B\u3080\u7269"
+    coord: [3445.6875, 2121.25]
+- "_Npc::SheikaFemale<Koyin/\u30B3\u30E6>":
+    comment: "The Sheep Rustlers/\u306B\u3063\u304F\u304D\u30D2\u30C4\u30B8\u6CE5\u68D2"
+    coord: [3621.69, 283.36, 2098.13]
+- "_Npc::SheikaMale<Symin/\u30B7\u30E2\u30F3>":
+    comment: "Hyrule Compendium/\u30CF\u30A4\u30E9\u30EB\u56F3\u9451"
+    coord: [3778.96, 356.86, 2132.45]

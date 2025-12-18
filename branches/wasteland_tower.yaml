@@ -1,0 +1,32 @@
+- _Warp::Beast::Naboris
+- _Korok::W33
+- _Korok::W32
+- _Korok::W31
+- .gale() up to tower:
+    gale: 1
+    time-override: 1000
+- _Tower::Wasteland:
+    comment: "\u8352\u91CE\u306E\u5854"
+- _Chest<Sapphire>:
+    coord: [-2284.41, 454.26, 2443.37]
+- _Material<Ore Deposit>:
+    movements:
+    - to: [-2276.16, 406.45, 2352.11]
+    - to: [-2283.07, 406.82, 2350.04]
+    - to: [-2279.01, 405.69, 2343.89]
+    - to: [-2277.56, 405.01, 2341.6]
+- _Korok::W16
+- _Korok::W12
+- _Chest<Ice Arrow x5>:
+    comment: "\u6C37\u306E\u77E2 x5"
+    icon-map: null
+    coord: [-2264.67, 355.91, 2161.4]
+- _Korok::W11
+- _Equipment::Weapon<Fire Rod>:
+    comment: "\u30D5\u30A1\u30A4\u30A2\u30ED\u30C3\u30C9"
+    coord: [-2161.6875, 2140.5]
+- _Korok::W23
+- .gale() to to W24:
+    gale: 1
+    time-override: 1000
+- _Korok::W24

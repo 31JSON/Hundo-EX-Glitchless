@@ -1,0 +1,166 @@
+- _Warp::Beast::Medoh
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "EX Champion Revali's Song/\u82F1\u5091\u30EA\u30FC\u30D0\u30EB\u306E\
+      \u8A69"
+    coord: [-3662.1, 321.55, -1314.66]
+- _Chest<Shock Arrow x5>:
+    coord: [-3557.68, 254.12, -1503.59]
+- _Shrine::BareedaNaag:
+    comment: "\u30F4\u30A9\u30EA\u30C0\u30FB\u30CE\u306E\u7960"
+    notes: .link([Video]https://youtu.be/ZKoTE1qC-_g) - Diamond (Optional)
+- Pick up Epona from Rito Stable:
+    icon-map: null
+    coord: [-3255.75, -1757.625]
+- _Korok::H69
+- _Korok::H67
+- .gale() up to tower:
+    gale: 1
+    coord: [-2181.83, 463.05, -2031.98]
+- _Tower::Hebra:
+    comment: "\u30D8\u30D6\u30E9\u306E\u5854"
+- _Discover<Pondo's Lodge>:
+    comment: "\u30DD\u30F3\u30C9\u306E\u5C0F\u5C4B"
+    coord: [-2076.9375, -2080.5625]
+- _Korok::H68
+- _Warp::Tower::Hebra
+- _Korok::H70
+- _Korok::H71
+- _Korok::R01:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/R01.png)
+- _Shrine::ShiraGomar:
+    comment: "\u30B7\u30EA\u30C8\u30FB\u30B2\u30AA\u30DE\u306E\u7960"
+    notes: .link([Video]https://youtu.be/Bd64G6xxKW8)
+- Rock for R04:
+    coord: [-2546.99, 66.51, -1401.93]
+- _Korok::R04
+- _Warp::Beast::Medoh
+- _Korok::T15
+- _Tod::Noon:
+    icon-map: null
+    notes: Make sure it's not night.
+- "_Npc::Rito<Kotts/\u30B3\u30C3\u30C4>":
+    comment: "Recital at Warbler's Nest/\u30EA\u30C8\u306E\u5144\u5F1F\u5CA9"
+    notes: Yellow sister at the pond with the hearty salmon
+    coord: [-3488.88, 258.52, -1850.25]
+- "_Npc::Rito<Fyson/\u30DA\u30FC\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    notes: Send to Tarrey Town; wear a shirt
+    coord: [-3600.5, -1814.375]
+- "_Npc::SheikaMale<Jogo/\u30B8\u30E7\u30A6\u30B4>":
+    comment: "The Spark of Romance/\u65B0\u90CE\u306E\u6C5A\u540D\u8FD4\u4E0A"
+    notes: In the inn. Needs a flint.
+    coord: [-3605, -1852.4375]
+- "_Npc::Rito<Cree/\u30B0\u30EA\u30B0\u30EA>":
+    comment: "Recital at Warbler's Nest/\u30EA\u30C8\u306E\u5144\u5F1F\u5CA9"
+    notes: Blue sister in the shop.
+    coord: [-3637.58, 289.95, -1815.48]
+- "_Cook<Salmon Meuni\xE8re>":
+    comment: "\u30B5\u30FC\u30E2\u30F3\u30E0\u30CB\u30A8\u30EB"
+    icon-map: null
+    notes: Salmon, Wheat, Butter
+- "_Npc::Rito<Genli/\u30B2\u30F3\u30B3>":
+    comment: "Recital at Warbler's Nest/\u30EA\u30C8\u306E\u5144\u5F1F\u5CA9"
+    notes: Green sister by the cooking pot.
+    coord: [-3608.76, 296.75, -1797.82]
+- "_Npc::Rito<Molli/\u30E2\u30E2>":
+    comment: "The Bird in the Mountains/\u304A\u3063\u304D\u306A\u304A\u5C71\u306E\
+      \u304A\u3063\u304D\u306A\u6728"
+    notes: Pink girl on the ledge.
+    coord: [-3618, -1797.4375]
+- "_Npc::Rito<Amali/\u30CF\u30DF\u30E9>":
+    comment: "Find Kheel/\u30AD\u30FC\u30EB\u3092\u63A2\u3057\u3066\uFF01"
+    notes: Standing on platform next to shrine.
+    coord: [-3668.51, 321.49, -1769.96]
+- _Korok::T14:
+    notes: Ancient Bow, bomb arrow. .link([Where to stand]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/Screenshot%202022-12-30%2023-57-31.png)
+      and .link([Where to aim]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/Screenshot%202022-12-30%2023-58-10.png)
+- "_Npc::Rito<Bedoli/\u30D9\u30E9>":
+    comment: The Ancient Rito Song/
+    notes: On Revali's Landing.
+    coord: [-3632.6, 320.12, -1793.79]
+- "_Npc::SheikaFemale<Juney/\u30B8\u30E5\u30CE\u30FC>":
+    comment: "The Apple of My Eye/\u65B0\u59BB\u306F\u82B1\u3088\u308A\u30C0\u30F3\
+      \u30B4"
+    notes: On the ledge between Kaneli's and Saki's houses.
+    coord: [-3611.75, -1849]
+- "_Npc::Rito<Notts/\u30CA\u30F3>":
+    comment: "Recital at Warbler's Nest/\u30EA\u30C8\u306E\u5144\u5F1F\u5CA9"
+    notes: Up on the spire above the shirne.
+    coord: [-3633.8, 352.95, -1792.05]
+- _Korok::T17
+- _Boss::Hinox::Black:
+    comment: "\u9ED2\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [-3794, -1557.1875]
+- _Shrine::VooLota:
+    comment: "\u30A6\u30FC\u30BF\u30FB\u30C9\u306E\u7960"
+    notes: .link([Video]https://youtu.be/498yn115nwo)
+- _Warp::Shrine::ShaWarvo
+- _Chest<Gold Rupee>:
+    coord: [-3870.48, 84.5, -2307.25]
+- _Shrine::NoeRajee:
+    comment: "\u30CE\u30A4\u30A8\u30FB\u30ED\u30B8\u30FC\u306E\u7960"
+    notes: .link([Video]https://youtu.be/Nku-z7IPV4A)
+- _Boss::Talus::Frost:
+    comment: "\u30AC\u30C1\u30ED\u30C3\u30AF"
+    coord: [-3709.25, -2347.0625]
+- .fury():
+    fury: 3
+    time-override: 1000
+- _Korok::H54
+- .gale() to the other side:
+    gale: 1
+- _Chest<Gold Rupee>:
+    coord: [-3458.0, 391.37, -2240.7]
+- _Korok::H55
+- _Korok::H43
+- .gale() across to H27:
+    gale: 1
+    time-override: 1000
+    coord: [-3263, -2818.3125]
+- _Korok::H27
+- _Shrine::ShadaNaw:
+    comment: "\u30B7\u30E3\u30C0\u30FB\u30A2\u30C0\u306E\u7960"
+    notes: .link([Video]https://youtu.be/vFv2lw0cDeI)
+- _Tod::Night:
+    icon-map: null
+- _Korok::H20
+- _Korok::H28
+- Look toward castle
+- _Shrine::GomaAsaagh:
+    comment: "\u30AC\u30AA\u30DE\u30FB\u30A2\u30B5\u306E\u7960"
+    notes: Royal Claymore - .link([Video]https://youtu.be/b0ezOlYvmiw)
+- _Korok::H35
+- Become a gale and pass through the light rings:
+    comment: "\u75BE\u98A8\u3068\u6210\u308A\u3066\u5149\u8F2A\u3092\u304F\u3050\u308B"
+    icon: npc-rito
+    movements:
+    - to: [-2792.1, 665.5, -2810.6]
+    - to: [-2747.4, 636.86, -2727.3]
+- _Chest::Special<Salvager Trousers>:
+    comment: "\u30B5\u30EB\u30D9\u30FC\u30B8\u30E3\u30FC\u30EC\u30C3\u30B0"
+    coord: [-2605.125, -2652.125]
+- Become a gale and pass through the light rings:
+    comment: "\u75BE\u98A8\u3068\u6210\u308A\u3066\u5149\u8F2A\u3092\u304F\u3050\u308B"
+    icon: npc-rito
+    movements:
+    - to: [-2575.1, 578.92, -2648.0]
+    - to: [-2478.8, 557.9, -2650.4]
+    - to: [-2401.8, 542.6, -2671.8]
+    - to: [-2380.6, 525.25, -2727.6]
+    - to: [-2399.8, 514.9, -2800.5]
+    - to: [-2424.8, 498.5, -2891.6]
+    - to: [-2429.21, 489.01, -2961.43]
+    - to: [-2379.9, 473.6, -3090.8]
+    - to: [-2300.0, 456.55, -3116.6]
+    - to: [-2239.0, 447.7, -3118.1]
+    - to: [-2195.09, 443.89, -3156.53]
+- _Shrine::KiahToza:
+    comment: "\u30AD\u30CF\u30FB\u30C8\u30A5\u30B5\u306E\u7960"
+    notes: Falcon Bow - .link([Video]https://youtu.be/OrneEglUdpc)
+- _Warp::Beast::Medoh
+- Revali's Gale+:
+    comment: "\u82F1\u5091\u30EA\u30FC\u30D0\u30EB\u306E\u731B\u308A+"
+    icon-doc: medoh-done
+    notes: .link([Video]https://youtu.be/r52heM4p5s8)
+    counter: .split(SPLIT)

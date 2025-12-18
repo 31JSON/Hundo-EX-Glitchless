@@ -1,0 +1,325 @@
+- _Shrine::RotaOoh:
+    comment: "\u30EB\u30E8\u30FB\u30BF\u30A6\u306E\u7960"
+- _Discover<Outskirt Stable>:
+    comment: "\u5E73\u539F\u5916\u308C\u306E\u99AC\u5BBF"
+    notes: Register Epona/Horse
+    coord: [-1449.5625, 1269.0625]
+- _Chest<Silver Rupee>:
+    comment: "\u9280\u30EB\u30D4\u30FC"
+    coord: [-1414.48, 136.96, 1248.51]
+- _Shop<Beedle and Botrick>:
+    icon-map: null
+    notes: Buy arrows
+- Travel to Satori Mountain:
+    movements:
+    - to: [-1471.125, 1194.375]
+    - to: [-1474.25, 1167.6875]
+    - to: [-1459.4375, 1133.8125]
+    - to: [-1455.125, 1103.8125]
+    - to: [-1445.5625, 1078.625]
+    - to: [-1450.5625, 1048.3125]
+    - to: [-1460.5, 1031.25]
+    - to: [-1476.25, 1019.8125]
+    - to: [-1492.625, 1013.25]
+    - to: [-1527.125, 1015.1875]
+    - to: [-1551.875, 1012.25]
+    - to: [-1576.0625, 1014.125]
+    - to: [-1645.375, 1020]
+    - to: [-1654.75, 1024.75]
+    - to: [-1674.3125, 1041.75]
+    - to: [-1699.5625, 1045.75]
+    - to: [-1710.625, 1051.25]
+    - to: [-1728, 1057.9375]
+    - to: [-1782.625, 1060.75]
+    - to: [-1824.3125, 1075.75]
+    - to: [-1837.875, 1078.1875]
+    - to: [-1864.9375, 1079.8125]
+    - to: [-1891.75, 1079.25]
+    - to: [-1911.625, 1072.4375]
+    - to: [-1933.5625, 1053.4375]
+    - to: [-1942.8125, 1038.125]
+    - to: [-1951.5, 1007.75]
+    - to: [-1954.125, 991.0625]
+    - to: [-1950.875, 971.0625]
+    - to: [-1932.5, 945.1875]
+    - to: [-1904.3125, 920.625]
+    - to: [-1860.3125, 896.0625]
+    - to: [-1816.3125, 873.4375]
+    - to: [-1784.6875, 850.75]
+    - to: [-1763.875, 838.1875]
+    - to: [-1752.5, 824.75]
+    - to: [-1756.4375, 806.625]
+    - to: [-1760.5, 778.0625]
+    - to: [-1778.875, 725.75]
+    - to: [-1793, 585.25]
+    - to: [-1800.25, 486.5]
+    - to: [-1838.6875, 470]
+    - to: [-1883.875, 467.8125]
+    - to: [-1936.875, 468.5]
+    - to: [-1959.9375, 470.4375]
+    - to: [-1996.0625, 459.25]
+    - to: [-2059.4375, 452.875]
+    - to: [-2112.5, 439.9375]
+    - to: [-2123.0625, 404.875]
+    - to: [-2132.6875, 388.25]
+- _Material<Luminous Stone>:
+    comment: "\u591C\u5149\u77F3"
+    movements:
+    - to: [-2159.88, 402.62, 400.86]
+    - to: [-2160.22, 402.42, 397.49]
+- _Material<Hearty Radish>:
+    comment: "\u30DE\u30C3\u30AF\u30B9\u30E9\u30C7\u30A3\u30C3\u30B7\u30E5"
+    coord: [-2171.13, 403.96, 384.18]
+- _Material<Rushroom>:
+    comment: "\u30B4\u30FC\u30B4\u30FC\u30C0\u30B1"
+    coord: [-2218.0, 434.72, 399.41]
+- _Material<Ore Deposit>:
+    movements:
+    - to: [-2217.67, 438.21, 381.39]
+    - to: [-2216.74, 438.03, 380.92]
+    - to: [-2211.53, 436.46, 379.42]
+- _Material<Rushroom>:
+    comment: "\u30B4\u30FC\u30B4\u30FC\u30C0\u30B1"
+    movements:
+    - to: [-2302.5, 462.04, 446.5]
+    - to: [-2297.0, 462.74, 447.0]
+    - to: [-2294.0, 455.0, 452.0]
+- _Shrine::MoggLatan:
+    comment: "\u30E2\u30FB\u30E9\u30BF\u30CB\u30A2\u306E\u7960"
+    notes: Forest Dweller's Bow, Gold rupee
+- _Material<Endura Carrot, 4>:
+    comment: "\u30AC\u30C3\u30C4\u30CB\u30F3\u30B8\u30F3"
+    movements:
+    - to: [-2307.73, 416.78, 532.73]
+    - to: [-2307.94, 416.75, 526.67]
+    - to: [-2313.46, 416.73, 525.57]
+    - to: [-2317.73, 416.74, 532.89]
+- _Material<Rushroom>:
+    comment: "\u30B4\u30FC\u30B4\u30FC\u30C0\u30B1"
+    movements:
+    - to: [-2349.25, 355.64, 672.69]
+- _Chest<Forest Dweller's Bow>:
+    comment: "\u68EE\u4EBA\u306E\u5F13"
+    coord: [-2342.64, 348.37, 680.81]
+- _Material<Acorn, 1>:
+    comment: "\u3069\u3093\u3050\u308A"
+    coord: [-2338.68, 348.73, 678.83]
+- _Material<Diamond>:
+    comment: "\u30C0\u30A4\u30E4\u30E2\u30F3\u30C9"
+    coord: [-2247.9, 353.39, 662.05]
+- _Material<Rushroom>:
+    comment: "\u30B4\u30FC\u30B4\u30FC\u30C0\u30B1"
+    movements:
+    - to: [-2245.27, 353.25, 680.73]
+- _Material<Luminous Stone Ore>:
+    movements:
+    - to: [-2234.87, 316.95, 700.9]
+- _Material<Endura Shroom>:
+    comment: "\u30AC\u30C3\u30C4\u30C0\u30B1"
+    coord: [-2205.54, 267.93, 781.57]
+- _Material<Hylian Shroom>:
+    comment: "\u30CF\u30A4\u30E9\u30EB\u30C0\u30B1"
+    icon-map: null
+- _Material<Zapshroom>:
+    comment: "\u30D3\u30EA\u30D3\u30EA\u30C0\u30B1"
+    icon-map: null
+- _Material<Sunshroom>:
+    comment: "\u30DD\u30AB\u30DD\u30AB\u30C0\u30B1"
+    icon-map: null
+- _Material<Luminous Stone>:
+    comment: "\u591C\u5149\u77F3"
+    icon-map: null
+- _Material<Luminous Stone>:
+    comment: "\u591C\u5149\u77F3"
+    movements:
+    - to: [-2340.69, 299.94, 754.06]
+- _Material<Courser Bee Honey,2>:
+    comment: "\u30AC\u30F3\u30D0\u30EA\u30D0\u30C1\u306E\u30CF\u30C1\u30DF\u30C4"
+    movements:
+    - to: [-2469.11, 319.03, 746.31]
+    - to: [-2514.73, 311.47, 713.41]
+- _Material<Silent Princess, 2>:
+    comment: "\u59EB\u3057\u305A\u304B"
+    movements:
+    - to: [-2572.25, 307.25, 661.2]
+    - to: [-2572.44, 307.32, 660.62]
+- _Material<Fleet-Lotus Seeds, 10>:
+    comment: "\u30B4\u30FC\u30B4\u30FC\u30CF\u30B9\u306E\u5B9F"
+    movements:
+    - to: [-2560.8, 306.0, 639.7]
+- _Material<Silent Princess, 2>:
+    comment: "\u59EB\u3057\u305A\u304B"
+    movements:
+    - to: [-2500.15, 306.68, 642.77]
+    - to: [-2499.95, 306.74, 643.23]
+- _Material<Endura Carrot, 3>:
+    comment: "\u30AC\u30C3\u30C4\u30CB\u30F3\u30B8\u30F3"
+    movements:
+    - to: [-2490.08, 306.72, 624.37]
+- _Material<Silent Princess, 2>:
+    comment: "\u59EB\u3057\u305A\u304B"
+    movements:
+    - to: [-2441.99, 306.94, 601.02]
+- _Material<Endura Shroom>:
+    coord: [-2449.44, 305.3, 686.42]
+- _Material<Stam and Endura Shrooms>:
+    movements:
+    - to: [-2515.41, 201.1, 934.32]
+    - to: [-2518.64, 200.59, 934.6]
+    - to: [-2540.47, 201.58, 924.48]
+    - to: [-2561.04, 198.89, 932.06]
+    - to: [-2612.27, 199.45, 929.87]
+    - to: [-2641.63, 199.28, 952.93]
+    - to: [-2640.47, 199.88, 922.7]
+    - to: [-2641.09, 199.99, 921.88]
+    - to: [-2647.97, 204.19, 898.06]
+    - to: [-2619.15, 210.03, 889.32]
+    - to: [-2665.42, 205.97, 881.58]
+    - to: [-2666.29, 206.23, 880.34]
+    - to: [-2664.93, 207.93, 872.28]
+    - to: [-2671.55, 209.6, 854.17]
+    - to: [-2685.95, 201.22, 895.54]
+    - to: [-2721.42, 200.38, 901.28]
+    - to: [-2722.02, 200.36, 900.7]
+    - to: [-2714.42, 202.39, 869.75]
+    - to: [-2693.11, 206.09, 844.33]
+    - to: [-2692.87, 206.14, 843.28]
+    - to: [-2695.72, 205.93, 839.52]
+    - to: [-2712.67, 206.07, 816.36]
+    - to: [-2756.81, 207.26, 765.79]
+    - to: [-2755.12, 204.68, 795.31]
+    - to: [-2757.76, 203.03, 816.0]
+    - to: [-2787.29, 202.85, 829.28]
+    - to: [-2788.95, 202.94, 828.36]
+    - to: [-2790.1, 202.96, 828.14]
+    - to: [-2812.84, 204.74, 817.23]
+    - to: [-2813.0, 204.56, 816.31]
+    - to: [-2811.53, 204.33, 815.04]
+    - to: [-2809.83, 206.09, 791.98]
+    - to: [-2811.82, 206.0, 789.99]
+    - to: [-2803.98, 205.61, 763.54]
+- _Warp::Shrine::MoggLatan
+- _Material<Hearty Durian, 10>:
+    comment: "\u30DE\u30C3\u30AF\u30B9\u30C9\u30EA\u30A2\u30F3"
+    movements:
+    - to: [-2195.89, 411.33, 444.43]
+- _Material<Wood>:
+    comment: "\u85AA\u306E\u675F"
+    icon-map: null
+- _Discover<Jeddo Bridge>:
+    comment: "\u30B8\u30A7\u30C9\u6A4B"
+    movements:
+    - to: [-2106, 439.49696606894577]
+    - to: [-1876, 463.9978670545315]
+    - to: [-1633, 387.2559943122651]
+    - to: [-1687, 131.24964144451133]
+    - to: [-1690.0625, 130.875]
+- _Material<Razorshroom>:
+    movements:
+    - to: [-1894.49, 249.66, -71.04]
+    - to: [-1892.97, 249.38, -71.93]
+    - to: [-1905.17, 245.36, -135.58]
+    - to: [-1906.11, 244.93, -137.88]
+- Discover Zalta Wa:
+    movements:
+    - to: [-1849, -170.02383014937368]
+    - to: [-1828, -261.0271766672631]
+    - to: [-1854, -299.0285741142943]
+    - to: [-1777, -375.0313690083567]
+    - to: [-1694, -453.03423745226246]
+    - to: [-1643.5, -539.5095614796865]
+    - to: [-1576.75, -577.2609497329868]
+    - to: [-1490.75, -580.2610600577527]
+- _Shrine::ZaltaWa:
+    comment: "\u30AD\u30EF\u30FB\u30B6\u30BF\u30B9\u306E\u7960"
+- Ride Epona to Castle:
+    movements:
+    - to: [-1437.3125, -567.9375]
+    - to: [-1437.3125, -567.9375]
+    - to: [-1366, -553.5100763285927]
+    - to: [-1253.75, -532.0096993856432]
+    - to: [-1186, -529.0095890608782]
+    - to: [-1120.5, -505.75873404394406]
+    - to: [-1043.5625, -436.68859405392595]
+    - to: [-1044.375, -437.125]
+    - to: [-959.1875, -360.125]
+    - to: [-921.125, -323.75]
+- _Korok::C30
+- _Korok::C25
+- _Shrine::KatahChuki:
+    comment: "\u30AB\u30BF\u30FB\u30C1\u30E5\u30AD\u306E\u7960"
+    notes: Royal Halberd
+- _Chest<Fire Arrow x5>:
+    comment: "\u708E\u306E\u77E2 x5"
+    coord: [-566.5, 143.64, -321.5]
+- _Chest<Bomb Arrow x5>:
+    comment: "\u30D0\u30AF\u30C0\u30F3\u77E2"
+    coord: [-648.0, 128.24, -439.0]
+- _Korok::C26:
+    movements:
+    - to: [-663.3, 146.77, -432.6]
+- _Chest<Shock Arrow x5>:
+    coord: [-666.04, 141.22, -571.08]
+- _Chest<Bomb Arrow x5>:
+    coord: [-594.0, 128.03, -635.5]
+- _Chest<Ice Arrow x5>:
+    coord: [-529.74, 139.52, -694.06]
+- _Material<Luminous Stone Ore>:
+    coord: [-391.58, 119.09, -750.23]
+- _Chest<Diamond>:
+    coord: [-408.93, 118.89, -764.77]
+- _Chest<Silver Rupee>:
+    coord: [-473.1, 144.21, -842.97]
+- _Chest<Bomb Arrow x5>:
+    coord: [-464.87, 199.78, -945.62]
+- _Equipment::Bow<Royal Guard's Bow>:
+    comment: "\u8FD1\u885B\u306E\u5F13"
+    notes: Needed for quest
+    movements:
+    - to: [-411.75, -966.0625]
+    - to: [-413.25, -976.375]
+    - to: [-394.5, -976.3125]
+    - to: [-386.9375, -972.3125]
+    - to: [-371.5625, -973.0625]
+    - to: [-364.0625, -978.9375]
+    - to: [-363.125, -979.25]
+    - to: [-360.625, -967]
+    - to: [-341, -969.3125]
+    - to: [-328.25, -964.25]
+    - to: [-329.125, -978.3125]
+    - to: [-335.5, -979.1875]
+    - to: [-335.5625, -986.0625]
+    - to: [-311.81, 256.46, -997.3]
+    - to: [-310.25, 261.03, -995.87]
+- _Equipment::Weapon<Edge of Duality>:
+    icon-map: null
+- Observation Deck:
+    movements:
+    - to: [-342.5625, -997.0012664363721]
+    - to: [-356.0625, -996.7512572426413]
+    - to: [-325.5, -916.4968005817973]
+    - to: [-289.5, -847.2442539184576]
+    - to: [-323, -793.9922956538685]
+    - to: [-273, -748.9906407823837]
+- _Chest<Ancient Arrow x3>:
+    comment: "\u53E4\u4EE3\u5175\u88C5\u30FB\u77E2 x3"
+    coord: [-254.0, 209.67, -742.37]
+- _Equipment::Bow<Royal Bow>:
+    comment: "\u738B\u5BB6\u306E\u5F13"
+    notes: Don't use; At this point you should have at least FDBx2, RGB, RB
+    coord: [-252.19, 210.48, -741.07]
+- _Material<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    coord: [-249.07, 209.78, -743.54]
+- _Chest<Bomb Arrow x5>:
+    coord: [-200.55, 178.68, -686.54]
+- _Chest<Ice Arrow x5>:
+    coord: [-201.21, 208.78, -692.57]
+- _Chest<Gold Rupee>:
+    coord: [-115.28, 108.14, -611.66]
+- Kill Guardian Stalkers:
+    notes: Collect guardian parts
+    movements:
+    - to: [-101.5, 133.07, -416.5]
+    - to: [-220.07, 126.78, -431.95]
+    - to: [-254.5, 130.0, -334.4]

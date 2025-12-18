@@ -1,0 +1,30 @@
+- Line Color - Blue
+- _Warp::Shrine::NeezYohma
+- "_Npc::ZoraFemale<Finley/\u30D5\u30A3\u30CD>":
+    comment: "Special Delivery/\u30E1\u30C3\u30BB\u30FC\u30B8\u30DC\u30C8\u30EB\u306E\
+      \u884C\u65B9"
+    coord: [3264.0, 249.76, -480.0]
+- "_Npc::ZoraFemale<Torfeau/\u30C8\u30EB\u30D5\u30A9\u30FC>":
+    comment: "The Giant of Ralis Pond/\u30E9\u30EB\u30B9\u6C60\u306E\u5DE8\u4EBA\u8A0E\
+      \u4F10"
+    coord: [3300.84, 255.66, -505.93]
+- "_Npc::ZoraMale<Jiahto/\u30B8\u30A2\u30FC\u30C8>":
+    comment: "Zora Stone Monuments/\u30BE\u30FC\u30E9\u306E\u77F3\u7891\u3092\u63A2\
+      \u3057\u3066"
+    coord: [3340.25, 256.66, -564.31]
+- "_Npc::ZoraMale<Kapson/\u30AB\u30DD\u30FC\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    coord: [3327.76, 256.41, -522.71]
+- _Warp::Shrine::DagahKeek
+- .gale() up at this location to get to Z15:
+    gale: 1
+    icon: npc-rito
+    coord: [2804.875, -479]
+- Cube for Z15:
+    coord: [2796.25, 453.48, -499.43]
+- _Korok::Z15
+- _Korok::Z14
+- _Shrine::SohKofi:
+    comment: "\u30B5\u30AA\u30FB\u30B3\u30D2\u306E\u7960"
+- _Korok::Z13

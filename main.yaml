@@ -1,0 +1,114 @@
+- Great Plateau:
+  - use: ./branches/great_plateau.yaml
+- Castle 1:
+  - use: ./branches/castle_1.yaml
+- Kakariko 1:
+  - use: ./branches/kakariko_1.yaml
+- Hateno 1:
+  - use: ./branches/hateno_1.yaml
+- Medoh:
+  - use: ./branches/medoh.yaml
+- Kakariko 2:
+  - use: ./branches/kakariko_2.yaml
+- Hestu 2:
+  - use: ./branches/hestu_2.yaml
+- Gerudo 1:
+  - use: ./branches/gerudo_1.yaml
+- Naboris:
+  - use: ./branches/naboris.yaml
+- Wasteland Tower:
+  - use: ./branches/wasteland_tower.yaml
+- Free Naydra:
+  - use: ./branches/free_naydra.yaml
+- Naydra Farming 1:
+  - use: ./branches/naydra_farming_1.yaml
+- Ruta:
+  - use: ./branches/ruta.yaml
+- Akkala Tower:
+  - use: ./branches/akkala_tower.yaml
+- Tarry Town 1:
+  - use: ./branches/tarry_town_1.yaml
+- Enter Goron City:
+  - use: ./branches/enter_goron_city.yaml
+- Dinraal farm 1:
+  - use: ./branches/dinraal_farm_1.yaml
+- Akkala Tech Lab:
+  - use: ./branches/akkala_tech_lab.yaml
+- Tarrey Town 2:
+  - use: ./branches/tarry_town_2.yaml
+- Rudania:
+  - use: ./branches/rudania.yaml
+- Korok Forest:
+  - use: ./branches/korok_forest.yaml
+- One-Hit Obliterator Trial:
+  - use: ./branches/one_hit_obliterator_trial.yaml
+- Daruk's Song:
+  - use: ./branches/daruks_song.yaml
+- Urubosa's Song:
+  - use: ./branches/urbosas_song.yaml
+- Tarrey Town 3:
+  - use: ./branches/tarry_town_3.yaml
+- Revali's Song:
+  - use: ./branches/revalis_song.yaml
+- Mipha's Song:
+  - use: ./branches/miphas_song.yaml
+- Master Cycle Zero:
+  - use: ./branches/master_cycle_zero.yaml
+- Hyrule Castle:
+  - use: ./branches/hyrule_castle.yaml
+- Blood Moon Shrine:
+  - use: ./branches/blood_moon_shrine.yaml
+- South Central:
+  - use: ./branches/south_central.yaml
+- Gerudo Canyon:
+  - use: ./branches/gerudo_canyon.yaml
+- Wasteland Cleanup:
+  - use: ./branches/wasteland_cleanup.yaml
+- Lake Tower:
+  - use: ./branches/lake_tower.yaml
+- Horse Mini-Games:
+  - use: ./branches/horse_minigames.yaml
+- Central Tower:
+  - use: ./branches/central_tower.yaml
+- Spring of Courage:
+  - use: ./branches/spring_of_courage.yaml
+- Faron/Lurelin:
+  - use: ./branches/faron_lurelin.yaml
+- Letter Quest:
+  - use: ./branches/letter_quest.yaml
+- Central Hyrule Cleanup:
+  - use: ./branches/central_hyrule_cleanup.yaml
+- Woodland/Ridgeland:
+  - use: ./branches/woodland_ridgeland.yaml
+- Mount Satori:
+  - use: ./branches/mount_satori.yaml
+- South Tabantha:
+  - use: ./branches/south_tabantha.yaml
+- Hebra 2:
+  - use: ./branches/hebra_2.yaml
+- Hebra 3:
+  - use: ./branches/hebra_3.yaml
+- Hebra 4:
+  - use: ./branches/hebra_4.yaml
+- Tarrey Town 4:
+  - use: ./branches/tarry_town_4.yaml
+- Zora's Domain Cleanup:
+  - use: ./branches/zoras_domain_cleanup.yaml
+- South Eldin Cleanup:
+  - use: ./branches/south_eldin_cleanup.yaml
+- Tarrey Town 5:
+  - use: ./branches/tarry_town_5.yaml
+- East Akkala Cleanup:
+  - use: ./branches/east_akkala_cleanup.yaml
+- Eventide:
+  - use: ./branches/eventide.yaml
+- Kakariko Cleanup:
+  - use: ./branches/kakariko_cleanup.yaml
+- Hateno Cleanup:
+  - use: ./branches/hateno_cleanup.yaml
+- 119 Shrines:
+  - use: ./branches/119_shrines.yaml
+- All Shrines:
+  - use: ./branches/all_shrines.yaml
+- 100% Cleanup:
+  - use: ./branches/100_cleanup.yaml

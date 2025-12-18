@@ -1,0 +1,129 @@
+- Line Color - Cyan
+- _Warp::Shrine::ShadaNaw:
+    color: rgb(102, 255, 254)
+- _Boss::Talus::Frost:
+    comment: "\u30AC\u30C1\u30ED\u30C3\u30AF"
+    coord: [-3073.3125, -2918.4375]
+- .fury():
+    fury: 3
+    time-override: 1000
+- _Korok::H33
+- .gale() up to upper level:
+    gale: 1
+- _Korok::H34
+- _Korok::H46
+- _Korok::H48
+- .gale() from race start:
+    gale: 1
+    icon: npc-rito
+    coord: [-2941.33, 545.32, -2483.43]
+- _Korok::H49
+- _Korok::H50
+- _Korok::H47
+- Shoot H44:
+    notes: Move northeast along the top of the ridge toward H45, and shoot the ballon
+      with Ancient Bow and bomb arrow.
+    movements:
+    - to: [-2850.8125, -2613.75]
+- _Korok::H44:
+    movements:
+    - to: [-2984.9, 559.21, -2693.53]
+- _Korok::H45
+- .gale() up to the next level from this location:
+    gale: 1
+    icon: npc-rito
+    coord: [-2773.5625, -2500.5625]
+- _Korok::H56
+- _Korok::H51
+- Pick up snowball:
+    coord: [-2549.88, 364.66, -2448.08]
+- Drop snowball here:
+    coord: [-2475.375, -2433.25]
+- _Shrine::GeeHarah:
+    comment: "\u30CE\u30C3\u30AD\u30FB\u30DF\u30D2\u306E\u7960"
+    notes: Diamond (Optional)
+- Snowballs for H57:
+    coord: [-2270.01, 430.67, -2284.15]
+- _Korok::H57
+- _Korok::H61
+- _Shrine::LannoKooh:
+    comment: "\u30E9\u30CE\u30FB\u30AF\u30D2\u30FC\u306E\u7960"
+    notes: Gold Rupee
+- _Korok::H64
+- _Korok::H65
+- _Korok::H66
+- _Boss::Talus::Rare:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u5E0C\u5C11\uFF09"
+    coord: [-2864.25, -1826.125]
+- .fury():
+    fury: 3
+- _Korok::T18
+- _Korok::H72
+- .gale() from race start:
+    gale: 1
+    icon: npc-rito
+    coord: [-2772.74, 145.7, -1472.73]
+- _Korok::H73
+- _Shrine::DunbaTaag:
+    comment: "\u30C9\u30A5\u30F3\u30D0\u30FB\u30BF\u306E\u7960"
+- _Warp::Beast::Medoh
+- _Korok::T11
+- "_Npc::Rito<Gesane/\u30AE\u30B6\u30F3>":
+    comment: "Face the Frost Talus/\u30D6\u30EA\u30B6\u30FC\u8C37\u306E\u30AC\u30C1\
+      \u30ED\u30C3\u30AF"
+    coord: [-3308.27, 227.83, -1803.34]
+- "_Npc::SheikaMale<Lester/\u30EC\u30B9>":
+    comment: "Curry for What Ails You/\u5BD2\u3044\u6642\u306B\u306F\u30AB\u30EC\u30FC\
+      \u3092\uFF01"
+    coord: [-3267.07, 224.6, -1773.77]
+- _Material<Wood>:
+    notes: Farm wood
+    coord: [-3254.9375, -1741.75]
+- Cliff above T19:
+    coord: [-3169.25, -1567.8125]
+- _Korok::T19:
+    comment: Drown
+    movements:
+    - to: [-3151.57, 185.5, -1563.28]
+- _Korok::T21
+- _Korok::T22
+- _Korok::T25
+- .gale() across the canyon:
+    gale: 1
+- _Korok::R05
+- _Discover<Footrace Check-In>:
+    comment: "\u30DE\u30E9\u30BD\u30F3\u53D7\u4ED8"
+    coord: [-2642.125, -1168.4375]
+- _Korok::R13
+- _Korok::R17
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [-2369.875, -419.375]
+- _Korok::R22:
+    notes: Shoot after killing hinox
+    movements:
+    - to: [-2434.11, 319.87, -491.04]
+- _Korok::R31:
+    notes: Shoot after killing hinox
+    movements:
+    - to: [-2370.11, 307.05, -345.31]
+- .gale() up from this smaller tree:
+    gale: 1
+    icon: npc-rito
+    coord: [-2447.4375, -304.375]
+- _Korok::R30
+- _Korok::R21
+- "_Npc::SheikaMale<Toren/\u30C8\u30EA\u30E5\u30FC>":
+    comment: "A Gift for the Great Fairy/\u5927\u5996\u7CBE\u3055\u307E\u306E\u304A\
+      \u3075\u305B"
+    coord: [-2916.0, 274.73, -561.0]
+- _Korok::T34
+- _Korok::R28
+- _Korok::R29
+- Cube for R20:
+    coord: [-3211.56, 44.18, -495.6]
+- _Korok::R20
+- _Discover<Tanagar Canyon Course>:
+    comment: "\u30AF\u30AF\u30B8\u30E3\u8C37\u30B3\u30FC\u30B9"
+    coord: [-3119.6875, -627.6875]
+- _Korok::R12

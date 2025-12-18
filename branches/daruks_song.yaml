@@ -1,0 +1,130 @@
+- _Warp::Shrine::ShaeMosah
+- _Material<Stamina Vessel, 1>:
+    coord: [1722.25, 498.86, -2456.24]
+- _Chest::Special<Boulder Breaker>:
+    comment: "\u5DE8\u5CA9\u7815\u304D"
+    coord: [1740.6875, -2446.8125]
+- .gale() across to the other side:
+    gale: 1
+    time-override: 1000
+    coord: [1586.875, -2433.375]
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "EX Champion Daruk's Song/\u82F1\u5091\u30C0\u30EB\u30B1\u30EB\u306E\u8A69"
+    coord: [1406.12, 523.28, -2282.18]
+- _Warp::Beast::Rudania
+- Pass through the light rings over the volcano:
+    comment: "\u706B\u5C71\u306B\u67B6\u304B\u308A\u3057\u5149\u8F2A\u3092\u304F\u3050\
+      \u308B"
+    icon: npc-goron
+    movements:
+    - to: [2543.1, 979.3, -2494.7]
+    - to: [2594.57, 990.9, -2517.64]
+    - to: [2611.6, 1002.56, -2529.0]
+    - to: [2639.9, 957.7, -2570.6]
+    - to: [2672.09, 941.92, -2556.85]
+    - to: [2699.9, 888.29, -2548.53]
+    - to: [2734.8, 776.7, -2529.2]
+    - to: [2798.04, 708.56, -2524.03]
+    - to: [2891.98, 668.27, -2464.2]
+- _Shrine::SharoLun:
+    comment: "\u30B7\u30E3\u30C9\u30FB\u30ED\u30F3\u306E\u7960"
+    notes: .link([Video]https://youtu.be/z_ghLpj4U2U)
+- _Discover<Shadow Hamlet Ruins>:
+    comment: "\u30B7\u30E3\u30C9\u30FC\u96C6\u843D\u8DE1"
+    coord: [3053.8125, -2299.4375]
+- _Korok::A25
+- _Warp::Shrine::ShaeMosah
+- _Korok::E10
+- Rock for E11:
+    notes: Above on top of pillar
+    coord: [2051.27, 622.74, -2762.25]
+- _Korok::E11
+- _Korok::E09
+- _Boss::Talus::Igneo:
+    comment: "\u30DE\u30B0\u30ED\u30C3\u30AF"
+    coord: [2146.1875, -3011.5]
+- .fury() drop down beside it:
+    fury: 3
+    time-override: 1000
+- _Korok::E06
+- Head to KamiaOmuna:
+    movements:
+    - to: [2431, -3184.75]
+    - to: [2407.6875, -3225.875]
+    - to: [2403.6875, -3258.875]
+    - to: [2387.5625, -3280.125]
+    - to: [2364.8125, -3280]
+    - to: [2326.375, -3315.125]
+    - to: [2285.75, -3332.5]
+    - to: [2265.625, -3323.25]
+    - to: [2229.5, -3291.3125]
+    - to: [2176.375, -3311.8125]
+    - to: [2159.25, -3288.375]
+    - to: [2143.9375, -3225.25]
+- "Igneo Talus Titan/\u30E1\u30AC\u30DE\u30B0\u30ED\u30C3\u30AF":
+    icon: talus-igneo-rare
+    notes: OB AA
+    coord: [2160.11, 500.65, -3190.37]
+- _Shrine::KamiaOmuna:
+    comment: "\u30AB\u30DF\u30E9\u30FB\u30AA\u30E0\u30CA\u306E\u7960"
+    notes: .link([Video]https://youtu.be/ZV3KjH7pu_A)
+- _Warp::Shrine::DaqaKoh
+- _Equipment::Weapon<Drillshaft>:
+    comment: "\u524A\u5CA9\u68D2"
+    coord: [1946.9375, -2203.1875]
+- "_Npc::Goron<Dugby/\u30B3\u30C3\u30D7\u30B9>":
+    comment: "Death Mountain's Secret/\u30C7\u30B9\u30DE\u30A6\u30F3\u30C6\u30F3\u306E\
+      \u79D8\u5BC6"
+    coord: [1787.9375, -2244.375]
+- "_Npc::Goron<Gonguron/\u30B4\u30F3\u30B0\u30ED\u30F3>":
+    comment: "A Brother's Roast/\u5F1F\u306F\u3044\u305A\u3053\uFF1F"
+    movements:
+    - to: [2045.8125, -2040.25]
+    - to: [1822.75, -1890.9375]
+    - to: [2045.8125, -2040.25]
+- _Shrine::KayraMah:
+    comment: "\u30B1\u30CF\u30FB\u30E9\u30DE\u306E\u7960"
+    notes: Ruby, Bomb Arrow x5 - .link([Video]https://youtu.be/AbkO9IVD1Lk)
+- _Korok::E20:
+    movements:
+    - to: [1995.125, -2044.75]
+    - to: [1995.97, 579.82, -2106.65]
+    - to: [2019.42, 557.72, -2172.9]
+- _Boss::Talus::Igneo:
+    comment: "\u30DE\u30B0\u30ED\u30C3\u30AF"
+    notes: Boulder Breaker
+    coord: [2141.8125, -2178.4375]
+- _Korok::E21
+- _Korok::E22
+- Move metal boxes into the light ring
+- .gale() from box to shrine:
+    gale: 1
+    time-override: 1000
+- _Shrine::RinuHonika:
+    comment: "\u30EA\u30CE\u30FB\u30D2\u30DF\u30AB\u306E\u7960"
+    notes: .link([Video]https://youtu.be/kGdSzJZrKz4)
+- _Boss::Talus::Igneo:
+    comment: "\u30DE\u30B0\u30ED\u30C3\u30AF"
+    notes: Wake with ice arrow, then OB AA
+    coord: [2372.25, -1998.4375]
+- _Korok::E23
+- _Korok::E28
+- _Shrine::QuaRaym:
+    comment: "\u30AD\u30E5\u30FB\u30E9\u30E0\u30D2\u306E\u7960"
+    notes: .link([Video]https://youtu.be/Lydn9FcS7kc)
+- .gale() from shrine to shore in the direction of E31:
+    gale: 1
+    time-override: 1000
+- Two Rocks for E31:
+    movements:
+    - to: [1429.99, 467.76, -1526.72]
+    - to: [1410.49, 466.32, -1554.2]
+- _Korok::E31
+- _Memory::EldinCanyon:
+    comment: "\u4E88\u5146"
+- _Warp::Beast::Rudania
+- Daruk's Protection+:
+    comment: "\u82F1\u5091\u30C0\u30EB\u30B1\u30EB\u306E\u8B77\u308A+"
+    icon-doc: rudania-done
+    notes: .link([Video]https://youtu.be/OFhj38vZlFw)
+    counter: .split(SPLIT)

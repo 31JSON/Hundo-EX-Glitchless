@@ -1,0 +1,96 @@
+- Line Color - Green
+- _Warp::Shrine::YowakaIta
+- Glide across to C81:
+    coord: [-950.5, 1478.5]
+- _Korok::C81
+- _Korok::C82
+- _Memory::LakeKolomo:
+    comment: "\u6C7A\u610F\u3068\u82E6\u60A9"
+- _Korok::C83
+- _Chest<Opal>:
+    coord: [-641.69, 128.14, 1419.53]
+- "_Chest::Special<Majora's Mask/\u30E0\u30B8\u30E5\u30E9\u306E\u4EEE\u9762>":
+    comment: "EX Treasure Ancient Mask/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u592A\
+      \u53E4\u306E\u4EEE\u9762"
+    coord: [-448.19, 136.21, 1281.96]
+- _Korok::C76
+- _Korok::C75
+- _Boss::Talus::Luminous:
+    coord: [-514.75, 1181.6875]
+- .fury():
+    fury: 3
+    time-override: 1000
+- _Korok::C69
+- _Korok::C63
+- _Material<Endra Shroom>:
+    coord: [-747.92, 136.77, 861.29]
+- "_Chest::Special<Tingle's Hood/\u30C1\u30F3\u30AF\u30EB\u306E\u982D\u5DFE>":
+    comment: "EX Treasure Fairy Clothes/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u5996\
+      \u7CBE\u306E\u7DD1\u8863"
+    coord: [-744.04, 132.58, 890.13]
+- _Korok::C62
+- _Shrine::KaamYatak:
+    comment: "\u30E4\u30AB\u30FC\u30FB\u30DE\u30BF\u306E\u7960"
+    notes: Edge of Duality, Knight's Broadsword, Ancient Core, Silver Rupee, Diamond
+      - .link([Video]https://youtu.be/4bcDrkoPkgs)
+- _Korok::C61
+- _Korok::C60:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/C60.png)
+- _Korok::C57
+- _Discover<Gleeok Bridge>:
+    comment: "\u30B0\u30EA\u30AA\u30FC\u6A4B"
+    coord: [-1311.8125, 786.8125]
+- _Korok::C58
+- _Korok::C59
+- .gale() across river toward R74:
+    gale: 1
+- _Korok::R74
+- _Memory::SanidinPark:
+    comment: "\u30E9\u30CD\u30FC\u30EB\u5C71\u3078"
+- .gale() over to the white stallion:
+    gale: 1
+    coord: [-1648.5625, 724.3125]
+- "_Npc<Royal White Stallion/\u738B\u5BB6\u306E\u767D\u99AC>":
+    comment: "The Royal White Stallion/\u738B\u5BB6\u306E\u767D\u99AC"
+    coord: [-1674.0625, 807.6875]
+- _Korok::R79
+- Outskirts Stable:
+    movements:
+    - to: [-1806.6875, 912.125]
+    - to: [-1803.375, 886.3125]
+    - to: [-1808.3125, 868.375]
+    - to: [-1894.5625, 913.3125]
+    - to: [-1897.3125, 915.8125]
+    - to: [-1932.0625, 944.0625]
+    - to: [-1943.9375, 958.625]
+    - to: [-1954.25, 986]
+    - to: [-1952.4375, 1000.75]
+    - to: [-1947.8125, 1021.9375]
+    - to: [-1946.8125, 1026.8125]
+    - to: [-1930.4375, 1056.125]
+    - to: [-1909.875, 1073.3125]
+    - to: [-1832.6875, 1077.75]
+    - to: [-1785.5625, 1061.125]
+    - to: [-1723.8125, 1056.3125]
+    - to: [-1699.875, 1044.875]
+    - to: [-1678.25, 1041.9375]
+    - to: [-1645.9375, 1020.8125]
+    - to: [-1577.25, 1013.25]
+    - to: [-1531.25, 1014.3125]
+    - to: [-1492.3125, 1012.875]
+    - to: [-1464.6875, 1027.25]
+    - to: [-1444.3125, 1071.0625]
+    - to: [-1456, 1102.5]
+    - to: [-1459.375, 1134.75]
+    - to: [-1473.8125, 1166.25]
+    - to: [-1460.875, 1220.3125]
+    - to: [-1449.6875, 1269.125]
+- "_Npc::SheikaMale<Toffa/\u30C8\u30FC\u30C6\u30C4>":
+    comment: "The Royal White Stallion/\u738B\u5BB6\u306E\u767D\u99AC"
+    coord: [-1439.25, 137.72, 1278.45]
+- "_Npc::SheikaMale<Trott/\u30C8\u30ED\u30C3\u30C8>":
+    comment: "A Rare Find/\u8089\u98DF\u7CFB\u7537\u5B50\uFF1F\uFF01>"
+    coord: [-1432.5, 137.72, 1264.5]
+- "_Npc::SheikaFemale<Aliza/\u30A4\u30E9\u30A4\u30B6>":
+    comment: "My Hero/\u308F\u305F\u3057\u306E\u52C7\u8005\u69D8\uFF01"
+    coord: [-1400.0, 137.72, 1280.0]

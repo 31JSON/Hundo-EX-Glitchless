@@ -1,0 +1,52 @@
+- Line Color - Purple
+- _Warp::Shrine::ShadaNaw
+- .gale() from the location indicated toward H10:
+    gale: 1
+    icon: npc-rito
+    coord: [-3094, -3290]
+- _Korok::H10
+- _Korok::H11
+- _Korok::H09
+- Rock for H04:
+    coord: [-3757.19, 375.47, -3848.12]
+- _Korok::H04
+- _Tod::Night:
+    icon-map: null
+- _Boss::Hinox::Stal:
+    comment: "\u30B9\u30BF\u30EB\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [-4260.125, -3777.625]
+- _Korok::H01
+- _Shrine::HiaMiu:
+    comment: "\u30D2\u30E3\u30FB\u30DF\u30A6\u306E\u7960"
+    notes: Sapphire
+- _Chest<Ruby>:
+    coord: [-4426.84, 412.2, -3681.15]
+- .gale() from the indicated location toward H23:
+    gale: 1
+    icon: npc-rito
+    coord: [-4409.625, -3469.125]
+- _Korok::H23
+- _Chest<Sapphire>:
+    coord: [-4327.59, 396.7, -3330.21]
+- _Discover<Sherfin's Secret Hot Spring>:
+    comment: "\u30BC\u30C3\u30AB\u30EF\u30DF\u306E\u79D8\u6E6F"
+    coord: [-4307.9375, -3494.5]
+- .gale() up the mountain from this location:
+    gale: 1
+    icon: npc-rito
+    coord: [-4248.5, -3511.625]
+- _Korok::H07:
+    notes: If done at night, there is a guaranteed stallizalfos spawn.
+- _Korok::H08
+- _Korok::H02:
+    notes: The one on the left.
+- Make two cryo blocks in the small pool:
+    coord: [-3746.625, -3557.4375]
+- Roll a large snowball down the hill:
+    coord: [-3696.18, 432.77, -3532.44]
+- _Snap::Quest<Hebra Great Skeleton>:
+    icon-map: null
+- _Shrine::ToQuomo:
+    comment: "\u30C8\u30FB\u30AF\u30E2\u306E\u7960"
+    notes: Royal Claymore
+- _Korok::H03

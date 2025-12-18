@@ -1,0 +1,14 @@
+- _Warp::SOR
+- "Monk Maz Koshia/\u5C0E\u5E2B\u30DF\u30A3\u30BA\u30FB\u30AD\u30E7\u30B7\u30A2":
+    comment: "EX The Champions' Ballad/\u82F1\u5091\u305F\u3061\u306E\u8A69"
+    icon: maz
+    notes: .link([Video]https://youtu.be/X3YUeoyehZ4)
+    counter: .split(SPLIT)
+    coord: [-1124.96, 238.47, 1903.14]
+- .fury() during Maz Koshia fight:
+    fury: 3
+    time-override: 1000
+- _Material<Stamina Vessel, 1>:
+    coord: [-823.26, 225.44, 2031.48]
+- _Material<Heart Vessel, 1>:
+    icon-map: null

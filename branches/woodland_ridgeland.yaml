@@ -1,0 +1,131 @@
+- .gale() from just outside the cave opening in the direction of the boulders up on the hill:
+    gale: 1
+- Boulder for R19:
+    coord: [-1203.26, 186.9, -630.99]
+- _Korok::R19
+- _Korok::R16
+- _Korok::R10
+- _Korok::R11
+- .gale() back up the wall:
+    gale: 1
+- _Memory::IrchPlain:
+    comment: "\u59EB\u3057\u305A\u304B"
+- _Korok::R07
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [-752.3125, -1267.8125]
+- _Korok::K29
+- _Korok::K27
+- _Korok::K28
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [-480.5, -2040]
+- _Korok::K19
+- _Korok::K16
+- _Korok::K18
+- _Korok::K26
+- _Korok::K24
+- Rock for K25:
+    coord: [-1080.87, 215.41, -1691.5]
+- _Korok::K25
+- _Korok::K17:
+    notes: Use MC0 to jump fences
+- _Korok::K23
+- _Shrine::MonyaToma:
+    comment: "\u30E2\u30F3\u30E4\u30FB\u30C8\u30DE\u306E\u7960"
+    notes: .link([Video]https://youtu.be/bVzU-umW4p0)
+- _Shrine::MaagNorah:
+    comment: "\u30DE\u30FB\u30CE\u30E9\u306E\u7960"
+    notes: Silver Rupee
+- .gale() up from just outside the cave:
+    gale: 1
+- _Korok::R03
+- .gale() up the wall:
+    gale: 1
+- _Boss::Talus::Luminous:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u591C\u5149\uFF09"
+    coord: [-2177.625, -1585.4375]
+- .fury():
+    fury: 3
+    time-override: 1000
+- _Korok::R02
+- _Korok::R06
+- _Korok::R09
+- .gale() up to the tower from the location indicated:
+    gale: 1
+    icon: npc-rito
+    coord: [-1796.375, -777.75]
+- _Tower::Ridgeland:
+    comment: "\u4E18\u9675\u306E\u5854"
+- .gale() over toward R15 on top of the tree:
+    gale: 1
+- 3 Rocks for R15:
+    movements:
+    - to: [-2047.0, 260.62, -772.86]
+    - to: [-2070.58, 260.47, -770.16]
+    - to: [-2063.21, 260.28, -787.16]
+- _Korok::R15
+- Red orb:
+    coord: [-2135.6, 219.98, -909.2]
+- .gale() up the pillar with the orange orb:
+    gale: 1
+- Orange orb:
+    coord: [-2271.02, 228.58, -1040.27]
+- _Korok::R08
+- Green orb:
+    coord: [-2288.7, 235.47, -882.8]
+- _Shrine::TohYahsa:
+    comment: "\u30C8\u30FC\u30FB\u30E4\u30C3\u30B5\u306E\u7960"
+    notes: Rubber armor, if needed for money
+- _Korok::R14
+- _Material<Courser Bee Honey, 1>:
+    coord: [-2330.08, 209.5, -655.77]
+- .gale() up to the large tree with the starting flower:
+    gale: 1
+    icon: npc-rito
+    coord: [-2070.875, -517.75]
+- _Korok::R23
+- _Korok::R24
+- .gale() from the race start:
+    gale: 1
+    icon: npc-rito
+    coord: [-1984.92, 206.82, -624.09]
+- _Korok::R18
+- .gale() from the race start:
+    gale: 1
+    icon: npc-rito
+    coord: [-1787.71, 237.45, -377.97]
+- _Korok::R25
+- _Chest<Silver Rupee>:
+    coord: [-1028.3, 111.57, -539.4]
+- Go to the start block for R26 and start the race:
+    coord: [-989.87, 116.11, -541.01]
+- On the way, do C24
+- _Korok::C24
+- _Korok::R26:
+    coord: [-1115.56, 151.98, -528.59]
+- _Korok::R27:
+    notes: Shoot acorn from where R26 ends
+    movements:
+    - to: [-1092.08, 129.02, -497.51]
+- _Korok::R44
+- _Korok::R43
+- _Korok::R45
+- _Korok::R42
+- .gale() from a cryo block in the direction of the hinox:
+    gale: 1
+- _Boss::Hinox::Black:
+    comment: "\u9ED2\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [-1177.1875, 118.5625]
+- _Korok::C47
+- .gale() up to the top of the tree stump from a cryo block:
+    gale: 1
+- _Discover<Ancient Tree Stump>:
+    comment: "\u673D\u3061\u305F\u5343\u5E74\u6A39"
+    coord: [-1107.3125, 444.4375]
+- Cube for C37:
+    coord: [-1347.91, 107.99, 388.8]
+- _Korok::C37
+- .gale() from cryo block across the river to the tree:
+    gale: 1
+- _Korok::R58

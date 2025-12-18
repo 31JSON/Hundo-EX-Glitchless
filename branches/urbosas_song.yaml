@@ -1,0 +1,271 @@
+- _Warp::Shrine::DakoTah
+- _Material<Lizalfos Parts>:
+    coord: [-3247.12, 131.2, 2227.26]
+- _Korok::W17
+- _Chest<Arrow x10>:
+    coord: [-3118.5, 133.2, 2481.5]
+- _Memory::KaraKaraBazaar:
+    comment: "\u30A4\u30FC\u30AC\u56E3\u306E\u51F6\u5203"
+- "_Npc::Rito<Guy/\u30AE\u30CD\u30DE\u30FC>":
+    comment: "An Ice Guy/\u6691\u3055\u3092\u3057\u306E\u3050\u85AC"
+    notes: Dialog Options 2
+    coord: [-3238.5, 2574.5625]
+- _Chest<Silver Rupee>:
+    coord: [-3242.5, 122.96, 2562.67]
+- "_Npc::Gerudo<Rhondson/\u30D1\u30A6\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    notes: Dialog Options 1 1 1 2
+    coord: [-3269.3125, 2585.25]
+- "_Npc::SheikaMale<Nobiro/\u30CE\u30D3\u30EB>":
+    comment: "The Eye of the Sandstorm/\u6D88\u3048\u308B\uFF1F\u7802\u5D50"
+    coord: [-3282.625, 2540.6875]
+- _Warp::Beast::Naboris
+- Two rocks for W34:
+    movements:
+    - to: [-1938.51, 451.81, 2662.28]
+    - to: [-1934.42, 452.81, 2678.83]
+- _Korok::W34:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W34.png)
+- _Korok::W39:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W39.png)
+- _Korok::W38
+- _Boss::Talus::Luminous:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u591C\u5149\uFF09"
+    coord: [-2096.25, 3037.75]
+- _Korok::W50
+- _Korok::W58
+- Enter South Lomei Labyrinth:
+    coord: [-1751.875, 3469.8125]
+- _Shrine::DilaMaag:
+    comment: "\u30C7\u30A3\u30E9\u30FB\u30DE\u306E\u7960"
+    notes: .link([Video]https://youtu.be/rtwIqGbpzeA) - Barbarian Armor (Optional)
+- .gale() after climbing the ladder:
+    gale: 1
+    icon: npc-rito
+    coord: [-1795.25, 3470.9375]
+- _Tod::Noon:
+    notes: On top of labyrinth; For Suma Sahma
+    coord: [-1787.125, 3464.5625]
+- .gale():
+    gale: 1
+    icon: npc-rito
+    coord: [-1645.25, 3431.125]
+- .gale():
+    gale: 1
+    icon: npc-rito
+    coord: [-1600.25, 3447.625]
+- _Korok::W54
+- _Korok::W59
+- Rock for W64:
+    coord: [-1336.04, 446.86, 3757.47]
+- _Korok::W64
+- _Korok::W60
+- "_Npc<\u96EA\u5C71\u306E\u65E5\u8A8C/Mountain Peak Log>":
+    comment: "\u96EA\u5C71\u306E\u65E5\u8A8C/Secret of the Snowy Peaks"
+    notes: 16 - 17:30; Dialog Options 2 1 3
+    coord: [-1387.6875, 3494.3125]
+- _Shrine::SumaSahma:
+    comment: "\u30B9\u30DE\u30FB\u30B5\u30DE\u306E\u7960"
+    notes: .link([Video]https://youtu.be/I14ibugExnI)
+- _Korok::W53
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "EX Champion Urbosa's Song/\u82F1\u5091\u30A6\u30EB\u30DC\u30B6\u306E\
+      \u8A69"
+    coord: [-1536.5, 426.0, 2919.0]
+- _Korok::W41
+- Rock for W45:
+    coord: [-1582.63, 309.51, 3113.0]
+- _Korok::W45:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W45.png)
+- _Korok::W46
+- _Korok::W49:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W49.png)
+- _Korok::W48:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W48.png)
+- _Korok::W52:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W52.png)
+- Start W63 Race:
+    coord: [-2591.2, 129.93, 3543.36]
+- .gale() from this pillar:
+    gale: 1
+    icon: npc-rito
+    notes: You won't make it all the way to the finish. Avoid the Molduking.
+    coord: [-2544.9375, 3604.4375]
+- _Korok::W63:
+    movements:
+    - to: [-2448.41, 134.74, 3751.94]
+- Molduking:
+    comment: "\u30AD\u30F3\u30B0\u30E9\u30B8\u30FC\u30AF"
+    icon: molduga
+    notes: Fury x 3, GEB x 1 Shock
+    coord: [-2391.18, 119.09, 3733.19]
+- .fury():
+    fury: 3
+- _Shrine::KeiveTala:
+    comment: "\u30B1\u30FC\u30D9\u30FB\u30BF\u30EF\u306E\u7960"
+    notes: .link([Video]https://youtu.be/wohVqp058pE)
+- _Korok::W68
+- _Shrine::MisaeSuma:
+    comment: "\u30DF\u30A3\u30FB\u30B9\u30A5\u306E\u7960"
+    notes: Diamond (Optional)
+- Rock for W62:
+    coord: [-3012.18, 182.46, 3746.57]
+- _Korok::W62
+- _Korok::W67
+- _Warp::Shrine::KuhTakkar
+- Rock for G22:
+    coord: [-3064.05, 611.04, 1466.01]
+- _Korok::G22
+- _Shrine::KihiroMoh:
+    comment: "\u30AD\u30D2\u30ED\u30C6\u30FB\u30E2\u30FC\u306E\u7960"
+    notes: .link([Video]https://youtu.be/5qVrN4Slwo8) - Red 1, Green 2, Yellow 2,
+      Purple 4
+- _Warp::Tower::Gerudo
+- _Korok::G31
+- Rock for G30:
+    coord: [-4122.07, 401.7, 1730.83]
+- _Korok::G30
+- .gale() from here toward the talus:
+    gale: 1
+    icon: npc-rito
+    coord: [-4159.625, 1707.75]
+- _Boss::Talus::Luminous:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u591C\u5149\uFF09"
+    coord: [-4312.125, 1446.8125]
+- _Korok::G21:
+    notes: .link([Visual cue]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/G21.png)
+- _Korok::G16
+- Rock for G20:
+    coord: [-4550.73, 565.72, 1431.77]
+- _Korok::G20
+- _Korok::G15
+- _Korok::G11
+- _Chest<Bomb Arrow x5>:
+    coord: [-4296.08, 601.46, 1095.59]
+- _Chest<Sapphire>:
+    coord: [-4375.21, 594.2, 1132.84]
+- _Chest<Fire Arrow x5>:
+    coord: [-4481.57, 620.49, 1041.45]
+- _Korok::G07
+- _Shrine::KemaKosassa:
+    comment: "\u30AD\u30DE\u30FB\u30B3\u30B5\u30B5\u306E\u7960"
+    notes: .link([Video]https://youtu.be/b0ezOlYvmiw)
+- _Chest<Fire Arrow x5>:
+    coord: [-4537.55, 616.11, 875.79]
+- _Korok::G08
+- _Korok::G04:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/G04.png)
+- _Korok::G05
+- _Korok::G01:
+    notes: .link([Video]https://youtu.be/xuOLyBFgLdw)
+- _Discover<Statue of the Eighth Heroine>:
+    comment: "\u516B\u4EBA\u76EE\u306E\u82F1\u5091\u50CF"
+    coord: [-4363.6875, 468.4375]
+- _Snap::Quest<Statue of the Eigth Heroine>
+- _Korok::G02
+- Rock for G03:
+    coord: [-3969.875, 330.8125]
+- _Korok::G03
+- _Korok::G06:
+    notes: Use the updraft to gain height to glide over to platform.
+- _Shrine::KeehaYoog:
+    comment: "\u30AD\u30CF\u30FB\u30A6\u306E\u7960"
+- .gale() from this location:
+    gale: 1
+    icon: npc-rito
+    coord: [-3812.375, 791.125]
+- _Chest<Arrow x10>:
+    coord: [-3738.97, 728.32, 806.06]
+- Rock for G09:
+    coord: [-3714.56, 746.6, 805.26]
+- _Korok::G09
+- _Chest<Opal>:
+    coord: [-3662.28, 720.07, 783.63]
+- _Chest<Sapphire>:
+    coord: [-3778.61, 736.79, 871.3]
+- _Snap::Quest<Sword of the Eigth Heroine>:
+    coord: [-4004.75, 968.0625]
+- _Boss::Talus::Rare:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u5E0C\u5C11\uFF09"
+    coord: [-3804.76, 602.57, 1204.77]
+- _Chest<Opal>:
+    coord: [-3805.3, 604.75, 1281.72]
+- _Chest<Shock Arrow x5>:
+    coord: [-3730.32, 626.25, 1246.34]
+- _Boss::Talus::Frost:
+    comment: "\u30AC\u30C1\u30ED\u30C3\u30AF"
+    coord: [-3558.72, 558.36, 1560.07]
+- _Chest<Fire Arrow x5>:
+    coord: [-3525.24, 573.46, 1541.0]
+- _Material<Wildberry>:
+    comment: "\u30A4\u30C1\u30B4"
+    movements:
+    - to: [-3649.15, 570.08, 1529.57]
+    - to: [-3648.46, 569.9, 1530.24]
+    - to: [-3666.95, 569.39, 1529.35]
+    - to: [-3667.27, 569.57, 1530.26]
+    - to: [-3664.63, 570.17, 1535.38]
+    - to: [-3663.94, 569.99, 1536.07]
+    - to: [-3657.69, 570.6, 1535.99]
+    - to: [-3657.85, 570.42, 1536.95]
+    - to: [-3663.78, 570.53, 1540.23]
+    - to: [-3664.22, 570.35, 1541.1]
+- Snowball for G26:
+    coord: [-3666.82, 571.23, 1564.6]
+- _Korok::G26
+- _Korok::W01
+- _Korok::W02
+- _Korok::G25
+- _Korok::W04
+- _Korok::W05
+- _Korok::W03
+- _Korok::W06
+- Rock for G33:
+    movements:
+    - to: [-4151.57, 208.28, 1934.11]
+- _Korok::G33
+- _Warp::Shrine::DaqoChisay
+- "_Npc::SheikaMale<Bozai/\u30DC\u30C6\u30F3\u30B5>":
+    comment: "The Eighth Heroine/\u516B\u4EBA\u76EE\u306E\u82F1\u96C4"
+    coord: [-3762.875, 2883.375]
+- "_Npc::SheikaMale<Bozai/\u30DC\u30C6\u30F3\u30B5>":
+    comment: "The Forgotten Sword/\u5FD8\u308C\u3089\u308C\u305F\u5263"
+    coord: [-3762.875, 2883.375]
+- _Material<Stamina Vessel, 2>:
+    coord: [-3769.63, 148.98, 2944.35]
+- _Cook<Electric Protection>:
+    notes: 5 Zapshroom
+    coord: [-3834.92, 148.98, 2946.04]
+- Pass through the light rings with the beast:
+    comment: "\u7363\u3068\u5171\u306B\u5149\u8F2A\u3092\u304F\u3050\u308B"
+    icon: npc-gerudo
+    notes: Rent a sand seal at the northwest exit of town
+    movements:
+    - to: [-4201.4, 154.24, 2713.2]
+    - to: [-4290.06, 159.24, 2679.14]
+    - to: [-4402.44, 152.77, 2628.23]
+    - to: [-4491.5, 162.95, 2589.5]
+    - to: [-4560.0, 172.29, 2513.5]
+    - to: [-4586.5, 150.65, 2423.5]
+    - to: [-4595.0, 144.47, 2336.7]
+    - to: [-4682.0, 152.24, 2295.0]
+    - to: [-4756.1, 171.27, 2252.7]
+    - to: [-4855.12, 147.28, 2169.28]
+- _Shrine::TakamaShiri:
+    comment: "\u30BF\u30BF\u30AB\u30DE\u30FB\u30B7\u30DF\u30EA\u306E\u7960"
+    notes: .link([Video]https://youtu.be/RiKGqIux_co)
+- _Chest<Gold Rupee>:
+    coord: [-4938.5, 140.1, 2156.9]
+- _Korok::W09
+- _Shrine::KemaZoos:
+    comment: "\u30AD\u30DE\u30FB\u30BA\u30FC\u30B9\u306E\u7960"
+- _Warp::Beast::Naboris
+- Urubosa's Fury+:
+    comment: "\u82F1\u5091\u30A6\u30EB\u30DC\u30B6\u306E\u6012\u308A+"
+    icon-doc: naboris-done
+    notes: .link([Video]https://youtu.be/oZ6SiQVZpP8)
+    counter: .split(SPLIT)
+- .fury() phase 2 Thunderblight:
+    fury: 3
+    time-override: 1000

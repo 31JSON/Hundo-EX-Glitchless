@@ -1,0 +1,132 @@
+- Line Color - Green
+- _Warp::Shrine::ShoDantu:
+    color: rgb(146, 207, 80)
+- Enter Yiga Hideout:
+    notes: .link([Video]https://youtu.be/q45VLTadqmU)
+    coord: [-3650.66, 441.62, 1371.41]
+- _Npc::SheikaMale<Master Kohga>:
+    coord: [-3465.6, 440.72, 1325.95]
+- _Chest<Thunder Helm>:
+    comment: "\u96F7\u9CF4\u306E\u515C"
+    coord: [-3451.0, 440.69, 1331.5]
+- _Warp::Shrine::DaqoChisay
+- "_Npc::Gerudo<Riju/\u30EB\u30FC\u30B8\u30E5>":
+    comment: "Vah Naboris Main Quest/\u96F7\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30CA\
+      \u30DC\u30EA\u30B9"
+    coord: [-3868.875, 2949]
+- Lookout Tower:
+    comment: "Vah Naboris Main Quest/\u96F7\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30CA\
+      \u30DC\u30EA\u30B9"
+    icon: naboris-enter
+    coord: [-3420.6875, 3118.75]
+- "_Npc::Gerudo<Pokki/\u30D1\u30AF\u30C8>":
+    comment: "The Perfect Drink/\u3046\u308B\u308F\u3057\u306E\u7F8E\u9152\u3092\u6C42\
+      \u3081\u3066\u30FB\u30FB\u30FB"
+    notes: Start quest during the attack on Naboris
+    coord: [-2967.9375, 3775.3125]
+- Enter Naboris:
+    icon-doc: naboris-enter
+    notes: .link([Video]https://youtu.be/HeeeBlvub0I); Stasis+, GEB x 2 (body) + OB
+      x 1 (body)
+    counter: .split(SPLIT)
+- .gale() inside Naboris:
+    gale: 3
+    time-override: 1000
+- _Material<Heart Vessel, 1>:
+    icon-map: null
+- Urubosa's Fury:
+    comment: "\u82F1\u5091\u30A6\u30EB\u30DC\u30B6\u306E\u6012\u308A"
+    icon: naboris-done
+    counter: .split(SPLIT)
+    movements:
+    - to: [-3780.875, 2858.3125]
+      warp: True
+- "_Npc::SheikaMale<Bozai/\u30DC\u30C6\u30F3\u30B5>":
+    comment: "The Eighth Heroine/\u516B\u4EBA\u76EE\u306E\u82F1\u96C4"
+    notes: Start quest
+    coord: [-3762.875, 2883.375]
+- "_Npc::Gerudo<Riju/\u30EB\u30FC\u30B8\u30E5>":
+    comment: "Vah Naboris Main Quest/\u96F7\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30CA\
+      \u30DC\u30EA\u30B9"
+    coord: [-3891.5625, 2968.25]
+- "_Npc::Gerudo<Riju/\u30EB\u30FC\u30B8\u30E5>":
+    comment: "The Thunder Helm/\u30B2\u30EB\u30C9\u306E\u81F3\u5B9D \u96F7\u9CF4\u306E\
+      \u515C\uFF01"
+    notes: Start quest
+    coord: [-3886.4375, 2968.25]
+- "_Npc::Gerudo<Liana/\u30E9\u30F3\u30B8\u30A7>":
+    comment: "The Search for Barta/\u30D0\u30EC\u30C3\u30BF\u3092\u63A2\u3057\u3066"
+    notes: Start quest
+    coord: [-3912.5625, 2931.0625]
+- "_Npc::Gerudo<Laine/\u30E9\u30A4\u30CA>":
+    comment: "The Silent Swordswomen/\u53E3\u3092\u9589\u3056\u3057\u305F\u5263\u58EB"
+    notes: Start quest
+    coord: [-3916.0625, 2877.5625]
+- "_Npc::Gerudo<Rotana/\u30ED\u30C6\u30A4\u30F3>":
+    comment: "The Seven Heroines/\u4E03\u4EBA\u306E\u82F1\u96C4"
+    notes: Start quest
+    coord: [-3877.75, 2881.75]
+- "_Npc::Gerudo<Furosa/\u30D5\u30ED\u30B9>":
+    comment: "The Perfect Drink/\u3046\u308B\u308F\u3057\u306E\u7F8E\u9152\u3092\u6C42\
+      \u3081\u3066\u30FB\u30FB\u30FB"
+    coord: [-3856.6875, 2856.4375]
+- "_Npc::Gerudo<Dalia/\u30C6\u30A3\u30AF\u30EB>":
+    comment: "The Mystery Polluter/\u72AF\u4EBA\u306F\u8AB0\u3060\uFF01"
+    notes: Start quest
+    coord: [-3834.625, 2852.5]
+- _Warp::Tower::Gerudo
+- _Tod::Noon:
+    icon-map: null
+    notes: Outside the icehouse. Complete the ice delivery quickly to get back to
+      Gerudo Tower in time for Sasa Kai.
+- "_Npc::Gerudo<Anche/\u30A2\u30F3\u30C1\u30A7>":
+    comment: "The Perfect Drink/\u3046\u308B\u308F\u3057\u306E\u7F8E\u9152\u3092\u6C42\
+      \u3081\u3066\u30FB\u30FB\u30FB"
+    notes: get ice
+    coord: [-3744.9375, 2275.375]
+- "_Npc::Gerudo<Furosa/\u30D5\u30ED\u30B9>":
+    comment: "The Perfect Drink/\u3046\u308B\u308F\u3057\u306E\u7F8E\u9152\u3092\u6C42\
+      \u3081\u3066\u30FB\u30FB\u30FB"
+    notes: deliver ice
+    coord: [-3764.6875, 2699.8125]
+- _Warp::Tower::Gerudo
+- _Shrine::SasaKai:
+    comment: "\u30B5\u30B5\u30FB\u30AB\u30A4\u306E\u7960"
+    notes: 14:55 - 15:55; .link([Video]https://youtu.be/O8x0RdEbkmo)
+- _Chest<Ice Arrow x10>:
+    coord: [-3383.74, 180.05, 2131.97]
+- _Shrine::DakoTah:
+    comment: "\u30C0\u30B3\u30FB\u30BF\u30EF\u306E\u7960"
+    notes: Ancient Core - .link([Video]https://youtu.be/gv4l6eImERQ)
+- _Korok::G34:
+    movements:
+    - to: [-3157.12, 200.47, 2034.73]
+    - to: [-3071.39, 197.79, 2044.73]
+- .gale() up to the next level:
+    gale: 1
+    time-override: 1000
+- _Material<Ore Deposit>:
+    movements:
+    - to: [-3030.11, 229.41, 2013.86]
+    - to: [-3024.37, 230.45, 2016.23]
+- _Discover<Gerudo Desert Gateway>:
+    comment: "\u30B2\u30EB\u30C9\u7802\u6F20 \u5165\u53E3"
+    coord: [-2918.625, 2322.5625]
+- "_Npc::SheikaMale<Sesami/\u30B4\u30DE\u30CA>":
+    comment: "Missing in Action/\u30B2\u30EB\u30C9\u30AD\u30E3\u30CB\u30AA\u30F3\u5931\
+      \u8E2A\u4E8B\u4EF6"
+    notes: Start quest
+    coord: [-2797.53, 135.05, 2240.97]
+- "_Shop<Beetle/\u30C6\u30EA\u30FC>":
+    icon-map: null
+    notes: Buy cold darner if you don't have at least 2
+- _Cook<Cold Elixir>:
+    notes: Cold darner and monster part; for quest
+    coord: [-2811.31, 134.87, 2239.89]
+- "_Npc::SheikaMale<Pirou/\u30D4\u30EB\u30A8>":
+    comment: "Rushroom Rush!/\u30B4\u30FC\u30B4\u30FC\u30C0\u30B1 GoGo\uFF01"
+    notes: Start quest
+    coord: [-2796.5, 2240.25]
+- _Chest<Ice Arrow x10>:
+    notes: Dog treasure
+    coord: [-2780.03, 134.33, 2235.16]
