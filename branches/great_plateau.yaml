@@ -1,0 +1,387 @@
+- Line Color - Blue
+- _Material<Heart Vessel, 3>:
+    color: rgb(0, 176, 240)
+    icon-map: null
+    notes: This is here just for counting purposes.
+- _Equipment::Weapon<Tree Branch>:
+    comment: "\u6728\u306E\u679D"
+    movements:
+    - to: [-1022.6875, 1792.375]
+    - to: [-1053.44, 249.44, 1802.61]
+- _Equipment::Weapon<Tree Branch>:
+    comment: "\u6728\u306E\u679D"
+    movements:
+    - to: [-1059.15, 249.33, 1805.13]
+- _Equipment::Weapon<Tree Branch>:
+    comment: "\u6728\u306E\u679D"
+    movements:
+    - to: [-1024.63, 251.4, 1812.55]
+- _Equipment::Weapon<Tree Branch>:
+    comment: "\u6728\u306E\u679D"
+    movements:
+    - to: [-1024.63, 251.4, 1812.55]
+- _Material<Flint>:
+    comment: "\u706B\u6253\u3061\u77F3"
+    coord: [-954.9, 194.3, 1833.2]
+- _Material<Baked Apple>:
+    comment: "\u713C\u304D\u30EA\u30F3\u30B4"
+    coord: [-944.0, 224.85, 1878.5]
+- _Equipment::Weapon<Torch>:
+    comment: "\u305F\u3044\u307E\u3064"
+    notes: Side jump away from Old Man to avoid the forced dialog.
+    coord: [-936.2, 224.9, 1880.2]
+- _Equipment::Weapon<Woodcutter's Axe>:
+    comment: "\u6728\u3053\u308A\u306E\u30AA\u30CE"
+    coord: [-920.93, 220.65, 1871.83]
+- _Material<Spicy Peppers, 6>:
+    comment: "\u30DD\u30AB\u30DD\u30AB\u8349\u306E\u5B9F"
+    movements:
+    - to: [-964.5, 238.84, 1953.28]
+    - to: [-964.15, 238.61, 1953.45]
+    - to: [-964.52, 238.68, 1953.66]
+    - to: [-965.66, 238.75, 1956.51]
+    - to: [-965.3, 238.52, 1956.67]
+    - to: [-965.68, 238.59, 1956.89]
+- _Material<Guardian Parts from Ruined Guardians>:
+    movements:
+    - to: [-917.25, 1985.4375]
+    - to: [-894.9375, 1986]
+    - to: [-835.5, 223.67, 1956.91]
+    - to: [-827.32, 222.79, 1943.11]
+- _Equipment::Weapon<Boko Club>:
+    comment: "\u30DC\u30B3\u3053\u3093\u68D2"
+    coord: [-811.41, 221.27, 1958.06]
+- _Chest<Traveler's Bow>:
+    comment: "\u65C5\u4EBA\u306E\u5F13"
+    coord: [-832.43, 222.0, 1963.11]
+- _Material<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    notes: From pot
+    coord: [-821.73, 221.98, 1963.27]
+- _Material<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    notes: From pot
+    movements:
+    - to: [-812.1875, 1966.75]
+    - to: [-793.48, 207.11, 1931.78]
+- _Chest<Hylian Trousers>:
+    comment: "\u30CF\u30A4\u30EA\u30A2\u306E\u30BA\u30DC\u30F3"
+    coord: [-736.32, 201.95, 1865.65]
+- _Material<Bird Egg, 2>:
+    comment: "\u30C8\u30EA\u306E\u30BF\u30DE\u30B4"
+    movements:
+    - to: [-751.82, 198.56, 1819.06]
+- _Material<Apple, 2>:
+    comment: "\u30EA\u30F3\u30B4"
+    movements:
+    - to: [-751.46, 192.27, 1783.57]
+    - to: [-751.49, 192.74, 1782.51]
+- _Material<Hyrule Herb, 3>:
+    comment: "\u30CF\u30A4\u30E9\u30EB\u8349"
+    movements:
+    - to: [-752.63, 189.7, 1780.77]
+    - to: [-759.33, 188.15, 1756.76]
+    - to: [-758.83, 188.45, 1754.66]
+- _Equipment::Bow<Arrow x10>:
+    comment: "\u6728\u306E\u77E2 x10"
+    notes: Arrows on ground in front of archer bokos
+    movements:
+    - to: [-654.1, 173.19, 1758.41]
+    - to: [-655.95, 172.5, 1752.48]
+    - to: [-653.35, 172.66, 1749.77]
+    - to: [-646.37, 171.54, 1752.77]
+    - to: [-647.0, 171.6, 1747.24]
+    - to: [-638.7, 173.13, 1734.08]
+    - to: [-638.13, 172.13, 1741.13]
+    - to: [-633.73, 172.33, 1745.03]
+    - to: [-626.51, 173.43, 1741.35]
+    - to: [-626.14, 173.33, 1739.76]
+- _Equipment::Bow<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    notes: Kill bokos for arrows
+    movements:
+    - to: [-616.89, 178.25, 1749.71]
+    - to: [-616.14, 178.16, 1744.77]
+- _Equipment::Weapon<Traveler's Sword>:
+    comment: "\u65C5\u4EBA\u306E\u5263"
+    notes: Needed for Nebb, kill with arrow headshot
+    coord: [-596.0, 172.51, 1702.5]
+- _Equipment::Shield<Boko Shield>:
+    comment: "\u30DC\u30B3\u76FE"
+    icon-map: null
+- _Material<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    icon-map: null
+    notes: RNG, may not drop from boko
+- _Tower::GreatPlateau:
+    comment: "\u59CB\u307E\u308A\u306E\u5854"
+    notes: Dialoge options 1 2 2 1
+- _Equipment::Bow<Arrows>:
+    comment: "\u6728\u306E\u77E2"
+    notes: Break wooden boxes
+    movements:
+    - to: [-534.81, 169.37, 1633.95]
+    - to: [-536.61, 169.28, 1635.06]
+    - to: [-544.11, 169.29, 1630.71]
+    - to: [-546.15, 169.29, 1630.91]
+    - to: [-557.16, 171.73, 1619.73]
+    - to: [-559.09, 171.97, 1619.19]
+    - to: [-564.28, 172.13, 1610.52]
+    - to: [-566.23, 172.46, 1609.68]
+    - to: [-578.53, 174.64, 1608.78]
+    - to: [-579.88, 174.7, 1607.22]
+- _Material<Guardian Parts from Ruined Guardians>:
+    movements:
+    - to: [-646.13, 162.97, 1630.58]
+    - to: [-670.29, 159.38, 1628.97]
+- _Shrine::OmanAu:
+    comment: "\u30DE\u30FB\u30AA\u30FC\u30CC\u306E\u7960"
+    notes: Dialoge options 2 1 1 2
+- _Chest<Ruby>:
+    comment: "\u30EB\u30D3\u30FC"
+    coord: [-671.65, 171.79, 1522.61]
+- _Chest<Amber>:
+    comment: "\u30B3\u30CF\u30AF"
+    coord: [-684.41, 168.85, 1536.43]
+- _Chest<Opal>:
+    comment: "\u30AA\u30D1\u30FC\u30EB"
+    coord: [-695.45, 168.33, 1524.12]
+- Break metal boxes:
+    movements:
+    - to: [-702.18, 171.71, 1535.47]
+    - to: [-704.23, 171.71, 1534.71]
+- _Chest<Fire Arrow x5>:
+    comment: "\u708E\u306E\u77E2 x5"
+    notes: Chest on the left
+    coord: [-774.85, 174.8, 1558.65]
+- _Chest<Ice Arrow x5>:
+    comment: "\u6C37\u306E\u77E2 x5"
+    coord: [-775.94, 174.8, 1561.83]
+- _Korok::P02
+- _Korok::P01
+- _Korok::P05
+- _Material<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    coord: [-899.8, 181.59, 1671.5]
+- _Equipment::Bow<Traveler's Bow>:
+    comment: "\u65C5\u4EBA\u306E\u5F13"
+    coord: [-901.3, 181.9, 1671.3]
+- _Material<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    coord: [-910.5, 181.7, 1671.3]
+- _Cook<Cold Protection>:
+    notes: 3 Spicy Peppers, 2 Bird Eggs
+    coord: [-901.5, 181.19, 1678.0]
+- _Cook<Cold Protection>:
+    notes: 3 Spicy Peppers, 2 Hyrule Herb
+- _Korok::P06
+- _Korok::P04
+- _Chest<Opal>:
+    comment: "\u30AA\u30D1\u30FC\u30EB"
+    coord: [-972.23, 192.97, 1572.16]
+- _Material<Arrows>:
+    comment: "\u6728\u306E\u77E2"
+    notes: Break wooden boxes
+    movements:
+    - to: [-1223.8, 188.55, 1634.73]
+    - to: [-1224.38, 188.56, 1636.74]
+    - to: [-1228.63, 188.21, 1650.4]
+    - to: [-1228.0, 188.09, 1652.36]
+- _Chest<Opal>:
+    comment: "\u30AA\u30D1\u30FC\u30EB"
+    coord: [-1200.99, 193.1, 1628.9]
+- _Chest<Fire Arrow x5>:
+    comment: "\u708E\u306E\u77E2 x5"
+    coord: [-1444.93, 193.58, 1617.32]
+- _Warp::SOR
+- _Chest<Amber>:
+    comment: "\u30B3\u30CF\u30AF"
+    coord: [-1297.04, 295.83, 1682.82]
+- _Material<Arrows>:
+    comment: "\u6728\u306E\u77E2"
+    notes: Break boxes
+    movements:
+    - to: [-1285.42, 290.87, 1686.05]
+    - to: [-1283.58, 290.74, 1686.83]
+    - to: [-1304.57, 291.23, 1704.88]
+    - to: [-1304.76, 291.25, 1702.83]
+    - to: [-1307.6, 290.88, 1699.36]
+- _Chest<Spiked Boko Bow>:
+    comment: "\u30C8\u30B2\u30DC\u30B3\u5F13"
+    movements:
+    - to: [-1351.25, 1762]
+    - to: [-1369.5, 1810.75]
+    - to: [-1376.625, 1834.3125]
+    - to: [-1385.4375, 1865.1875]
+    - to: [-1092.86, 250.83, 2160.11]
+- _Chest<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    coord: [-1089.05, 250.86, 2159.55]
+- _Chest<Fire Arrow x5>:
+    comment: "\u708E\u306E\u77E2 x5"
+    coord: [-1089.04, 250.78, 2157.96]
+- _Shrine::KehNamut:
+    comment: "\u30C8\u30A5\u30DF\u30FB\u30F3\u30B1\u306E\u7960"
+    movements:
+    - to: [-1429.375, 1904.5]
+    - to: [-1429.4375, 1911.6875]
+    - to: [-1426.875, 1916.5]
+    - to: [-1433.25, 1918.375]
+    - to: [-1431.5625, 1923.4375]
+    - to: [-1414.625, 1938.5]
+    - to: [-1413.5, 1966.375]
+    - to: [-1435.5, 1990.6875]
+- _Chest<Bomb Arrow>:
+    comment: "\u30D0\u30AF\u30C0\u30F3\u77E2 x5"
+    coord: [-1451.49, 317.61, 2028.07]
+- Rock for P15:
+    coord: [-1367.64, 336.84, 2193.43]
+- _Korok::P15
+- _Chest<Amber>:
+    comment: "\u30B3\u30CF\u30AF"
+    movements:
+    - to: [-1361.625, 2218.8125]
+    - to: [-1354.9375, 2245.25]
+    - to: [-1327.6875, 2279.9375]
+    - to: [-1206.875, 2278.125]
+    - to: [-1165.625, 2263.4375]
+    - to: [-1141.1875, 2255.125]
+    - to: [-1102.1875, 2261.875]
+    - to: [-1067.99, 327.54, 2221.98]
+- _Chest<Fire Arrow x5>:
+    comment: "\u708E\u306E\u77E2 x5"
+    movements:
+    - to: [-1084.91, 295.55, 2142.64]
+- _Chest<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    coord: [-1011.19, 287.02, 2155.6]
+- _Chest<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    coord: [-1032.36, 293.58, 2264.43]
+- Movement to Owa Daim:
+    movements:
+    - to: [-987.5625, 2297.625]
+    - to: [-964.875, 2268.0625]
+    - to: [-955.0625, 2270.125]
+    - to: [-947.5625, 2280.4375]
+    - to: [-942.375, 2289.5625]
+    - to: [-939.5625, 2306.9375]
+- _Shrine::OwaDaim:
+    comment: "\u30EF\u30FB\u30E2\u30C0\u30A4\u306E\u7960"
+    notes: Iron Sledgehammer
+- _Chest<Amber>:
+    comment: "\u30B3\u30CF\u30AF"
+    coord: [-1032.06, 247.39, 2088.04]
+- _Equipment::Weapon<Woodcutter's Axe>:
+    comment: "\u6728\u3053\u308A\u306E\u30AA\u30CE"
+    coord: [-1019.6, 252.1, 2044.0]
+- _Chest<Amber>:
+    comment: "\u30B3\u30CF\u30AF"
+    coord: [-1038.7, 247.3, 2032.61]
+- _Material<Wood>:
+    comment: "\u85AA\u306E\u675F"
+    movements:
+    - to: [-1034.08, 251.92, 1997.43]
+    - to: [-1035.0, 251.82, 1996.5]
+    - to: [-1038.0, 251.33, 1998.0]
+    - to: [-1037.8, 251.9, 1998.8]
+    - to: [-1037.9, 251.34, 1999.5]
+- _Material<Spicy Peppers, 6>:
+    comment: "\u30DD\u30AB\u30DD\u30AB\u8349\u306E\u5B9F"
+    movements:
+    - to: [-984.98, 251.68, 2009.01]
+    - to: [-978.9, 250.17, 2024.93]
+    - to: [-977.31, 249.85, 2025.48]
+- _Chest<Fire Arrow x5>:
+    comment: "\u708E\u306E\u77E2 x5"
+    coord: [-621.71, 176.3, 1924.88]
+- _Chest<Amber>:
+    comment: "\u30B3\u30CF\u30AF"
+    coord: [-544.5, 172.9, 1939.5]
+- _Equipment::Weapon<Soldier's Broadsword>:
+    comment: "\u5175\u58EB\u306E\u5263"
+    coord: [-410.91, 186.55, 1980.61]
+- _Shrine::JaBaij:
+    comment: "\u30B8\u30E3\u30FB\u30D0\u30B7\u30D5\u306E\u7960"
+- _Material<Guardian Parts from Ruined Guardians>:
+    movements:
+    - to: [-468.625, 1968.9375]
+    - to: [-521.625, 1969]
+    - to: [-544.6875, 1966.1875]
+    - to: [-547.8125, 1968.875]
+    - to: [-587.5625, 1990.9375]
+    - to: [-604, 1989.75]
+    - to: [-671.875, 1956.75]
+    - to: [-678.8125, 1954.8125]
+    - to: [-699.5, 1944.25]
+    - to: [-749.6875, 1964.5]
+    - to: [-795.5, 222.78, 1977.69]
+    - to: [-790.69, 221.31, 1989.76]
+- _Material<Stamina Vessel, 1>:
+    movements:
+    - to: [-823.26, 225.44, 2031.48]
+- Paraglider:
+    comment: "\u30D1\u30E9\u30BB\u30FC\u30EB"
+    icon: king
+    counter: .split(SPLIT)
+    movements:
+    - to: [-802.75, 2016.9375]
+    - to: [-811.3125, 2015.8125]
+    - to: [-820.25, 2016.125]
+    - to: [-813.25, 1973.8125]
+    - to: [-811.875, 1966.7437858459407]
+- _Korok::P11
+- _Korok::P10
+- _Warp::Shrine::OwaDaim
+- _Material<Stamella Shroom>:
+    movements:
+    - to: [-814.81, 190.67, 2303.36]
+    - to: [-778.93, 190.4, 2286.26]
+    - to: [-781.43, 193.13, 2263.8]
+    - to: [-786.13, 193.19, 2266.93]
+    - to: [-786.73, 193.17, 2266.77]
+- _Korok::P18
+- _Chest<Warm Doublet>:
+    comment: "\u9632\u5BD2\u7740"
+    coord: [-786.0, 193.52, 2255.5]
+- _Material<Stamella Shroom>:
+    comment: "\u30AC\u30F3\u30D0\u30EA\u30C0\u30B1"
+    movements:
+    - to: [-789.0, 194.4, 2259.5]
+    - to: [-786.43, 192.98, 2249.11]
+    - to: [-785.8, 193.97, 2226.5]
+- _Material<Rushroom>:
+    comment: "\u30B4\u30FC\u30B4\u30FC\u30C0\u30B1"
+    movements:
+    - to: [-774.64, 198.67, 2208.96]
+    - to: [-763.84, 196.04, 2200.2]
+- _Material<Stamella Shroom>:
+    comment: "\u30AC\u30F3\u30D0\u30EA\u30C0\u30B1"
+    coord: [-749.13, 190.33, 2268.21]
+- _Chest<Bomb Arrow x5>:
+    comment: "\u30D0\u30AF\u30C0\u30F3\u77E2 x5"
+    coord: [-713.0, 190.88, 2311.0]
+- _Korok::L08
+- _Warp::Shrine::KehNamut
+- _Chest<Opal>:
+    comment: "\u30AA\u30D1\u30FC\u30EB"
+    coord: [-1432.08, 323.17, 1953.01]
+- _Chest<Amber>:
+    comment: "\u30B3\u30CF\u30AF"
+    coord: [-1463.23, 258.21, 1797.85]
+- _Chest<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    coord: [-1449.33, 260.5, 1795.88]
+- _Chest<Arrow x5>:
+    comment: "\u6728\u306E\u77E2 x5"
+    coord: [-1434.51, 292.29, 1733.99]
+- Cube for P03:
+    coord: [-1336.56, 230.83, 1675.58]
+- _Korok::P03:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/P03.png)
+- _Chest<Arrow x10>:
+    comment: "\u6728\u306E\u77E2 x10"
+    coord: [-1265.51, 219.86, 1563.78]
+- _Chest<Opal>:
+    comment: "\u30AA\u30D1\u30FC\u30EB"
+    coord: [-1366.19, 222.92, 1498.36]

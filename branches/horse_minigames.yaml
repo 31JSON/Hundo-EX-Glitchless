@@ -1,0 +1,131 @@
+- Line Color - Cyan
+- _Korok::L48
+- "_Chest::Special<Island Lobster Shirt/\u9752\u3044\u30A8\u30D3\u30B7\u30E3\u30C4>":
+    comment: "EX Treasure Garb of Winds/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u98A8\
+      \u306E\u9752\u8863"
+    coord: [-164.33, 97.54, 3078.89]
+- .gale() up toard L49:
+    gale: 1
+- _Korok::L49
+- Block for L50:
+    coord: [-41.27, 96.68, 3054.03]
+- _Korok::L50:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/L50.png)
+- .gale() toward L59:
+    gale: 1
+- _Korok::L59
+- .gale() back up from cryo block:
+    gale: 1
+- _Korok::L60
+- _Korok::L52
+- _Shrine::PumaagNitae:
+    comment: "\u30D7\u30DE\u30FB\u30CB\u30C3\u30C8\u306E\u7960"
+    notes: .link([Video]https://youtu.be/O8x0RdEbkmo)
+- _Korok::L53
+- _Korok::L55
+- _Korok::L61
+- _Korok::L66
+- .gale() from start of race:
+    gale: 1
+- _Korok::L72
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [1031.25, 3496.5625]
+- _Korok::F38
+- Rock for L79:
+    coord: [1021.74, 183.23, 3659.87]
+- _Korok::L79
+- Cube for L92:
+    coord: [895.68, 184.35, 3835.51]
+- _Korok::L92:
+    notes: .link([Soltuion]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/L92.png)
+- _Material<Endura Carrot>:
+    movements:
+    - to: [817.0, 232.78, 3753.37]
+    - to: [814.29, 232.25, 3752.59]
+- _Korok::L78
+- _Chest<Silver Rupee>:
+    coord: [825.98, 228.69, 3634.89]
+- _Material<Endura Carrot>:
+    movements:
+    - to: [798.99, 226.38, 3680.34]
+    - to: [798.73, 226.35, 3681.54]
+    - to: [800.38, 226.29, 3681.58]
+- "_Chest::Special<Ancient Saddle/\u53E4\u4EE3\u306E\u304F\u3089>":
+    comment: "EX Ancient Horse Rumors/Ex \u53E4\u4EE3\u306E\u99AC\u5177"
+    coord: [812.99, 185.91, 3700.97]
+- _Npc<Malanya>:
+    comment: "\u30DE\u30FC\u30ED\u30F3"
+    coord: [802.0, 186.73, 3719.93]
+- _Discover<Horse God Bridge>:
+    comment: "\u99AC\u795E\u6A4B"
+    coord: [594.875, 3721.0625]
+- Rock for L77:
+    coord: [669.89, 227.91, 3692.4]
+- _Korok::L77
+- _Korok::L75
+- .gale() up and kill horseback bokos for quest:
+    gale: 1
+    icon: npc-rito
+    coord: [486.4375, 3323.25]
+- _Chest<Silver Rupee>:
+    coord: [536.47, 151.91, 3425.2]
+- "_Npc::SheikaFemale<Perosa/\u30BD\u30A8>":
+    comment: "The Horseback Hoodlums/\u99AC\u306B\u4E57\u3063\u305F\u8352\u304F\u308C\
+      \u8005"
+    coord: [516.76, 152.98, 3453.71]
+- "_Npc::SheikaMale<Blynne/\u30D6\u30EA\u30F3\u30AB>":
+    comment: "Horseback Obstacle Course/\u99AC\u969C\u5BB3\u7269\u7AF6\u8D70"
+    notes: 2x to get bridle and saddle
+    movements:
+    - to: [514.26, 152.72, 3449.75]
+- _Shrine::KaoMakagh:
+    comment: "\u30AB\u30AA\u30FB\u30DE\u30AB\u306E\u7960"
+    notes: Gold Rupee - .link([Video]https://youtu.be/HUQ5Exmk8Gc)
+- _Korok::L65:
+    notes: Start the race, ride horse to base of mountain
+- _Korok::L70:
+    notes: Ride horse to the bend in road southwest of the korok
+- Rock for L71:
+    coord: [275.59, 179.02, 3521.27]
+- _Korok::L71
+- _Korok::L73
+- Boulder for L74:
+    coord: [367.97, 222.59, 3667.1]
+- _Korok::L74
+- Boulder for L76:
+    coord: [533.81, 190.45, 3640.5]
+- _Korok::L76
+- Rock for L91:
+    coord: [481.42, 224.84, 3748.43]
+- _Korok::L91
+- _Chest<Silver Rupee>:
+    coord: [429.11, 105.26, 3900.44]
+- Cube for L90:
+    coord: [426.49, 104.62, 3853.98]
+- _Korok::L90:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/L90.png)
+- _Korok::L89
+- _Chest<Opal>:
+    coord: [291.21, 100.65, 3907.39]
+- _Chest<Bomb Arrow x5>:
+    coord: [272.49, 102.79, 3900.18]
+- _Korok::L88
+- _Tod::Night:
+    icon-map: null
+- _Shrine::ShoqaTatone:
+    comment: "\u30B7\u30FB\u30BF\u30BF\u30F3\u30B1\u306E\u7960"
+    notes: Royal Broadsword - .link([Video]https://youtu.be/O8x0RdEbkmo)
+- _Korok::L86
+- .gale() up to L87:
+    gale: 1
+- _Korok::L87
+- Pick up horse:
+    coord: [189.375, 3512.3125]
+- _Boss::Hinox::Stal:
+    comment: "\u30B9\u30BF\u30EB\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [100.5, 3370.875]
+- "_Npc::SheikaMale<Jini/\u30B8\u30FC\u30CB\u30F3>":
+    comment: "Horseback Archery Drill/\u6D41\u93D1\u99AC"
+    notes: 2x for bridle and saddle
+    coord: [-211.75, 128.7, 3484.39]

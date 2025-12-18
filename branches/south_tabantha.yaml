@@ -1,0 +1,44 @@
+- _Shrine::KahOkeo:
+    comment: "\u30AB\u30FB\u30AA\u30AD\u30E7\u306E\u7960"
+    notes: Giant ancient core, if needed
+- _Korok::T36
+- _Korok::T32
+- _Korok::T27
+- _Korok::T26
+- Rock for T23:
+    coord: [-4021.96, 213.56, -1140.84]
+- _Korok::T23
+- _Boss::Talus::Rare:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u5E0C\u5C11\uFF09"
+    coord: [-3929.3125, -1083.5625]
+- .fury():
+    fury: 3
+- Boulder for T28:
+    coord: [-3817.18, 231.14, -832.07]
+- _Korok::T28
+- _Korok::T29
+- _Korok::T30
+- _Korok::T24
+- .gale() up to the tower from this pillar:
+    gale: 1
+    icon: npc-rito
+    coord: [-3632.4375, -977.875]
+- _Tower::Tabantha:
+    comment: "\u30BF\u30D0\u30F3\u30BF\u306E\u5854"
+- .gale() from the tower in the direction of T37:
+    gale: 1
+- _Korok::T37
+- _Korok::T35
+- _Memory::AncientColumns:
+    comment: "\u30BC\u30EB\u30C0\u306E\u82DB\u7ACB\u3061"
+- _Shrine::TenaKosah:
+    comment: "\u30C6\u30A3\u30CA\u30FB\u30AD\u30E7\u30B6\u306E\u7960"
+- _Korok::T33
+- _Korok::T31
+- _Boss::Talus::Rare:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u5E0C\u5C11\uFF09"
+    coord: [-3248.625, -1078.375]
+- .fury():
+    fury: 3
+    time-override: 1000
+- _Korok::T20

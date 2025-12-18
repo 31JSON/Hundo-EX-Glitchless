@@ -1,0 +1,92 @@
+- Line Color - Purple
+- _Warp::Tower::Lanayru:
+    color: rgb(203, 153, 255)
+- _Boss::Hinox::Black:
+    comment: "\u9ED2\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [2485, -133.125]
+- _Korok::Z22
+- _Korok::Z31
+- _Discover<Oren Bridge>:
+    comment: "\u30AA\u30FC\u30EC\u30F3\u6A4B"
+    coord: [2875.6875, 32.4375]
+- .gale() up to the monument from this location:
+    gale: 1
+    icon: npc-rito
+    coord: [2871.0625, -8.4375]
+- Zora Stone Monument 2:
+    comment: "\u77F3\u7891 2"
+    icon: location
+    coord: [2877.09, 229.49, -32.75]
+- .gale() up the wall to go to the next monument:
+    gale: 1
+- Zora Stone Monument 1:
+    comment: "\u77F3\u7891 1"
+    icon: location
+    coord: [2868.11, 249.51, -68.34]
+- "_Npc::ZoraFemale<Finley/\u30D5\u30A3\u30CD>":
+    comment: "Special Delivery/\u30E1\u30C3\u30BB\u30FC\u30B8\u30DC\u30C8\u30EB\u306E\
+      \u884C\u65B9"
+    notes: .link([Video]https://youtu.be/lrWQUlVuVBY) - After she throws it in the
+      river, destory it by shooting it with an arrow.
+    movements:
+    - to: [2754.0, 189.53, -83.5]
+- _Korok::Z23
+- Pick up letter and continue:
+    notes: Along the way, you will need to kill the ocotoroks, lizalfos and any Yiga
+      that spawn.
+    movements:
+    - to: [2750.5625, -90.125]
+    - to: [2736.125, -106.6875]
+    - to: [2730.5625, -114.375]
+    - to: [2685.4375, -140.75]
+    - to: [2662.625, -147.25]
+    - to: [2631.9375, -153.75]
+    - to: [2591.4375, -160.875]
+    - to: [2530.0625, -128.8125]
+    - to: [2520.1875, -128]
+    - to: [2463.25, -154]
+    - to: [2460.0625, -163.25]
+    - to: [2452.8125, -161.8125]
+    - to: [2439.3125, -170.125]
+    - to: [2400.9375, -174.8125]
+    - to: [2372.9375, -192.375]
+    - to: [2357.625, -225.6875]
+    - to: [2353.125, -235.75]
+- _Discover<Inogo Bridge>:
+    comment: "\u30C0\u30EB\u30D6\u30EB\u6A4B"
+    notes: Discover during letter delivery
+    coord: [2344.375, -248.125]
+- Continue to Destination:
+    movements:
+    - to: [2335.25, -262.0625]
+    - to: [2316.25, -277.25]
+    - to: [2306.25, -278.6875]
+    - to: [2285.1875, -276.5625]
+    - to: [2263.1875, -268.4375]
+    - to: [2220.75, -243.75]
+    - to: [2177.125, -212.0625]
+    - to: [2149.875, -205.75]
+    - to: [2126.5, -211.1875]
+    - to: [2089.0625, -206.75]
+    - to: [2046.25, -206.8125]
+    - to: [2007.125, -162.875]
+    - to: [1981.625, -133.25]
+    - to: [1974.375, -137.25]
+    - to: [1963.9375, -123.9375]
+    - to: [1968.9375, -116.1875]
+    - to: [1964.1875, -111.5625]
+    - to: [1940.875, -83.3125]
+    - to: [1933, -84.125]
+    - to: [1921.875, -74.125]
+    - to: [1925.3125, -65.4375]
+    - to: [1902.75, -39.4375]
+    - to: [1885.4375, -54.1875]
+    - to: [1865.125, -30.0625]
+    - to: [1787.6875, -23.25]
+    - to: [1773.125, -30.1875]
+    - to: [1764.875, -50.1875]
+- "_Npc::SheikaMale<Sasan/\u30B5\u30B5\u30CE>":
+    comment: "Special Delivery/\u30E1\u30C3\u30BB\u30FC\u30B8\u30DC\u30C8\u30EB\u306E\
+      \u884C\u65B9"
+    movements:
+    - to: [1760.46, 115.8, -56.04]

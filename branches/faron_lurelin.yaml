@@ -1,0 +1,238 @@
+- Line Color - Red
+- _Warp::Shrine::SheeVaneer
+- .gale() from race start:
+    gale: 1
+    icon: npc-rito
+    coord: [1131.8, 341.83, 2327.59]
+- _Korok::F02
+- Rock for F04:
+    coord: [1340.54, 189.42, 2486.59]
+- _Korok::F04
+- _Korok::F03
+- "_Chest::Special<Zant's Helmet/\u30B6\u30F3\u30C8\u306E\u515C>":
+    comment: "EX Treasure Usurper King/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u50ED\
+      \u738B\u306E\u515C"
+    coord: [1288.07, 188.3, 2451.24]
+- _Boss::Hinox::Red:
+    comment: "\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [1330.625, 2624.125]
+- _Korok::F10
+- .gale() up from race start:
+    gale: 1
+- _Korok::F16
+- .gale() up the rest of the way:
+    gale: 1
+- _Boss::Hinox::Red:
+    comment: "\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [1493.25, 3092.1875]
+- _Korok::F15
+- _Korok::F25
+- _Tower::Faron:
+    comment: "\u30D5\u30A3\u30ED\u30FC\u30CD\u306E\u5854"
+- .gale() in the direction of F39:
+    gale: 1
+- _Korok::F39
+- _Korok::F40
+- .gale() in the direction of F34:
+    gale: 1
+- _Korok::F34
+- _Korok::F41
+- .gale() up to remove axe from top of stable:
+    gale: 1
+- "_Npc::SheikaFemale<Cima/\u30B7\u30DF\u30CA\u30FC>":
+    comment: "Thunder Magnet/\u96F7\u6016\u3044"
+    coord: [1539.875, 3532]
+- _Shrine::ShaiUtoh:
+    comment: "\u30B5\u30A4\u30FB\u30A6\u30FC\u30C8\u306E\u7960"
+    notes: .link([Video]https://youtu.be/OoEUjA3xPpk) - Ancient Core (Optional)
+- _Korok::F48
+- _Korok::F55
+- _Korok::F54
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [1391.8125, 3727.1875]
+- .fury():
+    fury: 1
+- Rock for F53:
+    coord: [1365.6, 107.37, 3763.95]
+- _Korok::F53
+- _Korok::F56
+- .gale() to the enemy camp from this location:
+    gale: 1
+    icon: npc-rito
+    coord: [2001.5, 3885.875]
+- .fury() the enemies with 2 furies:
+    fury: 2
+    notes: You may still have to AA one or two of the archer bokos.
+- "_Npc<Defeat Enemies/\u6575\u3092\u5012\u3059>":
+    comment: "Take Back the Sea/\u596A\u308F\u308C\u305F\u6F01\u5834"
+    coord: [2102.12, 132.18, 3929.95]
+- _Tod::Night:
+    coord: [2198.74, 106.18, 3804.11]
+- .gale() up the wall at this location:
+    gale: 1
+    icon: npc-rito
+    coord: [2087.1875, 3631.125]
+- Rock for F43:
+    coord: [2056.99, 201.04, 3559.57]
+- _Korok::F43
+- _Boss::Hinox::Stal:
+    comment: "\u30B9\u30BF\u30EB\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [2078.75, 3450.6875]
+- .gale() up the wall to F30:
+    gale: 1
+- _Korok::F30
+- _Korok::F35
+- "_Chest::Special<Phantom Ganon Greaves/\u30D5\u30A1\u30F3\u30C8\u30E0\u30AC\u30CE\u30F3\u5177\u8DB3>":
+    comment: "EX Treasure Dark Armor/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u60AA\
+      \u970A\u306E\u93A7"
+    coord: [1832.85, 160.08, 3355.49]
+- Cube for F46:
+    coord: [1834.52, 139.1, 3625.17]
+- Puzzle for F46:
+    coord: [1813.97, 147.23, 3616.54]
+- _Korok::F46:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/F46.png)
+- .gale() from cryo block to F42:
+    gale: 1
+- _Korok::F42
+- .gale() over to the talus:
+    gale: 1
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [1690.75, 3335.6875]
+- .fury() the talus:
+    fury: 1
+- "_Chest::Special<Phantom Ganon Skull/\u30D5\u30A1\u30F3\u30C8\u30E0\u30AC\u30CE\u30F3\u515C>":
+    comment: "EX Treasure Dark Armor/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u60AA\
+      \u970A\u306E\u93A7"
+    coord: [1669.19, 209.34, 3163.02]
+- .gale() up to F26:
+    gale: 1
+- Cube for F26:
+    coord: [1676.3, 256.65, 3156.41]
+- _Korok::F26
+- _Korok::F28
+- _Korok::F27:
+    notes: Equip the Zora Armor and swim up the waterfall to get up to the ledge.
+- _Shrine::ShodaSah:
+    comment: "\u30B7\u30E7\u30C0\u30FB\u30B5\u30FC\u306E\u7960"
+    notes: .link([Video]https://youtu.be/5QvPh2_oUDk) - Ice Arrow x5 (Optional)
+- _Korok::F19
+- _Korok::F17
+- .gale() in the direction of F20:
+    gale: 1
+- _Korok::F20
+- .gale() up in the direction of F21:
+    gale: 1
+- _Korok::F21
+- Cube for F29:
+    coord: [2039.92, 278.05, 3211.69]
+- _Korok::F29
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "A Song of Storms/\u7A32\u59BB\u304C\u958B\u304F\u8A66\u7DF4"
+    coord: [2081.8125, 3225.875]
+- _Shrine::QukahNata:
+    comment: "\u30AD\u30E5\u30AB\u30FB\u30CA\u30BF\u306E\u7960"
+    notes: Rubber tights (Optional)
+- .gale() in the direction of F47:
+    gale: 1
+- _Korok::F47
+- "_Npc::SheikaMale<Wabbin/\u30EF\u30D3\u30B9\u30B1>":
+    comment: "A Gift of Nightshade/\u3057\u306E\u3073\u8349\u306E\u541B"
+    coord: [2584.9, 290.11, 3547.64]
+- Rock for F57:
+    coord: [2512.82, 158.88, 3841.69]
+- _Korok::F57
+- .gale() from the indicated location out to one of the rocks of the triangle:
+    gale: 1
+    icon: npc-rito
+    coord: [2841.75, 3893.625]
+- Land here, and make a cryo block where the chests are:
+    coord: [2974.1875, 3948.5]
+- _Chest<Sapphire>:
+    comment: "\u30B5\u30D5\u30A1\u30A4\u30A2"
+    notes: "Open any of the gemstone chests; Sunken Treasure/\u6D77\u306B\u6C88\u3093\
+      \u3060\u8CA1\u5B9D"
+    coord: [3019.81, 100.82, 3897.96]
+- .gale() in the direction of the shore as close as possible to F49:
+    gale: 1
+- 3 Rocks for F49:
+    movements:
+    - to: [2848.42, 116.96, 3687.14]
+    - to: [2818.79, 122.38, 3651.75]
+    - to: [2883.59, 112.4, 3644.24]
+- _Korok::F49
+- _Korok::F50
+- _Korok::F58
+- _Snap::Quest<Monument Shard>:
+    movements:
+    - to: [3233.4375, 3763.625]
+    - to: [3337.875, 3781.3125]
+    - to: [3376.5, 3813.4375]
+    - to: [3416.875, 3833.375]
+    - to: [3458.75, 3839.5625]
+    - to: [3556.5625, 3823.1875]
+    - to: [3617.875, 3821.25]
+    - to: [3670, 3805.375]
+    - to: [3732.875, 3778.5625]
+    - to: [3760.0625, 3739.3125]
+    - to: [3785.75, 3700.375]
+    - to: [3797.0625, 3660.5625]
+    - to: [3796.5625, 3627.9375]
+    - to: [3801.125, 3614]
+- _Korok::F52
+- Go to F51:
+    movements:
+    - to: [3790.5625, 3634.625]
+    - to: [3786.8125, 3663.6875]
+    - to: [3775.0625, 3692.3125]
+    - to: [3752.5, 3719.625]
+    - to: [3729.0625, 3743.4375]
+    - to: [3660.8125, 3774.25]
+    - to: [3615.5, 3774.5625]
+    - to: [3565.8125, 3770.875]
+    - to: [3530.25, 3767.5625]
+    - to: [3472.0625, 3753.875]
+    - to: [3445.9375, 3748.5]
+    - to: [3410.375, 3737.0625]
+    - to: [3383.6875, 3716.3125]
+    - to: [3340.3125, 3679.125]
+    - to: [3354.75, 3656.125]
+- _Korok::F51
+- _Snap::Quest<Monument Shard>:
+    coord: [3390.375, 3481.8125]
+- _Snap::Quest<Monument Shard>:
+    coord: [3532.625, 3365.3125]
+- _Shrine::KahYah:
+    comment: "\u30DE\u30FB\u30AB\u30E4\u306E\u7960"
+    notes: Knight's Claymore - .link([Video]https://youtu.be/UxnKIJHSrv0)
+- .gale() up the wall in the direction of F37:
+    gale: 1
+- _Korok::F37
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [3272.6875, 3410.0625]
+- .fury():
+    fury: 2
+- _Korok::F45
+- "_Npc::SheikaFemale<Kiana/\u30AD\u30AD\u30E7\u30A6>":
+    comment: "What's for Dinner?/\u4ECA\u65E5\u306E\u6669\u5FA1\u98EF"
+    notes: before 18:00
+    coord: [2884.25, 112.44, 3413.51]
+- "_Npc<Sebasto/\u30B5\u30D0\u30C3\u30AD\u30E3>":
+    comment: "Take Back the Sea/\u596A\u308F\u308C\u305F\u6F01\u5834"
+    coord: [2884.78, 112.44, 3414.2]
+- _Korok::F44
+- _Npc::SheikaMale<Rozel/>:
+    comment: "Sunken Treasure/\u6D77\u306B\u6C88\u3093\u3060\u8CA1\u5B9D"
+    coord: [2886.77, 106.64, 3495.1]
+- Rock for F36:
+    coord: [2949.45, 118.04, 3366.31]
+- Cut down tree, stasis, carry rock on boat:
+    coord: [2949.57, 118.18, 3377.97]
+- _Korok::F36
+- _Shrine::YahRin:
+    comment: "\u30E4\u30AA\u30FB\u30DE\u30FC\u30E8\u306E\u7960"
+    notes: Knight's Broadsword, Opal - .link([Video]https://youtu.be/YVq3445TbHg)
+- _Korok::F31

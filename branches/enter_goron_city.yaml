@@ -1,0 +1,159 @@
+- Line Color - Purple
+- _Warp::Tower::Akkala:
+    color: rgb(203, 153, 255)
+- _Discover<Akkala Bridge Ruins>:
+    comment: "\u30A2\u30C3\u30AB\u30EC\u7826\u9023\u7D61\u6A4B\u8DE1"
+    coord: [3150.0625, -1389.5625]
+- Rock for A45:
+    coord: [3089.92, 407.44, -1337.38]
+- _Korok::A45
+- _Korok::A50
+- _Korok::E39:
+    movements:
+    - to: [2723.04, 233.92, -1415.49]
+    - to: [2721.125, -1410.375]
+    - to: [2717.25, -1403]
+    - to: [2717.125, -1396.75]
+    - to: [2720.875, -1393.375]
+    - to: [2726.5, -1389.25]
+    - to: [2738.875, -1389.75]
+    - to: [2747.75, -1382.625]
+    - to: [2751.625, -1374.25]
+    - to: [2752.29, 233.73, -1366.34]
+- Contine to Sah Dahaj:
+    movements:
+    - to: [2751.8125, -1374.0625]
+    - to: [2741.9375, -1389.5625]
+    - to: [2725.1875, -1389.8125]
+    - to: [2713.5625, -1399.0625]
+    - to: [2718.6875, -1429.8125]
+    - to: [2744.9375, -1465.1875]
+    - to: [2729.6875, -1499.1875]
+    - to: [2700.1875, -1556.8125]
+- _Shrine::SahDahaj:
+    comment: "\u30B5\u30FB\u30C0\u30FC\u30B8\u30E5\u306E\u7960"
+    notes: Knight's Bow (if the Hinox didn't have one) - .link([Video]https://youtu.be/91Ch6kWaC_0)
+- Rock for E34:
+    coord: [2668.8, 290.88, -1638.68]
+- _Korok::E34
+- _Korok::E30
+- Korok Cube:
+    movements:
+    - to: [2735.69, 221.61, -1724.1]
+- _Korok::E29
+- _Material<Guardian Parts>:
+    notes: Kill Stalker for parts
+    coord: [2396.5, 255.39, -1633.0]
+- .gale() from race start:
+    gale: 1
+    time-override: 1000
+- _Korok::E33
+- .gale() from E33 to E32:
+    gale: 1
+    time-override: 1000
+- _Material<Ore Deposit>:
+    coord: [2285.8, 352.52, -1619.86]
+- _Korok::E32
+- _Tower::Eldin:
+    comment: "\u30AA\u30EB\u30C7\u30A3\u30F3\u306E\u5854"
+- _Chest<Shock Arrow x5>:
+    comment: "\u96FB\u6C17\u306E\u77E2 x5"
+    notes: If needed
+    coord: [2193.14, 447.29, -1644.28]
+- _Material<Ore Deposit>:
+    coord: [2026.5, 469.13, -1820.41]
+- _Korok::E27
+- _Material<Ore Deposit>:
+    coord: [1906.64, 460.23, -1756.45]
+- _Korok::E26:
+    movements:
+    - to: [1706.28, 459.75, -1761.83]
+    - to: [1687.56, 427.4, -1717.09]
+- _Korok::E24:
+    movements:
+    - to: [1469.5, 426.11, -1736.59]
+    - to: [1412.02, 408.75, -1759.8]
+- _Material<Ore Deposit>:
+    coord: [1528.97, 385.55, -1887.74]
+- _Korok::E25
+- .gale() toward the wall northeast:
+    gale: 1
+    time-override: 1000
+    coord: [1561.5, -1863.375]
+- _Korok::E19:
+    movements:
+    - to: [1579.8125, -1894.4375]
+    - to: [1601.875, -1911.375]
+    - to: [1634.9375, -1958.625]
+    - to: [1644.875, -2033.9375]
+    - to: [1631, -2075.5625]
+    - to: [1598.5, -2082.4375]
+    - to: [1540.625, -2085.875]
+    - to: [1537.85, 505.38, -2091.5]
+- "_Npc::SheikaMale<Kima/\u30DE\u30B5\u30FC\u30AD\u30A3>":
+    comment: "Fireproof Lizard Roundup/\u30D2\u30B1\u30B7\u30C8\u30AB\u30B2\u3092\u6355\
+      \u307E\u3048\u3066\uFF01"
+    coord: [1657.3125, -1960.25]
+- _Tod::Night:
+    icon-map: null
+- "_Npc::Goron<Greyson/\u30B0\u30EC\u30FC\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    coord: [1656.875, -1968.4375]
+- _Boss::Talus::Igneo:
+    comment: "\u30DE\u30B0\u30ED\u30C3\u30AF"
+    movements:
+    - to: [1795.54, 394.18, -1746.73]
+- .fury():
+    fury: 3
+- Rock for E18:
+    coord: [1661.06, 519.51, -2262.0]
+- _Korok::E18
+- _Discover<Stolock Bridge>:
+    comment: "\u30B4\u30ED\u30F3\u6A4B"
+    movements:
+    - to: [1663.625, -2259.5]
+    - to: [1656.25, -2291.75]
+    - to: [1655, -2339.125]
+    - to: [1667.9375, -2372.4375]
+    - to: [1677.0625, -2373.1875]
+    - to: [1644.625, -2441.3125]
+- _Korok::E15
+- _Korok::E14
+- _Korok::E13
+- _Shop<Ripped and Shredded>:
+    comment: "\u30AC\u30C3\u30C1\u30E0\u30C3\u30C1"
+    notes: "Flamebreaker Boots/\u8010\u706B\u306E\u77F3\u9774"
+    coord: [1642.5625, -2409.25]
+- _Shop<Goron Gusto Shop>:
+    comment: "\u30E2\u30EA\u30E2\u30EA\u5C4B"
+    notes: "Goron Spice/\u30B4\u30ED\u30F3\u306E\u9999\u8F9B\u7C89"
+    coord: [1683.4375, -2463.5]
+- "_Npc::Goron<Bludo/\u30D6\u30EB\u30C9\u30FC>":
+    comment: "Divine Beast Vah Rudania/\u708E\u306E\u795E\u7363 \u30F4\u30A1\u30FB\
+      \u30EB\u30FC\u30C0\u30CB\u30A2"
+    coord: [1714.1875, -2446.8125]
+- _Material<Stamina Vessel, 1>:
+    coord: [1722.25, 498.86, -2456.24]
+- _Shrine::ShaeMosah:
+    comment: "\u30B7\u30E2\u30FB\u30A4\u30C8\u30BB\u306E\u7960"
+    notes: Ice Arrow x10 - .link([Video]https://youtu.be/YwGrah65yBw)
+- "_Npc::Goron<Yunobo/\u30E6\u30F3\u574A>":
+    comment: "Divine Beast Vah Rudania/\u708E\u306E\u795E\u7363 \u30F4\u30A1\u30FB\
+      \u30EB\u30FC\u30C0\u30CB\u30A2"
+    coord: [1630.375, -2941.4375]
+- _Chest<Ice Arrow x10>:
+    comment: "\u6C37\u306E\u77E2 x10"
+    notes: Right-hand chest
+    coord: [1636.95, 560.92, -2944.44]
+- _Korok::E08
+- _Korok::E07
+- _Shrine::ShoraHah:
+    comment: "\u30B7\u30E7\u30E9\u30FB\u30CF\u306E\u7960"
+    notes: Ice Arrow x10, Giant Ancient Core - .link([Video]https://youtu.be/zi6dwGtfYJg)
+- _Boss::Talus::Igneo:
+    comment: "\u30DE\u30B0\u30ED\u30C3\u30AF"
+    coord: [1336.5, -3043.125]
+- .fury():
+    fury: 3
+    time-override: 1000

@@ -1,0 +1,85 @@
+- Line Color - Orange
+- Rock for L85:
+    coord: [-118.69, 106.04, 3798.2]
+- _Korok::L85:
+    color: rgb(254, 192, 0)
+- _Korok::L83
+- _Korok::L84
+- _Korok::L82
+- _Tod::Night:
+    icon-map: null
+- _Korok::L81
+- .gale() from race start:
+    gale: 1
+- _Korok::L80
+- .gale() from bottom of cliff up to L69:
+    gale: 1
+- Cube for L69:
+    coord: [-878.24, 245.08, 3555.87]
+- _Korok::L69:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/L69.png)
+- _Boss::Hinox::Stal:
+    comment: "\u30B9\u30BF\u30EB\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [-1061.8125, 3771.4375]
+- _Korok::L68
+- _Korok::L67
+- _Shrine::IshtoSoh:
+    comment: "\u30A4\u30AA\u30FB\u30BD\u30AA\u306E\u7960"
+    notes: .link([Video]https://youtu.be/5X9wb9nBJAQ) - Ancient core (Optional)
+- _Boss::Talus::Luminous:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u591C\u5149\uFF09"
+    coord: [-971.25, 3236.3125]
+- .fury():
+    fury: 3
+    time-override: 1000
+- _Korok::L41
+- .gale() from the indicated location toward L37:
+    gale: 1
+    icon: npc-rito
+    coord: [-1123.75, 3029.6875]
+- _Korok::L37
+- _Korok::L23
+- _Korok::P17
+- _Korok::P16
+- Cube for P14:
+    coord: [-1433.38, 282.6, 2116.56]
+- _Korok::P14:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/P14.png)
+- _Korok::P07
+- _Korok::P08
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [-1087.75, 179.14, 1663.18]
+- .fury():
+    fury: 1
+- .gale() from the location indicated over toward C80:
+    gale: 1
+    icon: npc-rito
+    coord: [-1162.75, 1551.9375]
+- _Korok::C80
+- _Korok::C79
+- _Korok::C74
+- "_Chest::Special<Phantom Helmet/\u30D5\u30A1\u30F3\u30C8\u30E0\u306E\u515C>":
+    comment: "EX Treasure Phantasma/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u5922\
+      \u5E7B\u306E\u93A7"
+    coord: [-1200.47, 152.65, 1229.24]
+- _Korok::C73
+- _Discover<Aquame Bridge>:
+    comment: "\u30A2\u30AF\u30AA\u6A4B"
+    coord: [-1128.5625, 1017.5625]
+- _Korok::C67
+- _Korok::C68:
+    notes: Shoot from C67
+    movements:
+    - to: [-1134.46, 143.85, 1030.47]
+- .gale() over toward C66:
+    gale: 1
+- Rock for C66:
+    coord: [-1354.7, 134.13, 1018.3]
+- _Korok::C66
+- _Korok::C52
+- _Korok::C53
+- .gale() toward Central Tower:
+    gale: 1
+- _Tower::Central:
+    comment: "\u5E73\u539F\u306E\u5854"

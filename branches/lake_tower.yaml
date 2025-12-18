@@ -1,0 +1,117 @@
+- Line Color - Cyan
+- _Warp::Shrine::KuhTakkar:
+    color: rgb(102, 255, 254)
+- _Korok::G17
+- _Boss::Talus::Frost:
+    comment: "\u30AC\u30C1\u30ED\u30C3\u30AF"
+    coord: [-2919.75, 1294.4375]
+- .fury():
+    fury: 3
+    time-override: 1000
+- _Korok::G18
+- _Chest<Shock Arrow x5>:
+    coord: [-2632.48, 677.6, 1515.95]
+- _Korok::G23
+- Rock for G27:
+    coord: [-2811.57, 578.39, 1651.3]
+- _Korok::G27
+- _Korok::G28:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/G28.png)
+- Rock for G24:
+    coord: [-2100.43, 359.07, 1521.2]
+- _Korok::G24
+- _Warp::Tower::Wasteland
+- _Korok::W14
+- _Korok::G36
+- _Korok::W20
+- _Korok::W21:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W21.png)
+- _Shrine::JeeNoh:
+    comment: "\u30B8\u30CE\u30FB\u30E8\u30FC\u306E\u7960"
+    notes: .link([Video]https://youtu.be/RVbWDxLpJHc)
+- _Korok::W26:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/W26.png)
+- .gale() up the wall:
+    gale: 1
+    icon: npc-rito
+    coord: [-1801, 2464.5]
+- _Korok::W27
+- _Korok::W22
+- _Korok::L21:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/L21.png)
+- .gale() toward the tree with L22:
+    gale: 1
+    icon: npc-rito
+    coord: [-1344.8125, 2749.5625]
+- _Korok::L22
+- "_Npc::SheikaMale<Giant Horse/\u5DE8\u5927\u99AC>":
+    comment: "Hunt for the Giant Horse/\u5DE8\u5927\u99AC\u6355\u7372\u5927\u4F5C\u6226"
+    coord: [-1196.01, 170.87, 2633.46]
+- _Korok::L36
+- _Korok::L62:
+    movements:
+    - to: [-1026.0625, 3009.875]
+    - to: [-840.625, 3203.875]
+    - to: [-923.5, 214.58, 3436.38]
+- "_Npc::SheikaMale<Straia/\u30B9\u30C6\u30A4\u30E4>":
+    comment: "Hunt for the Giant Horse/\u5DE8\u5927\u99AC\u6355\u7372\u5927\u4F5C\u6226"
+    movements:
+    - to: [-803.375, 3505.375]
+    - to: [-662.6875, 3776.8125]
+    - to: [-428.125, 3798.375]
+    - to: [-212.39, 128.7, 3487.13]
+- _Korok::L64
+- _Korok::L47
+- _Korok::L63
+- _Korok::L38:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/L38.png)
+- _Korok::L24
+- .gale() toward L25:
+    gale: 1
+- _Korok::L25
+- _Shrine::YaNaga:
+    comment: "\u30E4\u30FB\u30CA\u30FC\u30AC\u306E\u7960"
+    notes: .link([Video]https://youtu.be/6YOWxLn9zuc)
+- "_Npc::ZoraFemale<Mei/\u30C7\u30A3\u30FC\u30E1>":
+    comment: "A Wife Washed Away/\u6D41\u3055\u308C\u305F\u5AC1"
+    coord: [-226.9375, 2577.375]
+- .gale() from cryo block toward the bridge:
+    gale: 1
+    icon: npc-rito
+    notes: Swim if gales aren't recharged
+    coord: [-199.625, 2574.625]
+- _Korok::L26
+- _Korok::L15
+- _Korok::L14
+- .gale() from cryo block back on top of bridge:
+    gale: 1
+    icon: npc-rito
+    coord: [-85, 2413.6875]
+- _Korok::D54
+- Hard Save
+- _Korok::L10:
+    movements:
+    - to: [66.23, 94.0, 2310.65]
+- _Korok::L09
+- _Korok::L27
+- _Tod::Night:
+    icon-map: null
+- _Korok::L30
+- _Korok::L31
+- _Chest::Special<Salvager Headwear>:
+    comment: "\u30B5\u30EB\u30D9\u30FC\u30B8\u30E3\u30FC\u30E1\u30C3\u30C8"
+    coord: [125.6875, 2710.9375]
+- _Korok::L39
+- Iron box for L32:
+    coord: [187.44, 86.61, 2577.08]
+- _Korok::L32
+- .gale() over to L33:
+    gale: 1
+- _Korok::L33
+- _Korok::L40
+- _Korok::L44
+- _Korok::L42
+- _Korok::L43
+- _Korok::L51
+- _Tower::Lake:
+    comment: "\u6E56\u306E\u5854"

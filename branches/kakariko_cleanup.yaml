@@ -1,0 +1,71 @@
+- Line Color - Green
+- _Warp::Shrine::TalohNaeg
+- _Snap::Quest<Great Fairy Fountain>
+- "_Npc::SheikaMale<Cado/\u30DC\u30AC\u30FC\u30C9>":
+    comment: "Flown the Coop/\u6D88\u3048\u305F \u30B3\u30C3\u30B3\u3061\u3083\u3093"
+    coord: [1837.54, 221.84, 962.56]
+- "_Npc::SheikaFemale<Cottla/\u30D7\u30EA\u30B3>":
+    comment: "Playtime with Cottla/\u30D7\u30EA\u30B3\u3068\u904A\u307C\uFF01"
+    coord: [1870.67, 228.35, 957.56]
+- "_Npc::SheikaMale<Pikango/\u30AB\u30F3\u30AE\u30B9>":
+    comment: "Find the Fairy Fountain/\u5996\u7CBE\u306E\u6CC9\u63A2\u3057"
+    coord: [1828.22, 218.59, 990.14]
+- Light torches:
+    movements:
+    - to: [1844.54, 218.5, 995.45]
+    - to: [1847.59, 218.5, 998.11]
+    - to: [1846.51, 218.5, 1002.01]
+    - to: [1842.49, 218.5, 1002.5]
+- _Material<Heart Vessel, 1>:
+    coord: [1840.12, 218.54, 997.89]
+- "_Npc::SheikaFemale<Koko/\u30B3\u30B3\u30CA>":
+    comment: "Koko's Kitchen/\u30B3\u30B3\u30CA\u2019s \u30AD\u30C3\u30C1\u30F3"
+    coord: [1799.33, 219.76, 1013.53]
+- "_Npc::SheikaFemale<Koko/\u30B3\u30B3\u30CA>":
+    comment: "Cooking with Koko/\u30B3\u30B3\u30CA\u2019s \u30AD\u30C3\u30C1\u30F3\
+      2"
+    coord: [1799.33, 219.76, 1013.53]
+- "_Npc::SheikaFemale<Koko/\u30B3\u30B3\u30CA>":
+    comment: "Koko Cuisine/\u30B3\u30B3\u30CA\u2019s \u30AD\u30C3\u30C1\u30F33"
+    coord: [1799.33, 219.76, 1013.53]
+- "_Npc::SheikaFemale<Koko/\u30B3\u30B3\u30CA>":
+    comment: "Koko's Specialty/\u30B3\u30B3\u30CA\u2019s \u30AD\u30C3\u30C1\u30F34"
+    coord: [1799.33, 219.76, 1013.53]
+- _Tod::Night:
+    icon-map: null
+- "_Npc::SheikaFemale<Rola/\u30BB\u30ED\u30FC\u30E9>":
+    comment: "Arrows of Burning Heat/\u71C3\u3048\u308B\u77E2\u3058\u308A\u3067\u8CAB\
+      \u3044\u3066"
+    coord: [1830.49, 222.41, 1044.89]
+- "_Npc::SheikaFemale<Lasli/\u30E9\u30BA\u30EA>":
+    comment: "By Firefly's Light/\u30DB\u30BF\u30EB \u30CE \u30D2\u30AB\u30EA"
+    coord: [1899.19, 234.41, 1036.3]
+- "_Npc::SheikaFemale<Impa/\u30A4\u30F3\u30D1>":
+    comment: "Captured Memories/\u30A6\u30C4\u30B7\u30A8\u306E\u8A18\u61B6"
+    coord: [1772.71, 229.43, 984.31]
+- "_Npc::SheikaFemale<Paya/\u30D1\u30FC\u30E4>":
+    comment: "The Stolen Heirloom/\u76D7\u307E\u308C\u305F\u5B9D\u73E0"
+    coord: [1774.34, 228.91, 987.23]
+- _Tod::Night:
+    icon-map: null
+- .gale() up to the ledge for D04:
+    gale: 1
+- _Korok::D04
+- _Korok::D08
+- If you don't already have a Windcleaver, while waiting for Dorian, make sure you
+  have a weapon slot empty.
+- _Equipment::Weapon<Windcleaver>:
+    comment: "\u98A8\u65AC\u308A\u5200"
+    notes: Kill Yiga Blademaster with normal arrows. Pick up windcleaver as soon as
+      he drops it.
+- _Shrine::LaknaRokee:
+    comment: "\u30E9\u30FC\u30CA\u30FB\u30ED\u30AD\u306E\u7960"
+    notes: Edge of Duality
+- _Korok::N07
+- _Korok::N08
+- _Korok::N10
+- _Korok::N09
+- _Korok::D07
+- _Korok::D11
+- _Korok::D10
+- _Korok::D09

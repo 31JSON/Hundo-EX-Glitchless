@@ -1,0 +1,72 @@
+- Line Color - Blue
+- _Warp::Shrine::ShadaNaw:
+    color: rgb(0, 176, 240)
+- _Korok::H21
+- Rock for H12:
+    coord: [-2863.72, 342.34, -3497.77]
+- _Korok::H12
+- _Warp::Shrine::ShadaNaw
+- _Shrine::MozoShenno:
+    comment: "\u30DF\u30E7\u30B9\u30FB\u30B7\u30CE\u306E\u7960"
+    notes: Diamond (Optional)
+- _Korok::H26
+- _Korok::H25
+- .gale() back up the wall facing east:
+    gale: 1
+- _Korok::H19
+- _Korok::H18
+- Rock for H17:
+    coord: [-4199.82, 347.98, -3369.27]
+- _Korok::H17
+- _Korok::H24
+- _Korok::H32
+- _Chest<Ruby>:
+    coord: [-4337.4, 400.85, -2723.29]
+- .gale() toward H40:
+    gale: 1
+- _Korok::H40
+- _Boss::Hinox::Black:
+    comment: "\u9ED2\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [-4530.75, -2679.25]
+- _Chest<Bomb Arrow x5>:
+    coord: [-4490.47, 339.26, -2535.14]
+- Hard save before staring T06
+- Start T06:
+    notes: Start T06 and *quickly* do H53 on the way.
+    coord: [-4495.56, 344.15, -2510.31]
+- _Korok::H53
+- _Korok::T06:
+    coord: [-4396.84, 183.4, -2049.88]
+- _Chest<Ruby>:
+    coord: [-4455.38, 212.04, -2159.49]
+- _Korok::H60
+- .gale() in the direction of T08:
+    gale: 1
+- _Korok::T08
+- 3 Rocks for T07:
+    movements:
+    - to: [-4343.13, 171.9, -2016.96]
+    - to: [-4338.58, 161.2, -2038.81]
+    - to: [-4311.7, 161.3, -2083.12]
+    - to: [-4325.69, 160.59, -2066.13]
+    - to: [-4295.73, 157.1, -2033.91]
+    - to: [-4314.41, 160.69, -2044.76]
+- _Korok::T07
+- _Warp::Shrine::ShaWarvo
+- _Korok::T01
+- _Korok::H42
+- .gale() up the wall to the north toward H41:
+    gale: 1
+- Rock for H41:
+    coord: [-4162.0, 231.46, -2565.87]
+- _Korok::H41
+- _Discover<Sturndia Secret Hot Spring>:
+    comment: "\u30AF\u30E0\u306E\u79D8\u6E6F"
+    coord: [-4090.5, -2753.0625]
+- Ride air current up and glide to the start of the flower chase
+- _Korok::H39
+- Enter for Maka Rah:
+    coord: [-3991.63, 145.39, -2538.79]
+- _Shrine::MakaRah:
+    comment: "\u30AB\u30DE\u30FB\u30E9\u30D2\u306E\u7960"
+    notes: (Optional Chest) Ancient core, Diamond, Bomb Arrow x10

@@ -1,0 +1,173 @@
+- _Shrine::MyahmAgana:
+    comment: "\u30DF\u30E3\u30DE\u30FB\u30AC\u30CA\u306E\u7960"
+- _Shop<East Wind>:
+    comment: "\u30A4\u30FC\u30B9\u30C8\u30FB\u30A6\u30A4\u30F3\u30C9"
+    notes: Sell stuff, buy arrows, endura shroom
+    coord: [3356.35, 225.66, 2175.1]
+- "_Npc::SheikaMale<Nebb/\u30CA\u30D6>":
+    comment: "The Weapon Connoisseur/\u5E7C\u304D\u6B66\u5668\u30DE\u30CB\u30A2"
+    notes: Show him the Traveler's Sword so you can get it out of your inventory.
+    movements:
+    - to: [3379.75, 2145.0625]
+- "_Npc::SheikaFemale<Clavia/\u30AF\u30EC\u30FC\u30F4\u30A3\u30A2>":
+    comment: "Secret of the Cedars/\u4E09\u672C\u6749\u306E\u79D8\u5BC6"
+    notes: If raining, talk to her at the end of the route during Hateno 2.
+    coord: [3425.375, 2162.25]
+- _Chest<Opal>:
+    comment: "\u30AA\u30D1\u30FC\u30EB"
+    movements:
+    - to: [3447.39, 221.61, 2164.51]
+- _Cook<Needed Food>:
+    coord: [3446.07, 226.75, 2136.45]
+- _Material<Stamina Vessel, 2>:
+    coord: [3439.15, 235.86, 2098.53]
+- "_Npc::SheikaMale<Medda/\u30B7\u30E2\u30C4\u30B1>":
+    comment: "The Spring of Wisdom/\u30E9\u30CD\u30FC\u30EB\u5C71\u306E\u304A\u5B9D\
+      \u3092\u63A2\u308C\uFF01"
+    notes: Start the quest
+    coord: [3381.11, 226.15, 2105.53]
+- Get blue flame:
+    icon: location
+    movements:
+    - to: [3445.66, 252.21, 1982.3]
+- Light the Lantern:
+    notes: Light the lantern to keep the blue flame while getting Korok.
+    coord: [3470.75, 257.59, 1918.85]
+- _Korok::N42
+- Take blue flame to tech lab:
+    icon: location
+    notes: put square bomb down in front of you; press Y; FAST press B -> (left dpad);
+      unequip shield; pick up bomb; throw bomb
+    movements:
+    - to: [3522.75, 1928.73408125047]
+    - to: [3556.75, 1968.479437064827]
+    - to: [3562.5, 2017.2237413654548]
+    - to: [3606.75, 2068.9676951615047]
+    - to: [3620.25, 2139.4594583039507]
+    - to: [3631.75, 2171.4557195884645]
+    - to: [3653.25, 2154.7076765723514]
+    - to: [3677.25, 2144.7088449209405]
+    - to: [3682.75, 2102.9637227763014]
+    - to: [3706.25, 2075.2169649436364]
+    - to: [3731.25, 2057.469038762383]
+    - to: [3748.75, 2051.719710562822]
+    - to: [3778, 2060.9686298403767]
+    - to: [3788, 2076.466818900063]
+    - to: [3778, 2126.211006365831]
+- "_Npc::SheikaFemale<Purah/\u30D7\u30EB\u30A2>":
+    comment: "Locked Momentos/\u30BC\u30EB\u30C0\u306E\u9053\u3057\u308B\u3079"
+    coord: [3774.95, 357.0, 2126.02]
+- "_Npc::SheikaFemale<Purah/\u30D7\u30EB\u30A2>":
+    comment: "Robbie's Research/\u3082\u3046\u4E00\u4EBA\u306E\u7814\u7A76\u8005"
+    notes: Start the quest
+    coord: [3774.95, 357.0, 2126.02]
+- "_Npc::SheikaFemale<Purah/\u30D7\u30EB\u30A2>":
+    comment: "Slated for Upgrades/\u89E3\u653E \u3055\u3089\u306A\u308B\u529B"
+    notes: Upgrade Sheika Sensor and Bombs+. Might have to come back later for Stasis+.
+    coord: [3774.95, 357.0, 2126.02]
+- "_Npc::SheikaMale<Symin/\u30B7\u30E2\u30F3>":
+    comment: "Sunshroom Sensing/\u30A6\u30C4\u30B7\u30A8\u3068\u30B7\u30FC\u30AB\u30FC\
+      \u30BB\u30F3\u30B5\u30FC"
+    notes: Drop sunshroom on the ground, take picture, pick it up. Make sure to have
+      at least 1 in the inventory for Riddles side quest later.
+    coord: [3778.96, 356.86, 2132.45]
+- _Korok::N47
+- _Shrine::ChaasQeta:
+    comment: "\u30C1\u30E3\u30B9\u30FB\u30B1\u30BF\u306E\u7960"
+    notes: Climbing Gear
+- _Snap::Quest<Small Guardian>:
+    icon-map: null
+- _Korok::N66
+- _Warp::TechLab::Hateno
+- _Korok::N48:
+    movements:
+    - to: [3901.08, 235.8, 2096.73]
+- _Korok::N43
+- "_Npc::SheikaFemale<Koyin/\u30B3\u30E6>":
+    comment: "The Sheep Rustlers/\u306B\u3063\u304F\u304D\u30D2\u30C4\u30B8\u6CE5\u68D2"
+    notes: Goodbye quest; Start the quest
+    coord: [3621.69, 283.36, 2098.13]
+- "_Npc::SheikaMale<Bolson/\u30B5\u30AF\u30E9\u30C0>":
+    comment: "Hylian Homeowner/\u5E78\u305B\u3092\u904B\u3076\u5320"
+    notes: Start the quest, but don't buy the house yet.
+    coord: [3316.2, 235.52, 2302.53]
+- _Equipment::Weapon<Iron Sledgehammer x2>:
+    comment: "\u9244\u306E\u30CF\u30F3\u30DE\u30FC"
+    icon-map: null
+    movements:
+    - to: [3325.31, 236.49, 2296.81]
+    - to: [3324.2, 236.68, 2285.69]
+- _Korok::N59
+- _Korok::N58
+- _Material<Hearty Bass, 5>:
+    coord: [3013.53, 229.45, 2541.98]
+- _Korok::N50
+- _Korok::N49
+- Continue to Hateno Tower:
+    movements:
+    - to: [2652.75, 2262.25]
+    - to: [2637.75, 2244.25]
+    - to: [2616.25, 2168.75]
+    - to: [2637.5, 2148.25]
+    - to: [2671.5, 2130.5]
+    - to: [2688.75, 2145]
+    - to: [2712.75, 2149]
+    - to: [2735, 2149.5]
+- _Tower::Hateno:
+    comment: "\u30CF\u30C6\u30CE\u5854"
+- _Korok::D53:
+    notes: Drown
+    movements:
+    - to: [2484.83, 119.0, 2103.39]
+- _Chest<Fire Arrow x5>:
+    comment: "\u708E\u306E\u77E2 x5"
+    coord: [2490.57, 212.29, 2245.82]
+- _Korok::D58
+- _Korok::D57
+- _Korok::F06
+- _Korok::F09
+- _Korok::F08
+- _Korok::F12
+- _Korok::F11
+- Farm Farosh Parts:
+    notes: Scale, Horn, Claw
+    coord: [1749.25, 3004]
+- _Material<Farosh's Scale, 3>:
+    comment: "\u30D5\u30ED\u30C9\u30E9\u306E\u30A6\u30ED\u30B3"
+- _Material<Farosh's Claw, 2>:
+    comment: "\u30D5\u30ED\u30C9\u30E9\u306E\u722A"
+- _Material<Farosh Fang, 1>:
+    comment: "\u30D5\u30ED\u30C9\u30E9\u306E\u7259\u306E\u304B\u3051\u3089"
+    icon-map: null
+- _Material<Shard of Farosh's Horn, 50>:
+    comment: "\u30D5\u30ED\u30C9\u30E9\u306E\u89D2\u306E\u304B\u3051\u3089"
+    icon-map: null
+    notes: Used to make a bunch of 30 min Speed and Attack Up foods.
+- Movements to Mighty Bananas:
+    movements:
+    - to: [1653.75, 2981.75]
+    - to: [1597.625, 3009.625]
+    - to: [1535.3125, 3140.4375]
+- _Material<Mighty Bananas, 3>:
+    comment: "\u30C4\u30EB\u30AE\u30D0\u30CA\u30CA"
+    coord: [1420.22, 214.25, 3465.15]
+- _Material<Mighty Bananas, 3>:
+    comment: "\u30C4\u30EB\u30AE\u30D0\u30CA\u30CA"
+    coord: [1383.96, 215.38, 3453.8]
+- _Material<Mighty Bananas, 3>:
+    comment: "\u30C4\u30EB\u30AE\u30D0\u30CA\u30CA"
+    coord: [1309.82, 213.89, 3434.5]
+- _Material<Mighty Bananas, 3>:
+    comment: "\u30C4\u30EB\u30AE\u30D0\u30CA\u30CA"
+    coord: [1285.38, 213.93, 3429.3]
+- _Material<Mighty Bananas, 3>:
+    comment: "\u30C4\u30EB\u30AE\u30D0\u30CA\u30CA"
+    coord: [1266.24, 214.27, 3449.53]
+- _Material<Mighty Bananas, 3>:
+    comment: "\u30C4\u30EB\u30AE\u30D0\u30CA\u30CA"
+    coord: [1286.56, 213.44, 3454.49]
+- _Material<Mighty Bananas, 3>:
+    comment: "\u30C4\u30EB\u30AE\u30D0\u30CA\u30CA"
+    coord: [1254.87, 213.3, 3488.32]
+- _Chest<Fire Arrow x5>:
+    coord: [1303.28, 114.21, 3555.08]

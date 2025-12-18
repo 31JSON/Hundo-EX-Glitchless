@@ -1,0 +1,259 @@
+- Line Color - Orange
+- _Warp::TechLab::Hateno
+- "_Npc::SheikaFemale<Purah/\u30D7\u30EB\u30A2>":
+    comment: "Slated for Upgrades/\u89E3\u653E \u3055\u3089\u306A\u308B\u529B"
+    notes: Finish upgrades and complete quest
+    coord: [3774.95, 357.0, 2126.02]
+- _Warp::Shrine::JaBaij
+- _Korok::P12
+- _Korok::P13
+- _Material<Stamella Shroom>:
+    movements:
+    - to: [-376.98, 128.37, 1902.39]
+    - to: [-374.63, 129.18, 1897.99]
+- _Chest<Amber>:
+    coord: [-278.13, 114.23, 1740.33]
+- _Discover<Outpost Ruins>:
+    comment: "\u30CF\u30A4\u30E9\u30EB\u5BBF\u5834\u753A \u8DE1\u5730"
+    notes: Run toward to the dead guardian in the middle.
+    coord: [-246.6875, 1675.3125]
+- _Chest<Arrow x10>:
+    coord: [-348.8, 125.04, 1575.44]
+- _Chest<Fire Arrow x5>:
+    coord: [-285.04, 157.09, 1585.5]
+- _Material<Rushroom>:
+    coord: [-180.38, 124.04, 1603.41]
+- _Boss::Talus::Luminous:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u591C\u5149\uFF09"
+    coord: [-176.93, 132.59, 1771.62]
+- _Korok::D43
+- _Korok::D44
+- _Chest<Sapphire>:
+    coord: [-21.82, 177.94, 1727.97]
+- _Korok::D31
+- _Korok::D32
+- _Shrine::BoshKala:
+    comment: "\u30F4\u30A1\u30B7\u30FB\u30EA\u30E3\u30B3\u306E\u7960"
+    notes: .link([Video]https://youtu.be/6KvKVzIevqU)
+- _Korok::D26
+- _Discover<East Post Ruins>:
+    comment: "\u6771\u306E\u5BBF\u5834\u753A\u8DE1"
+    notes: Location is discovered when climbing the pole for D26 usually.
+    coord: [30.75, 1565.5]
+- _Chest<Opal>:
+    coord: [118.52, 118.83, 1500.48]
+- _Korok::C84
+- _Equipment::Weapon<Moblin Club>:
+    comment: "\u30E2\u30EA\u30D6\u30EA\u30F3\u30D0\u30C3\u30C8"
+    notes: For Nebb
+    coord: [132.75, 1398]
+- _Korok::D22
+- _Chest<Shock Arrow x5>:
+    comment: "\u96FB\u6C17\u306E\u77E2 x5"
+    notes: Optional
+    coord: [282.15, 114.37, 1355.95]
+- _Chest<Opal>:
+    coord: [328.19, 112.21, 1295.78]
+- _Korok::D14
+- _Discover<Owlan Bridge>:
+    comment: "\u30A2\u30A6\u30FC\u30EB\u6A4B"
+    coord: [326.3125, 1272.8125]
+- _Korok::C77
+- _Discover<Riverside Stable>:
+    comment: "\u30EA\u30D0\u30FC\u30B5\u30A4\u30C9\u99AC\u5BBF"
+    coord: [339.1875, 1095.5625]
+- _Cook<Fruit Cake>:
+    comment: "\u30D5\u30EB\u30FC\u30C4\u30B1\u30FC\u30AD"
+    notes: Apple, Another Fruit, Wheat, Sugar
+    coord: [318.6, 115.3, 1099.87]
+- "_Npc::SheikaMale<Gotter/\u30B4\u30A8\u30BF\u30D5>":
+    comment: "A Royal Recipe/\u738B\u5BB6\u79D8\u4F1D\u306E\u30EC\u30B7\u30D4"
+    coord: [325.82, 115.4, 1092.5]
+- If it's raining, do this quest later after C65.:
+    banner: true
+- _Shop<Beedle>:
+    comment: "\u30C6\u30EA\u30FC"
+    notes: Buy electric darner for quest
+    coord: [324.66, 115.4, 1089.03]
+- Ride to Kakariko:
+    movements:
+    - to: [466.4375, 963.1875]
+    - to: [492.1875, 929.0625]
+    - to: [517.75, 901.8125]
+    - to: [576.9375, 915.75]
+    - to: [598.4375, 935.8125]
+    - to: [625.9375, 945.4375]
+    - to: [655.0625, 963.625]
+    - to: [680.4375, 977.625]
+    - to: [708.5, 992.9375]
+    - to: [778.5625, 1035.8125]
+    - to: [790.625, 1046.4375]
+    - to: [818.625, 1083.4375]
+    - to: [842, 1089.625]
+    - to: [879.5625, 1086.6875]
+    - to: [898.4375, 1049.1875]
+    - to: [923.0625, 1020.125]
+    - to: [937.875, 993.375]
+    - to: [970.5, 941.4375]
+    - to: [1002.3125, 890.375]
+    - to: [1028.3125, 850.6875]
+    - to: [1032.25, 818.9375]
+    - to: [1028.1875, 806.9375]
+    - to: [1012.375, 769.625]
+    - to: [1010.9375, 747.9375]
+    - to: [1029.1875, 728.9375]
+    - to: [1071.3125, 702.875]
+    - to: [1088.375, 664.4375]
+    - to: [1190.5, 671.4725438081505]
+    - to: [1543.75, 1016.4407063090912]
+    - to: [1584.25, 1050.1867631326022]
+    - to: [1641.25, 1060.9355071578684]
+    - to: [1698.25, 1083.182907582257]
+    - to: [1760.6875, 1097.8125]
+    - to: [1798.33, 230.97, 1078.18]
+- "_Npc::SheikaFemale<Rola/\u30BB\u30ED\u30FC\u30E9>":
+    comment: "Arrows of Burning Heat/\u71C3\u3048\u308B\u77E2\u3058\u308A\u3067\u8CAB\
+      \u3044\u3066"
+    notes: Talk to her twice to start quest; Finish during Kakariko cleanup
+    coord: [1830.49, 222.41, 1044.89]
+- _Shop<High Spirits Produce>:
+    comment: "\u6E80\u798F"
+    notes: Buy butter, carrots, eggs
+    coord: [1795.25, 1029.125]
+- _Material<Stamina Vessel, 1>:
+    coord: [1840.12, 218.54, 997.89]
+- "_Npc::SheikaMale<Pikango/\u30AB\u30F3\u30AE\u30B9>":
+    comment: "Find the Fairy Fountain/\u5996\u7CBE\u306E\u6CC9\u63A2\u3057"
+    notes: Start quest
+    coord: [1828.22, 218.59, 990.14]
+- _Korok::D03
+- "_Npc::SheikaFemale<Impa/\u30A4\u30F3\u30D1>":
+    comment: "Captured Memories/\u30A6\u30C4\u30B7\u30A8\u306E\u8A18\u61B6"
+    coord: [1772.71, 229.43, 984.31]
+- _Korok::D02
+- "_Npc::SheikaMale<Cado/\u30DC\u30AC\u30FC\u30C9>":
+    comment: "Flown the Coop/\u6D88\u3048\u305F \u30B3\u30C3\u30B3\u3061\u3083\u3093"
+    notes: Activate the quest; Will finish at end of run
+    coord: [1837.54, 221.84, 962.56]
+- _Shop<Enchanted>:
+    comment: "\u5FCD\u674F\u4EAD"
+    notes: Optional; Buy Stelth Set and Hylian Trousers.
+    coord: [1854.75, 981.5625]
+- _Material<Pumkin>:
+    comment: "\u30E8\u30ED\u30A4\u30AB\u30DC\u30C1\u30E3"
+    notes: From Olkin; Needed for Riddles quest
+    coord: [1870.87, 227.97, 965.85]
+- Ride to Dueling Peaks Stable:
+    movements:
+    - to: [1917.875, 995.92940188384]
+    - to: [1922.25, 1019.6141343581194]
+    - to: [1937.8125, 1021.7388860840438]
+    - to: [1957.4375, 1045.3699322879938]
+    - to: [1955.3125, 1093.9375]
+    - to: [1948.5, 1128.5625]
+    - to: [1962.8125, 1154.75]
+    - to: [2032, 1185.9375]
+    - to: [2061.4375, 1194.75]
+    - to: [2090.4375, 1215.125]
+    - to: [2101.6875, 1243.125]
+    - to: [2103.25, 1252.5]
+    - to: [2113.9375, 1299.625]
+    - to: [2115.75, 1350.875]
+    - to: [2113.5, 1371.25]
+    - to: [2102.75, 1391.1875]
+    - to: [2023.0625, 1432.4375]
+    - to: [1987.8125, 1445.2838535530245]
+    - to: [1960.125, 1445.971273229059]
+    - to: [1943.25, 1437.0973101384325]
+    - to: [1927.9375, 1435.784963484185]
+    - to: [1908.5625, 1430.9730257519432]
+    - to: [1876.5, 1434.1601533408302]
+    - to: [1854.4375, 1430.6605622628367]
+    - to: [1840.1875, 1436.4723831602196]
+    - to: [1811.6875, 1467.968702862163]
+    - to: [1771.5, 1547.1875]
+- _Korok::D20
+- Continue:
+    movements:
+    - to: [1758.5, 1595.0942591330404]
+    - to: [1743.5, 1638.5891768166766]
+    - to: [1753.75, 1662.3364019887767]
+    - to: [1765.4375, 1745.9375]
+    - to: [1746.375, 1796.6875]
+    - to: [1751.8125, 1850.625]
+    - to: [1752.0625, 1859.9375]
+    - to: [1735.875, 1916.0625]
+- _Discover<Dueling Peaks Stable>:
+    comment: "\u53CC\u5B50\u99AC\u5BBF"
+    coord: [1761.25, 1926.5]
+- _Chest<Silver Rupee>:
+    coord: [1782.33, 116.2, 1910.04]
+- "_Npc::SheikaMale<Domidak/\u30C9\u30DF\u30C0\u30AF>":
+    comment: "Misko, the Great Bandit/\u5927\u76D7\u8CCA\u30E9\u30E0\u30C0\u306E\u8CA1\
+      \u5B9D"
+    notes: Start quest
+    coord: [1767.48, 116.07, 1925.15]
+- _Material<Apple>:
+    comment: "\u30EA\u30F3\u30B4"
+    notes: if needed for Koroks
+    movements:
+    - to: [1750.67, 117.57, 1947.52]
+    - to: [1750.98, 117.58, 1947.73]
+    - to: [1750.79, 117.56, 1948.08]
+- _Shop<Beedle>:
+    comment: "\u30C6\u30EA\u30FC"
+    notes: Buy crickets and octoballoons; Optional if collect them yourself
+    coord: [1733.59, 115.53, 1930.51]
+- _Shrine::HaDahamar:
+    comment: "\u30CF\u30E6\u30FB\u30C0\u30DE\u306E\u7960"
+    notes: .link([Video]https://youtu.be/Jqn44u-fPfk)
+- _Discover<Big Twin Bridge>:
+    comment: "\u3075\u305F\u3054\u5144\u6A4B"
+    coord: [1670.75, 2033.5]
+- _Chest<Opal>:
+    coord: [1680.87, 113.97, 2038.71]
+- _Discover<Little Twin Bridge>:
+    comment: "\u3075\u305F\u3054\u5F1F\u6A4B"
+    coord: [1714.25, 2149]
+- _Material<Rushroom>:
+    coord: [1624.74, 156.45, 2249.77]
+- _Korok::F05
+- _Korok::F01
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [1257.12, 355.8, 2176.52]
+- _Korok::D49
+- _Shrine::SheeVaneer:
+    comment: "\u30B7\u30D9\u30FB\u30CB\u30FC\u30ED\u306E\u7960"
+    notes: .link([Shee Vaneer Solution]https://github.com/31PNMR/hundo-ex-mgr-glitch/blob/0edce9a9965dead04f1a6f3127c4599f1a8afe53/graphics/SheeVaneerSolution.png)
+      - .link([Video]https://youtu.be/PxkQvAU7A_8)
+- _Korok::D40
+- _Shrine::SheeVenath:
+    comment: "\u30B7\u30D9\u30FB\u30CB\u30E3\u30B9\u306E\u7960"
+    notes: .link([She Venath Solution]https://github.com/31PNMR/hundo-ex-mgr-glitch/blob/6a66b1532fa7af88521c959ca9a0b866f503320e/graphics/SheeVenathSolution.png)
+      - .link([Video]https://youtu.be/Ty2dm_1Pz7I)
+- _Shrine::ReeDahee:
+    comment: "\u30EA\u30FB\u30C0\u30D2\u306E\u7960"
+    notes: Climber's Bandanna - .link([Video]https://youtu.be/Ew4Yc8vrrHE)
+- _Warp::Shrine::SheeVaneer
+- _Korok::D41:
+    comment: Push boulder down hill
+    movements:
+    - to: [1389.52, 450.25, 1858.39]
+    - to: [1517.27, 400.25, 1850.08]
+- _Chest<Iron Sledgehammer>:
+    coord: [1372.75, 325.4, 1660.55]
+- _Korok::D30
+- _Chest<Luminous Stone>:
+    coord: [1341.42, 307.78, 1525.58]
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [1186.6875, 1642.875]
+- Kill Guardians in this area for parts
+- _Korok::D17
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [1466, 1328.75]
+- _Korok::D18:
+    comment: Drown
+- _Korok::D19

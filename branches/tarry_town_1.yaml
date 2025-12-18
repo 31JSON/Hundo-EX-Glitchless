@@ -1,0 +1,82 @@
+- Line Color - Green
+- _Shrine::ZeKasho:
+    comment: "\u30B8\u30BA\u30FB\u30AB\u30D5\u30A3\u306E\u7960"
+    notes: .link([Video]https://youtu.be/eIeBkMcEwTg)
+- "_Npc::SheikaFemale<Jana/\u30B8\u30E5\u30F3>":
+    comment: "Little Sister's Big Request/\u5C0F\u3055\u306A\u59B9\u306E\u5927\u304D\
+      \u306A\u9858\u3044"
+    coord: [3133.57, 306.78, -1693.04]
+- _Tod::Noon:
+    notes: If between 8pm and 9am; also to make it not raining
+- _Korok::A30
+- _Korok::A31
+- _Korok::A32
+- _Material<Razorshroom>:
+    movements:
+    - to: [3769.99, 200.41, -1936.25]
+    - to: [3697.0, 200.39, -1902.31]
+    - to: [3698.71, 198.56, -1891.38]
+    - to: [3678.32, 194.49, -1806.09]
+- _Korok::A37
+- _Snap::Quest<Guardian Stalker>:
+    icon-map: null
+- _Material<Razorshroom>:
+    movements:
+    - to: [3608.98, 195.23, -1696.55]
+    - to: [3577.96, 195.25, -1626.36]
+    - to: [3632.3, 195.05, -1623.24]
+- Kill Guardian Stalkers for Quest and pick up their parts:
+    movements:
+    - to: [3624.5625, -1602.5625]
+    - to: [3681.25, -1511.875]
+- _Material<Razorshroom>:
+    movements:
+    - to: [3612.27, 194.85, -1479.68]
+    - to: [3723.54, 195.18, -1462.22]
+- .gale() from cryo block to Hudson:
+    gale: 1
+    time-override: 1000
+    coord: [3908.875, -1571.9375]
+- "_Npc::SheikaMale<Hudson/\u30A8\u30CE\u30AD\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    coord: [3983.9375, -1600.9375]
+- _Cook<Fire Protection>:
+    comment: "\u71C3\u3048\u305A\u85AC"
+    icon-map: null
+    notes: 3 Smotherwing Butterflies, 2 Lizalfos tails
+- Rock for A34:
+    coord: [4147.17, 234.37, -1760.87]
+- _Korok::A34
+- _Korok::A38
+- _Material<Endura Carrot>:
+    coord: [4109.69, 273.18, -1404.43]
+- _Discover<Great Fairy Fountain>:
+    comment: "\u5927\u5996\u7CBE\u306E\u6CC9"
+    coord: [4111.4375, -1378.3125]
+- _Korok::A48
+- _Korok::A49
+- _Korok::A47
+- _Shrine::DahHesho:
+    comment: "\u30C0\u30D2\u30FB\u30B7\u30FC\u30CE\u306E\u7960"
+    notes: Giant ancient core - .link([Video]https://youtu.be/O8x0RdEbkmo)
+- _Discover<East Sokkala Bridge>:
+    comment: "\u6771\u30DF\u30CA\u30C3\u30AB\u30EC\u6A4B"
+    coord: [3860.75, -1094.9375]
+- _Korok::A51
+- _Chest<Gold Rupee>:
+    coord: [3734.62, 188.46, -1182.77]
+- _Discover<Sokkala Bridge>:
+    comment: "\u30DF\u30CA\u30C3\u30AB\u30EC\u6A4B"
+    coord: [3686.5625, -1003.75]
+- _Discover<West Sokkala Bridge>:
+    comment: "\u897F\u30DF\u30CA\u30C3\u30AB\u30EC\u6A4B"
+    coord: [3591.0625, -1020.5625]
+- _Korok::A52
+- _Discover<Akkala Parade Ground Ruins>:
+    comment: "\u30DF\u30CA\u30C3\u30AB\u30EC\u7DF4\u5175\u5834\u8DE1"
+    coord: [3309.625, -1201.5625]
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    notes: Pick up Knight's Bow if the Hinox has metal weapons.
+    coord: [3288.625, -1256.0625]

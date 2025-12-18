@@ -1,0 +1,79 @@
+- Line Color - Green
+- _Warp::Shrine::MyahmAgana
+- _Shop<East Wind>:
+    comment: "\u30A4\u30FC\u30B9\u30C8\u30FB\u30A6\u30A4\u30F3\u30C9"
+    notes: Sell stuff
+    coord: [3356.35, 225.66, 2175.1]
+- "_Npc::SheikaMale<Bolson/\u30B5\u30AF\u30E9\u30C0>":
+    comment: "Hylian Homeowner/\u5E78\u305B\u3092\u904B\u3076\u5320"
+    notes: Talk to Bolson to buy the house.
+    coord: [3331.22, 235.28, 2284.61]
+- "_Npc::SheikaMale<Hudson/\u30A8\u30CE\u30AD\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    notes: Send Hudson on his way.
+    coord: [3330.04, 235.31, 2286.93]
+- _Warp::TechLab::Hateno
+- _Material<Hightail Lizard>:
+    movements:
+    - to: [3842.61, 299.6, 2022.51]
+    - to: [3839.3, 289.23, 1981.18]
+    - to: [3864.9, 289.3, 1980.87]
+    - to: [3875.5, 300.24, 2017.7]
+    - to: [3913.19, 304.26, 2007.53]
+- _Material<Ore Deposit>:
+    movements:
+    - to: [4051.32, 306.48, 2048.15]
+    - to: [4051.86, 307.07, 2053.26]
+    - to: [4056.54, 307.56, 2052.5]
+- _Korok::N44
+- _Korok::N32
+- _Shrine::TahnoOah:
+    comment: "\u30BF\u30FC\u30CE\u30FB\u30A2\u306E\u7960"
+    notes: (Optional) Climbing Boots
+- _Korok::N40
+- _Material<Ore Deposit>:
+    movements:
+    - to: [4592.72, 109.43, 1873.29]
+    - to: [4584.05, 113.46, 1873.5]
+    - to: [4583.61, 114.14, 1873.43]
+    - to: [4582.52, 111.34, 1866.51]
+    - to: [4584.01, 109.41, 1863.04]
+    - to: [4584.01, 109.41, 1863.04]
+    - to: [4515.08, 117.78, 1727.86]
+    - to: [4509.62, 116.32, 1724.04]
+    - to: [4511.39, 114.08, 1722.93]
+    - to: [4510.81, 114.01, 1722.05]
+    - to: [4514.6, 114.14, 1716.69]
+    - to: [4498.06, 111.2, 1656.27]
+    - to: [4497.5, 110.73, 1654.82]
+    - to: [4496.47, 111.2, 1654.34]
+    - to: [4457.81, 107.55, 1563.33]
+    - to: [4456.9, 107.0, 1563.25]
+    - to: [4452.34, 109.3, 1547.8]
+    - to: [4453.87, 112.35, 1539.65]
+    - to: [4455.64, 112.57, 1538.95]
+- _Korok::N25:
+    movements:
+    - to: [4392.02, 170.93, 1459.25]
+    - to: [4438.91, 141.72, 1432.92]
+- _Warp::Shrine::TahnoOah
+- Begin Free Naydra:
+    coord: [3945.4375, 1343.3125]
+- Shoot eye:
+    coord: [3859.5, 1318.3125]
+- _Korok::N31
+- _Korok::N39
+- Shoot eye:
+    coord: [3740.1875, 1686.875]
+- _Korok::N23
+- Shoot eye:
+    coord: [3461.25, 1387.9375]
+- Get Naydra scale:
+    movements:
+    - to: [3937.25, 1340]
+      warp: True
+- _Shrine::JitanSami:
+    comment: "\u30B8\u30BF\u30FC\u30FB\u30B5\u30DF\u306E\u7960"
+- _Material<Stamina Vessel, 1>:
+    coord: [3910.78, 574.69, 1328.3]

@@ -1,0 +1,31 @@
+- _Korok::E45
+- _Shrine::TahMuhl:
+    comment: "\u30BF\u30FB\u30E0\u30FC\u30EB\u306E\u7960"
+    notes: Ruby
+- .gale() from this location toward E44:
+    gale: 1
+    icon: npc-rito
+    coord: [2398.125, -907.25]
+- _Korok::E44
+- _Shrine::MoaKeet:
+    comment: "\u30E2\u30A2\u30FB\u30AD\u30B7\u30C8\u306E\u7960"
+    notes: Ruby
+- "_Npc::SheikaMale<Mayro/\u30B5\u30F3\u30D5>":
+    comment: "A Landscape of a Stable/\u99AC\u5BBF\u306E\u98A8\u666F\u753B"
+    coord: [2620.4, 253.87, -1144.95]
+- _Korok::E40
+- _Korok::E38
+- _Discover<Maw of Death Mountain>:
+    comment: "\u30C7\u30B9\u30DE\u30A6\u30F3\u30C6\u30F3\u306E\u767B\u5C71\u53E3"
+    coord: [2403, -1319.9375]
+- _Korok::E42
+- _Korok::E41
+- _Korok::E43
+- Rock for E37:
+    coord: [2273.88, 225.86, -1242.56]
+- _Korok::E37
+- .gale() from this location to E36:
+    gale: 1
+    icon: npc-rito
+    coord: [2093.1875, -1226]
+- _Korok::E36

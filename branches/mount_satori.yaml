@@ -1,0 +1,88 @@
+- _Korok::R57
+- _Korok::R56
+- _Korok::R55
+- _Korok::R54
+- _Tod::Night:
+    comment: For next Stalnox
+    icon-map: null
+- _Warp::Shrine::MoggLatan
+- _Boss::Hinox::Stal:
+    comment: "\u30B9\u30BF\u30EB\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [-2216.8125, 583.9375]
+- .gale() from race start:
+    gale: 1
+    icon: npc-rito
+    coord: [-2187.6, 373.68, 573.36]
+- _Korok::R62
+- _Korok::R53
+- _Korok::R52
+- "_Chest::Special<Ancient Bridle/\u53E4\u4EE3\u306E\u624B\u7DB1>":
+    comment: "EX Ancient Horse Rumors/\u53E4\u4EE3\u306E\u99AC\u5177"
+    coord: [-2295.86, 455.02, 343.47]
+- _Korok::R61
+- _Korok::R68
+- _Korok::R69:
+    movements:
+    - to: [-2053.49, 258.47, 636.41]
+- _Korok::R78
+- _Korok::R77
+- _Korok::R76
+- _Korok::R75
+- _Warp::Shrine::MoggLatan
+- _Material<Endura Carrot, 4>:
+    comment: "\u30AC\u30C3\u30C4\u30CB\u30F3\u30B8\u30F3"
+    movements:
+    - to: [-2307.73, 416.78, 532.73]
+    - to: [-2307.94, 416.75, 526.67]
+    - to: [-2313.46, 416.73, 525.57]
+    - to: [-2317.73, 416.74, 532.89]
+- _Korok::R70
+- _Korok::R73:
+    movements:
+    - to: [-2351.32, 311.12, 741.86]
+    - to: [-2351.15, 263.4, 846.18]
+- _Material<Courser Bee Honey, 3>:
+    movements:
+    - to: [-2469.11, 319.03, 746.31]
+    - to: [-2469.86, 320.38, 736.31]
+    - to: [-2514.73, 311.47, 713.41]
+- _Material<Fleet-Lotus Seeds>:
+    coord: [-2559.81, 306.99, 652.89]
+- _Korok::R67
+- _Material<Endura Carrot>:
+    movements:
+    - to: [-2490.08, 306.72, 624.37]
+    - to: [-2482.24, 307.58, 620.67]
+    - to: [-2476.06, 308.37, 622.18]
+- _Korok::R66
+- _Material<Courser Bee Honey, 1>:
+    movements:
+    - to: [-2443.92, 309.15, 574.21]
+- _Korok::R65
+- _Material<Courser Bee Honey, 1>:
+    movements:
+    - to: [-2537.2, 311.5, 529.9]
+- _Korok::R64
+- Rock for R51:
+    coord: [-2429.47, 316.86, 355.33]
+- _Korok::R51
+- _Korok::R63
+- _Korok::R50
+- _Boss::Talus::Rare:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u5E0C\u5C11\uFF09"
+    coord: [-3137.625, 73.25]
+- .fury():
+    fury: 3
+    time-override: 1000
+- _Korok::R46
+- _Korok::R36
+- _Korok::R34:
+    notes: Shoot the acron from the starting block fro R35
+    movements:
+    - to: [-3822.16, 155.84, -170.91]
+    - to: [-3861.73, 101.01, -147.16]
+- _Korok::R35
+- _Korok::R32
+- Rock for R33:
+    coord: [-4029.04, 144.12, -250.53]
+- _Korok::R33

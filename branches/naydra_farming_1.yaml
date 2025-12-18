@@ -1,0 +1,120 @@
+- Line Color - Blue
+- Naydra farming:
+    color: rgb(0, 176, 240)
+    icon: location
+    coord: [3968.6875, 1295.0625]
+- Move a bit northeast to the location indicated. Set time to morning while looking at the mountain top. Go quickly to N19.:
+    banner: true
+- Rock for N19:
+    coord: [4144.45, 422.44, 1151.24]
+- _Korok::N19
+- ? While doing N19, Naydra should be audible coming up the side of mountain. Move
+    to the location indicated, then stand at the edge and wait. Hopefully the horn
+    lands in the area aroud N19.
+  : banner: true
+- Stand here for Naydra:
+    icon: location
+    coord: [4137.875, 1080.625]
+- _Material<Shard of Naydra's Horn>:
+    comment: "\u30CD\u30EB\u30C9\u30E9\u306E\u89D2\u306E\u304B\u3051\u3089"
+    icon-map: null
+- Naydra farming:
+    icon: location
+    coord: [4037.75, 902]
+- ? Move down the side of the mountain and set a fire to morning. Naydra should be
+    coming from the west over Lanayru Bay. Continue gliding NW toward N12, and look
+    west down Lanayru Bay. Naydra should spawn. Shoot the claw when she gets near
+    the N12 area. If the claw flies off in a bad location, get N12 first then chase
+    the claw.
+  : banner: true
+- Rock for N12:
+    coord: [3927.17, 108.51, 678.35]
+- _Korok::N12
+- _Material<Hearty Blueshell Snail>:
+    comment: "\u30DE\u30C3\u30AF\u30B9\u30B5\u30B6\u30A8"
+    notes: For quest
+    coord: [3943.75, 105.91, 684.34]
+- _Material<Naydra's Claw>:
+    comment: "\u30CD\u30EB\u30C9\u30E9\u306E\u722A"
+    icon-map: null
+- _Material<Ore Deposit>:
+    coord: [3968.12, 110.34, 709.28]
+- _Warp::Shrine::JitanSami
+- _Korok::N24
+- _Korok::N18
+- _Korok::N17
+- _Material<Ore Deposit>:
+    coord: [3114.57, 266.72, 1166.43]
+- _Memory::LanayruRoad:
+    comment: "\u5927\u5384\u707D \u5FA9\u6D3B"
+- _Snap::Quest<Lynel>:
+    coord: [3260.875, 1211.9375]
+- _Boss::Hinox::Red:
+    comment: "\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [3251.0625, 1331.5625]
+- _Material<Ore Deposit>:
+    coord: [3263.53, 271.22, 1348.3]
+- _Korok::N22
+- _Korok::N29:
+    notes: From the west side of the pond, make a cryo block on the edge of the lilly
+      pad. Glide over.
+    movements:
+    - to: [3132.625, 1467.25]
+    - to: [3171.94, 293.85, 1490.94]
+- _Material<Ore Deposit>:
+    coord: [3226.02, 294.4, 1506.32]
+- _Korok::N30
+- _Korok::N37:
+    comment: Drown
+    notes: Run around in a circle until stam is at 1 ring left, then drown fall into
+      the lilly pad below.
+    movements:
+    - to: [3157.06, 1566.5]
+    - to: [3178.81, 177.0, 1607.3]
+- _Korok::N21
+- _Korok::N15:
+    comment: Drown
+    movements:
+    - to: [2607.25, 1133]
+    - to: [2636.17, 205.28, 1109.0]
+- _Korok::N16
+- _Shrine::DowNaeh:
+    comment: "\u30C0\u30A6\u30FB\u30CA\u30A8\u306E\u7960"
+    notes: Opal, Amber
+- Rock for N20:
+    coord: [2573.66, 346.24, 1259.0]
+- _Korok::N20
+- _Boss::Hinox::Red:
+    comment: "\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [2414.4375, 1177.75]
+- _Korok::N11:
+    movements:
+    - to: [2496.04, 302.86, 892.13]
+    - to: [2409.55, 269.61, 849.32]
+- _Korok::N13
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    movements:
+    - to: [2990.6875, 787.875]
+- .fury():
+    fury: 3
+- _Korok::N06
+- _Korok::Z42:
+    notes: Shoot the ballon down above the river.
+    movements:
+    - to: [2769.875, 436.125]
+    - to: [2769.6875, 349.125]
+- _Korok::N05
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "The Crowned Beast/\u4E8C\u672C\u69CD\u306E\u7363"
+    coord: [2589.5625, 444.5625]
+- _Korok::N04
+- _Korok::N02
+- _Shrine::MezzaLo:
+    comment: "\u30DF\u30FC\u30BA\u30FC\u30FB\u30E8\u306E\u7960"
+- _Korok::N03
+- .gale() and glide across:
+    gale: 1
+    notes: Standing on the tree after getting the korok, gale and then glide across
+      to Zora Stone Monument 5.
+    time-override: 1000

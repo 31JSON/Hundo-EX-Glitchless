@@ -1,0 +1,44 @@
+- Line Color - Green
+- _Chest::Special<Zora Helm>:
+    comment: "\u30BE\u30FC\u30E9\u306E\u515C"
+    movements:
+    - to: [3466.625, -888.875]
+- _Korok::Z05
+- _Material<Lizalfos Horn>:
+    notes: Green lizalfos with bomb arrows at the base of the hill where Z04 is.
+    coord: [3269.7, 535.25, -988.6]
+- _Korok::Z04
+- _Korok::A46
+- Kill Skywatcher for parts around A43:
+    icon-map: null
+- _Korok::A43:
+    movements:
+    - to: [3393.25, -1294.875]
+    - to: [3383.375, -1311.0625]
+    - to: [3387.0625, -1336.875]
+    - to: [3392.375, -1353.3125]
+    - to: [3386.9375, -1377.6875]
+    - to: [3378, -1382]
+    - to: [3372.1875, -1386.5]
+    - to: [3357.125, -1395.25]
+    - to: [3347.4375, -1409]
+    - to: [3329.5625, -1412.25]
+    - to: [3317, -1416.125]
+    - to: [3311.75, -1418.75]
+    - to: [3296.23, 459.86, -1421.09]
+- .gale() from A43 to A42:
+    gale: 1
+    time-override: 1000
+- _Korok::A42
+- .gale() from top of building to tower:
+    gale: 1
+    time-override: 1000
+    coord: [3297.125, -1487]
+- _Tower::Akkala:
+    comment: "\u30A2\u30C3\u30AB\u30EC\u306E\u5854"
+- _Korok::A41
+- _Korok::A40
+- _Korok::A39
+- _Snap::Quest<Guardian Skywatcher>:
+    movements:
+    - to: [3333.4, 476.96, -1602.08]

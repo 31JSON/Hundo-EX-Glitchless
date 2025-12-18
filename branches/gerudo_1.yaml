@@ -1,0 +1,104 @@
+- Line Color - Red
+- _Warp::Shrine::MoggLatan
+- _Korok::R60
+- _Material<Rushroom>:
+    coord: [-2297.0, 462.74, 447.0]
+- _Material<Endura Carrot, 4>:
+    comment: "\u30AC\u30C3\u30C4\u30CB\u30F3\u30B8\u30F3"
+    movements:
+    - to: [-2307.73, 416.78, 532.73]
+    - to: [-2307.94, 416.75, 526.67]
+    - to: [-2313.46, 416.73, 525.57]
+    - to: [-2317.73, 416.74, 532.89]
+- _Material<Rushroom>:
+    movements:
+    - to: [-2448.32, 246.35, 1061.91]
+    - to: [-2458.38, 269.46, 1082.27]
+- _Korok::G14
+- Rock for G19:
+    coord: [-2513.15, 480.37, 1339.91]
+- _Korok::G19
+- _Material<Rushroom>:
+    coord: [-2718.82, 443.47, 1176.82]
+- _Material<Ore Deposits>:
+    coord: [-2747.1, 453.52, 1127.62]
+- _Korok::G13
+- Rock for G10:
+    coord: [-3084.57, 452.73, 914.21]
+- _Korok::G10
+- _Korok::G12
+- _Chest<Opal>:
+    coord: [-3196.64, 583.68, 1186.63]
+- _Equipment::Weapon<Ice Rod>:
+    comment: "\u30A2\u30A4\u30B9\u30ED\u30C3\u30C9"
+    notes: For quest
+    coord: [-3098.6, 587.1, 1220.2]
+- _Material<Ore Deposits>:
+    coord: [-3060.0, 576.11, 1216.91]
+- _Shrine::KuhTakkar:
+    comment: "\u30AF\u30A4\u30FB\u30BF\u30C3\u30AB\u306E\u7960"
+    notes: .link([Video]https://youtu.be/TQ29cAYp2GE)
+- _Chest<Fire Arrow x5>:
+    coord: [-3121.93, 550.32, 1325.76]
+- _Material<Lizalfos Parts>:
+    icon-map: null
+    notes: Kill Lizalfos for parts
+- _Equipment::Bow<Duplex Bow x3>:
+    comment: "\u4E8C\u9023\u5F13"
+    coord: [-3747.6875, 1410.375]
+- _Material<Mighty Bananas, 3>:
+    comment: "\u30C4\u30EB\u30AE\u30D0\u30CA\u30CA"
+    icon-map: null
+- _Material<Ore Deposits>:
+    coord: [-3907.47, 394.82, 1634.36]
+- _Shrine::ShoDantu:
+    comment: "\u30B7\u30FB\u30B8\u30C8\u306E\u7960"
+    notes: Silver Rupee - .link([Video]https://youtu.be/TMGOBKsn_5s)
+- _Equipment::Shield<Radiant Shield>:
+    comment: "\u592A\u967D\u306E\u76FE"
+    coord: [-3785.32, 467.71, 1673.81]
+- _Chest<Opal>:
+    coord: [-3793.34, 467.85, 1675.63]
+- _Chest<Gold Rupee>:
+    coord: [-3793.43, 468.18, 1679.64]
+- _Chest<Bomb Arrow x5>:
+    coord: [-3792.52, 468.15, 1681.46]
+- _Tower::Gerudo:
+    comment: "\u30B2\u30EB\u30C9\u306E\u5854"
+- .gale():
+    gale: 1
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "Sign of the Shadow/\u5F71\u304C\u793A\u3059\u5148\u306B"
+    coord: [-3655.84, 471.9, 1837.15]
+- _Korok::W29
+- .gale():
+    gale: 1
+- _Shrine::DaqoChisay:
+    comment: "\u30B0\u30B3\u30FB\u30C1\u30BB\u306E\u7960"
+    notes: .link([Video]https://youtu.be/6-7GOIPayRQ)
+- "_Npc::SheikaMale<Benja/\u30D9\u30F3\u30B8\u30E3\u30DF\u30F3>":
+    comment: "Forbidden City Entry/\u6F5C\u5165\uFF01\u7537\u5B50\u7981\u5236\u306E\
+      \u8857"
+    coord: [-3804.5, 2818.375]
+- .gale():
+    gale: 1
+- "_Npc::SheikaMale<Vilia/\u30F4\u30A3\u30F4\u30A3\u30A2\u30F3>":
+    comment: "Gerudo Set/\u6DD1\u5973\u30BB\u30C3\u30C8"
+    coord: [-3259.0625, 2611.4375]
+- _Warp::Shrine::DaqoChisay
+- _Chest<Silver Rupee>:
+    coord: [-3779.49, 152.55, 2893.32]
+- _Shop<Buy Arrows>:
+    movements:
+    - to: [-3857.25, 2913.6875]
+- "_Npc::Gerudo<Riju/\u30EB\u30FC\u30B8\u30E5>":
+    comment: "Vah Naboris Main Quest/\u96F7\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30CA\
+      \u30DC\u30EA\u30B9"
+    coord: [-3891.37, 157.48, 2968.35]
+- "_Npc::Gerudo<Teake/\u30C1\u30FC\u30AF>":
+    comment: "Vah Naboris Main Quest/\u96F7\u306E\u795E\u7363 \u30F4\u30A1\u30FB\u30CA\
+      \u30DC\u30EA\u30B9"
+    coord: [-3922.65, 151.32, 2940.86]
+- _Korok::W47
+- _Korok::W36
+- _Korok::W28

@@ -1,0 +1,159 @@
+- Line Color - Red
+- _Korok::C48:
+    color: rgb(255, 80, 80)
+- _Discover<Hyrule Garrison Ruins>:
+    comment: "\u30CF\u30A4\u30E9\u30EB\u8ECD\u99D0\u5C6F\u5730\u8DE1"
+    coord: [-588.5, 573.9375]
+- "_Chest::Special<Phantom Greaves/\u30D5\u30A1\u30F3\u30C8\u30E0\u306E\u3059\u306D\u3042\u3066>":
+    comment: "EX Treasure Phantasma/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u5922\
+      \u5E7B\u306E\u93A7"
+    coord: [-507.27, 130.0, 609.95]
+- _Korok::C54
+- _Korok::C49
+- _Korok::C55
+- _Korok::C64
+- 3 Rocks for C70:
+    movements:
+    - to: [-118.94, 152.16, 1053.15]
+    - to: [-100.42, 152.55, 1059.71]
+    - to: [-91.45, 154.06, 1044.37]
+- _Korok::C70
+- _Korok::C71
+- _Korok::C65
+- Do Royal A Royal Recipe:
+    banner: true
+- _Warp::Shrine::BoshKala
+- _Korok::D27
+- .gale() from cryo block toward D34:
+    gale: 1
+- _Korok::D34
+- Cube for D33:
+    coord: [178.3, 115.97, 1720.79]
+- _Korok::D33:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/D33.png)
+- _Memory::WestNecluda:
+    comment: "\u96E8\u5BBF\u308A"
+- _Korok::D45
+- _Korok::L04
+- Cube for L03:
+    coord: [96.4, 100.78, 2140.32]
+- _Korok::L03:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/L03.png)
+- .gale() up from a cryo block toward L11:
+    gale: 1
+- _Korok::L11
+- _Korok::L05
+- _Korok::L06
+- _Chest<Arrow x10>:
+    coord: [430.4, 115.04, 2020.01]
+- _Korok::L02
+- _Korok::L01
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [359.375, 1903.9375]
+- .fury():
+    fury: 1
+    time-override: 1000
+- _Korok::D35
+- _Korok::D36
+- _Korok::D46
+- Boulder for D37:
+    coord: [655.19, 117.62, 1771.44]
+- _Korok::D37
+- _Korok::D38
+- _Korok::D47
+- _Korok::D39
+- .gale() up to tower from base:
+    gale: 1
+    coord: [1022.9375, 1710.6875]
+- _Tower::DuelingPeaks:
+    comment: "\u53CC\u5B50\u5C71\u306E\u5854"
+- _Korok::D16
+- _Korok::D25:
+    notes: Use MC0 to jump the fences
+- _Korok::D29
+- .gale() toward D28:
+    gale: 1
+- _Korok::D28
+- _Korok::D23
+- Boulder for D24:
+    coord: [605.83, 155.04, 1468.41]
+- _Korok::D24
+- _Boss::Talus::Stone:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF"
+    coord: [704.9375, 1472]
+- .fury():
+    fury: 1
+- _Korok::D15
+- _Korok::D13
+- _Korok::D01
+- .gale() over to Hila Rao:
+    gale: 1
+- _Shrine::HilaRao:
+    comment: "\u30D2\u30ED\u30FB\u30D2\u30E9\u306E\u7960"
+    notes: Opal, Ice Arrow x5 - .link([Video]https://youtu.be/CIVdZcl1djA)
+- "_Npc::SheikaFemale<Magda/\u30AA\u30B3\u30D0>":
+    comment: "Watch Out for the Flowers/\u82B1\u3092\u8E0F\u307E\u306A\u3044\u3067"
+    coord: [816.8, 115.22, 836.77]
+- _Warp::Shrine::SheeVaneer
+- _Korok::D48
+- _Korok::D50
+- _Korok::L07:
+    comment: 5 hits with 2-handed weapon
+    movements:
+    - to: [1045.82, 245.85, 2179.74]
+    - to: [908.29, 247.17, 2193.53]
+- _Korok::L19
+- Get stone cube for L20:
+    coord: [928.28, 145.56, 2410.12]
+- _Discover<Spring of Courage>:
+    comment: "\u52C7\u6C17\u306E\u6CC9"
+    notes: Get location while carrying the korok cube to the other side
+    coord: [876.6875, 2371.125]
+- _Korok::L20:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/L20.png)
+- "_Chest::Special<Ravio's Hood/\u30E9\u30F4\u30A3\u30AA\u306E\u982D\u5DFE>":
+    comment: "EX Treasure Merchant Hood/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u65C5\
+      \u5546\u306E\u982D\u5DFE"
+    coord: [830.43, 134.03, 2438.38]
+- _Shrine::ShaeKatha:
+    comment: "\u30B7\u30FB\u30AF\u30C1\u30E7\u30D5\u306E\u7960"
+- _Material<Heart Vessel, 2>:
+    coord: [874.84, 125.34, 2359.0]
+- _Korok::L13
+- Cube for L12:
+    coord: [627.44, 167.05, 2298.48]
+- _Korok::L12
+- _Korok::L17
+- _Korok::L18
+- _Korok::L16:
+    movements:
+    - to: [341.48, 130.52, 2378.26]
+    - to: [280.43, 97.65, 2405.01]
+- _Korok::L28
+- .gale() over to L29:
+    gale: 1
+- _Korok::L29
+- _Korok::L34
+- _Korok::L35
+- _Korok::L45
+- _Korok::L54
+- _Discover<Zonai Ruins>:
+    comment: "\u30BE\u30CA\u30A6\u907A\u8DE1\u7FA4"
+    coord: [842.375, 2965]
+- _Korok::L56
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "The Serpent's Jaw/\u5927\u86C7 \u55B0\u3089\u3044\u3057\u9F8D"
+    coord: [815.25, 117.95, 3063.44]
+- _Korok::L57
+- _Korok::F23
+- "_Chest::Special<Phantom Ganon Armor/\u30D5\u30A1\u30F3\u30C8\u30E0\u30AC\u30CE\u30F3\u93A7>":
+    comment: "EX Treasure Dark Armor/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u60AA\
+      \u970A\u306E\u93A7"
+    coord: [1026.21, 119.18, 3239.89]
+- _Discover<Sarjon Bridge>:
+    comment: "\u30B5\u30FC\u30B8\u30E7\u30F3\u6A4B"
+    coord: [1025.75, 3236.375]
+- _Korok::F24
+- _Korok::L58
+- _Korok::L46

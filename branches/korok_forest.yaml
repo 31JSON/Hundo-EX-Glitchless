@@ -1,0 +1,227 @@
+- Line color - Cyan
+- _Warp::Tower::Eldin
+- Rock for E35:
+    coord: [1381.08, 323.61, -1290.17]
+- _Korok::E35
+- _Korok::K32
+- _Discover<Military Training Camp>:
+    comment: "\u30CF\u30A4\u30E9\u30EB\u8ECD\u6F14\u7FD2\u5834\u8DE1"
+    coord: [824.0625, -1474.6875]
+- _Chest<Star Fragment>:
+    comment: "\u661F\u306E\u304B\u3051\u3089"
+    coord: [793.8125, -1513.9375]
+- _Korok::K31
+- _Tower::Woodland:
+    comment: "\u68EE\u6797\u306E\u5854"
+- _Discover<Lost Woods>:
+    comment: "\u8FF7\u3044\u306E\u68EE"
+    movements:
+    - to: [933.25, -1868.5]
+    - to: [873.5, -1896.75]
+- "_Chest::Special<Korok Mask/\u30B3\u30ED\u30B0\u306E\u304A\u9762>":
+    comment: "EX Strange Mask Rumors/Ex \u5947\u5999\u306A\u304A\u9762\u306E\u30A6\
+      \u30EF\u30B5"
+    movements:
+    - to: [865.13, 280.85, -1896.29]
+    - to: [867.74, 281.22, -1926.07]
+    - to: [870.02, 280.83, -1952.17]
+    - to: [838.87, 280.86, -1954.9]
+    - to: [810.25, 281.07, -1957.4]
+    - to: [807.81, 281.13, -1929.51]
+    - to: [739.1, 281.77, -1931.6]
+    - to: [729.375, -1920.125]
+    - to: [721.69, 280.22, -1847.74]
+- _Discover<Korok Forest>:
+    comment: "\u30B3\u30ED\u30B0\u306E\u68EE"
+    movements:
+    - to: [668.16, 282.86, -1861.89]
+    - to: [639.26, 280.15, -1896.07]
+    - to: [562.625, -1938.8125]
+    - to: [528.625, -1949.9375]
+    - to: [475.9375, -1979.375]
+    - to: [464.625, -2002.4375]
+    - to: [452.9375, -2029.3125]
+    - to: [436.875, -2062.5]
+- _Equipment::Weapon<Master Sword>:
+    comment: "\u30DE\u30B9\u30BF\u30FC\u30BD\u30FC\u30C9"
+    notes: Start the quest. Obtain later.
+    coord: [431.66, 250.53, -2111.0]
+- _Shrine::KeoRuug:
+    comment: "\u30AD\u30E8\u30FB\u30A6\u30FC\u306E\u7960"
+    notes: From L to R - 5 3 1 2
+- "_Npc<Zooki/\u30A2\u30BA\u30AD>":
+    comment: "Trial of Second Sight/\u64CD\u308A\u306E\u529B\u306E\u3057\u308C\u3093"
+    coord: [251.25, -1979.875]
+- Follow the metal balls:
+    notes: At the 5th metal ball, turn right and head for the rusty shield.
+    movements:
+    - to: [226.37, 285.5, -1956.36]
+    - to: [228.93, 287.05, -1910.82]
+    - to: [192.4, 284.7, -1874.68]
+    - to: [206.81, 288.72, -1837.96]
+    - to: [205.44, 283.3, -1797.22]
+    - to: [176.04, 283.76, -1816.64]
+    - to: [133.93, 283.8, -1828.42]
+- _Equipment::Shield<Rusty Shield>:
+    movements:
+    - to: [100.06, 286.08, -1827.37]
+- Put shield in tree:
+    notes: From the pedestal, magnesis the shield into the tree. If you have space
+      in inventory, pick up the shield.
+    movements:
+    - to: [85.5, 280.6, -1841.1]
+- Get chest from tree and put it in the tree on the island:
+    movements:
+    - to: [72.3, 282.4, -1861.1]
+    - to: [63.9, 282.72, -1907.8]
+- _Shrine::KuhnSidajj:
+    comment: "\u30AF\u30F3\u30FB\u30B7\u30C0\u30B8\u306E\u7960"
+    notes: Giant Ancient Core (Optional)
+- _Warp::Shrine::KeoRuug
+- "_Npc<Tasho/\u30BF\u30C3\u30C1\u30AA>":
+    comment: "The Lost Pilgrimage/\u306F\u3058\u3081\u3066\u306E \u3057\u308C\u3093"
+    notes: Start the quest and set Oaki on his way. It takes him 5m 20s to get to
+      the shrine. Do the things below while waiting.
+    coord: [256, -2229.9375]
+- "_Npc<Walton/\u30CA\u30E2\u30DF\u30F3>":
+    comment: "Riddles of Hyrule/\u30CF\u30A4\u30E9\u30EB\u306E\u306A\u305E\u306A\u305E\
+      \u3057\u308C\u3093"
+    notes: Apple, Sunshroom, Pumpkin, Voltfin, Hoof
+    coord: [417.4375, -2180.375]
+- _Npc<Hestu>:
+    comment: "\u30DC\u30C3\u30AF\u30EA\u30F3"
+    notes: Get last bow slot, as many weapon slots as possible, then as many shield
+      slots
+    coord: [465.9375, -2112.375]
+- _Equipment::Weapon<Korok Leaf>:
+    comment: "\u30B3\u30ED\u30B0\u306E\u3046\u3061\u308F"
+    coord: [473.625, -2125.3125]
+- "_Npc<Kula/\u30AB\u30E9\u30C3\u30BB>":
+    comment: "A Freezing Rod/\u3053\u304A\u308A\u306E\u6756 \u3057\u308C\u3093"
+    coord: [419.3125, -2134.8125]
+- "_Npc<Peeks/\u30D4\u30FC\u30AB\u30F3>":
+    comment: "The Legendary Rabit Trial/\u3074\u304B\u3074\u304B\u306E\u30EB\u30DF\
+      \u30FC \u3057\u308C\u3093"
+    coord: [440.75, -2133.0625]
+- Return to the start of Oaki's path and follow the blue nightshade until they stop:
+    movements:
+    - to: [257.875, -2250.125]
+    - to: [237.8125, -2275.0625]
+    - to: [199.3125, -2263.6875]
+    - to: [173.8125, -2272.6875]
+- At the end of the blue nightshade path, advance a bit in to the open space to the
+  right.:
+    coord: [166.75, -2292.5625]
+- To the right will be a tree with a honey comb on it. Proceed in that direction.:
+    coord: [178.41, 287.95, -2310.8]
+- Continue northwest into the clearing, and pass through the hollow log.:
+    movements:
+    - to: [145.875, -2356.4375]
+    - to: [122.25, -2339.1875]
+- On the other side of the hollow log, continue northwest to next path of blue nightshade.
+  Kill the coyote on the way.:
+    movements:
+    - to: [82.5, -2400.75]
+    - to: [73.625, -2416.5]
+    - to: [62.625, -2433.875]
+- Continue to Oaki:
+    coord: [-3.875, -2446.125]
+- _Shrine::DaagChokah:
+    comment: "\u30C0\u30FB\u30C1\u30E7\u30AB\u30D2\u306E\u7960"
+    notes: Ancient Core (Optional)
+- _Warp::Shrine::KeoRuug
+- "_Npc<Damia/\u30C0\u30DF\u30C0\u30DF>":
+    comment: "The Test of Wood/\u71C3\u3048\u305A\u306E\u3057\u308C\u3093"
+    coord: [564.6875, -2160.75]
+- Run through the test of wood:
+    movements:
+    - to: [565.4, 265.73, -2172.64]
+    - to: [635.25, -2272.375]
+    - to: [669.76, 280.2, -2261.67]
+- .gale() at the electric chu:
+    gale: 1
+    time-override: 1000
+    coord: [766.0, 280.19, -2290.0]
+- _Shrine::MaagHalan:
+    comment: "\u30DE\u30FC\u30E0\u30FB\u30E9\u30CE\u306E\u7960"
+    notes: Giant Ancienct Core (Optional)
+- _Warp::Shrine::KeoRuug
+- "_Npc<Chio/\u30B9\u30C0\u30B8\u30A3>":
+    comment: "The Korok Trials/\u30B3\u30ED\u30B0 \u3057\u308C\u3093"
+    coord: [431.375, -2139.75]
+- _Material<Heart Vessel, 1>:
+    coord: [415.74, 258.73, -2179.85]
+- _Warp::Shrine::MyahmAgana
+- "_Npc<Horned Statue/\u60AA\u9B54\u50CF>":
+    comment: "The Statue's Bargain/\u5668\u306E\u64CD\u8005"
+    coord: [3285.375, 2197.5]
+- _Material<Stamina Vessel, -4>:
+    icon-map: null
+- _Material<Heart Vessel, 4>:
+    icon-map: null
+- _Warp::Shrine::KeoRuug
+- _Equipment::Weapon<Master Sword>:
+    comment: "\u30DE\u30B9\u30BF\u30FC\u30BD\u30FC\u30C9"
+    counter: .split(SPLIT)
+    coord: [431.5, -2111.0625]
+- Save and Reload:
+    notes: This is required to get the Trial of the Sword side quest to become available.
+- _Npc<Beginning Trials>:
+    comment: EX Trial of the Sword
+    notes: .link([Video]https://youtu.be/sBBQOTWx-Lc) - Eat a hearty food and endura
+      food. Save. Eat attack up food and begin the trial.
+    counter: .split(SPLIT)
+    coord: [431.66, 250.53, -2111.0]
+- ? The following is a list of chests in the Beginning Trials. Pick up what you think
+    you will need. It is suggested to set your Sheika Sensor to treasure chest. It
+    is also advised to break all wooden and metal crates as well as barrels.
+  : banner: true
+- B3 Bommerang, Fire Arrow x5
+- B7 Eightfold Blade, Serpentine Spear, Shield of the Mind's Eye
+- B8 Arrow x10
+- B9 Arrow x10
+- B11 Fire Arrow x10
+- B11 Shock Arrow x10
+- _Npc<Middle Trials>:
+    comment: EX Trial of the Sword
+    notes: .link([Video]https://youtu.be/1zcMJA35kN4) - Eat a hearty food and endura
+      food. Save. Eat attack up food and begin the trial.
+    counter: .split(SPLIT)
+    coord: [431.66, 250.53, -2111.0]
+- ? The following is a list of chests in the Middle Trials. Pick up what you think
+    you will need. It is suggested to set your Sheika Sensor to treasure chest. It
+    is also advised to break all wooden and metal crates as well as barrels.
+  : banner: true
+- M1 Soldier's Bow, Soldier's Broadsword
+- M2 Feathered Edge
+- M3 Feathered Spear
+- M4 Knight's Shield, Soldier's Bow
+- M5 Falcon Bow, Hylian Trousers, Knight's Broadsword
+- M7 Forest Dweller's Spear
+- M11 Forest Dweller's Spear, Forest Dweller's Sword, Hylian Tunic
+- M12 Arrow x10
+- M13 Duplex Bow
+- M14 Eightfold Longblade
+- _Npc<Final Trials>:
+    comment: EX Trial of the Sword
+    notes: .link([Video]https://youtu.be/d4Lmyjr-5R4) - Eat a hearty food and endura
+      food. Save. Eat attack up food and begin the trial.
+    counter: .split(SPLIT)
+    coord: [431.66, 250.53, -2111.0]
+- ? The following is a list of chests in the Final Trials. Pick up what you think
+    you will need. It is suggested to set your Sheika Sensor to treasure chest. It
+    is also advised to break all wooden and metal crates as well as barrels.
+  : banner: true
+- F3 Knight's Bow, Knight's Shield, Royal Guard's Sword
+- F5 Ice Arrow x5
+- F6 Ancient Arrow x3, Flamebreaker Boots, Knight's Bow
+- F10 Ancient Arrow x3
+- F12 Hylian Tunic, Royal Guard's Shield, Stone Smasher
+- F13 Bomb Arrow x5
+- F14 Ancient Arrow x3
+- F17 Bomb Arrow x5
+- F18 Royal Bow, Royal Broadsword, Royal Shield
+- F19 Knight's Shield
+- F21 Bomb Arrow x5
+- F22 Royal Bow, Royal Shield
+- F23 Bomb Arrow x5

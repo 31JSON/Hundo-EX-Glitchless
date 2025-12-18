@@ -1,0 +1,24 @@
+- Line Color - Royal Blue
+- _Warp::SOR:
+    color: rgb(0, 0, 255)
+    notes: .link([Video]https://youtu.be/CdJVnbwBhKc)
+- _Korok::P09
+- _Npc::SheikaFemale<Monk Maz Koshia>:
+    comment: EX The Champions' Ballad
+    coord: [-1124.96, 238.47, 1903.14]
+- _Warp::Shrine::KehNamut
+- _Shrine::EtsuKorima:
+    comment: "\u30A8\u30C4\u30A3\u30FB\u30B3\u30EA\u30DE\u306E\u7960"
+    notes: Gold Rupee
+- _Warp::Shrine::OwaDaim
+- _Shrine::RuvoKorbah:
+    comment: "\u30EB\u30CD\u30FB\u30B3\u30EA\u30D0\u30FC\u306E\u7960"
+    notes: Bomb Arrow x10, Giant Ancient Core
+- _Chest<Arrow x10>:
+    coord: [-778.5, 196.25, 2125.0]
+- _Shrine::RohtaChigah:
+    comment: "\u30ED\u30D2\u30C3\u30BF\u30FB\u30C1\u30B0\u306E\u7960"
+- _Chest<Bomb Arrow x10>:
+    coord: [-973.0, 188.3, 1616.8]
+- _Shrine::YowakaIta:
+    comment: "\u30E8\u30FC\u30EF\u30AB\u30FB\u30A4\u30EB\u30BF\u306E\u7960"

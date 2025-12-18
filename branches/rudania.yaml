@@ -1,0 +1,55 @@
+- Line Color - Cyan
+- _Warp::Shrine::ShaeMosah:
+    color: rgb(102, 255, 254)
+- "_Npc::Goron<Bludo/\u30D6\u30EB\u30C9\u30FC>":
+    comment: "Divine Beast Vah Rudania/\u708E\u306E\u795E\u7363 \u30F4\u30A1\u30FB\
+      \u30EB\u30FC\u30C0\u30CB\u30A2"
+    coord: [1714.1875, -2446.8125]
+- _Korok::E16
+- _Korok::E17
+- .gale() up to shrine from the location indicated:
+    gale: 1
+    icon: npc-rito
+    coord: [1981.25, -2369.25]
+- _Shrine::DaqaKoh:
+    comment: "\u30C0\u30AB\u30FB\u30AB\u306E\u7960"
+    notes: Silver rupee - .link([Video]https://youtu.be/MOvKhd9TKsc)
+- "_Npc::Goron<Yunobo/\u30E6\u30F3\u574A>":
+    comment: "Divine Beast Vah Rudania/\u708E\u306E\u795E\u7363 \u30F4\u30A1\u30FB\
+      \u30EB\u30FC\u30C0\u30CB\u30A2"
+    coord: [2152.1875, -2283.875]
+- Enter Rudania:
+    icon: rudania-enter
+    notes: .link([Video]https://youtu.be/J87kNHTZ0JE); Stasis+, GEB x 2 (body) + OB
+      x 1 (any)
+    counter: .split(SPLIT)
+    coord: [2261.25, -2385.5]
+- .gale() inside Rudania:
+    gale: 1
+    time-override: 1000
+- _Material<Heart Vessel, 1>:
+    icon-map: null
+- Daruk's Protection:
+    comment: "\u82F1\u5091\u30C0\u30EB\u30B1\u30EB\u306E\u8B77\u308A"
+    icon: rudania-done
+    counter: .split(SPLIT)
+    movements:
+    - to: [1583.5625, -2426.6875]
+      warp: True
+- _Tod::Noon:
+    icon-map: null
+    notes: If between 8pm and 8am for Fugo and Ramella.
+- "_Npc::Goron<Fugo/\u30D5\u30FC\u30B4\u30FC>":
+    comment: "The Road to Respect/\u514D\u8A31\u7686\u4F1D\u3078\u306E\u9053"
+    coord: [1688.25, -2496.875]
+- "_Npc::Goron<Bladon/\u30D6\u30EC\u30FC\u30C9\u30F3>":
+    comment: "A Brother's Roast/\u5F1F\u306F\u3044\u305A\u3053\uFF1F"
+    notes: Start quest
+    coord: [1644.6875, -2465.6875]
+- "_Npc::Gerudo<Ramella/\u30E9\u30E1\u30E9>":
+    comment: "The Jewel Trade/\u5B9D\u77F3\u30A4\u30F3\u30DD\u30FC\u30BF\u30FC"
+    coord: [1674.875, -2430.4375]
+- "_Npc::Goron<Bludo/\u30D6\u30EB\u30C9\u30FC>":
+    comment: "Divine Beast Vah Rudania/\u708E\u306E\u795E\u7363 \u30F4\u30A1\u30FB\
+      \u30EB\u30FC\u30C0\u30CB\u30A2"
+    coord: [1714.1875, -2446.8125]

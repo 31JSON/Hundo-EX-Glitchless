@@ -1,0 +1,176 @@
+- Line Color - Green
+- _Warp::Tower::Woodland
+- Use up any remaining furies before going to castle
+- _Korok::K30:
+    color: rgb(146, 207, 80)
+- In castle, Gale+ recharges in 1 minute. You can use it freely, but I have put in my general routing.:
+    banner: true
+- _Chest::Special<Dinraal Scale>:
+    comment: "\u30AA\u30EB\u30C9\u30E9\u306E\u30A6\u30ED\u30B3"
+    coord: [-196.5625, -1218.4375]
+- _Chest<Fire Arrow x5>:
+    coord: [-248.5, 195.28, -1197.37]
+- .gale() from the indicated location toward X03:
+    gale: 1
+    icon: npc-rito
+    coord: [-247.5, -1198.25]
+- _Korok::X03
+- .gale() up to the next level:
+    gale: 1
+- "_Chest::Special<Royal Guard Cap/\u8FD1\u885B\u5175\u306E\u5E3D\u5B50>":
+    comment: "EX Royal Guard Rumors/Ex \u8FD1\u885B\u5175\u306E\u30A6\u30EF\u30B5"
+    coord: [-253.98, 336.07, -1080.48]
+- Climb up the ladders to the antechamber above the sanctum
+- .gale() up to the belfry for X06:
+    gale: 1
+- _Korok::X06
+- _Chest<Ancient Arrow x5>:
+    coord: [-259.5, 420.85, -1065.37]
+- _Korok::X05
+- _Korok::X10
+- _Korok::X07
+- _Discover<Princess Zelda's Study>:
+    comment: "\u30BC\u30EB\u30C0\u306E\u7814\u7A76\u5BA4"
+    coord: [-383.8125, -983.5625]
+- _Memory::HyruleCastle:
+    comment: "\u7236\u3068\u5A18"
+- _Korok::X09
+- _Discover<Princess Zelda's Room>:
+    comment: "\u30BC\u30EB\u30C0\u306E\u90E8\u5C4B"
+    coord: [-320, -996.125]
+- .gale() from bridge up toward the back of castle:
+    gale: 1
+- Save on bridge:
+    icon: link
+    coord: [-254.125, -1102.25]
+- Destroy Ganon:
+    comment: "\u30AC\u30CE\u30F3\u8A0E\u4F10"
+    icon-doc: ganon
+    notes: .link([Video]https://youtu.be/PG2zEqYcgTw) - Phase 1 OB x 1 (head, x 2
+      if body); Phase 2 Fury * 1 + OB x 1 (any)
+    counter: .split(SPLIT)
+- _Chest::Special<Naydra Scale>:
+    comment: "\u30CD\u30EB\u30C9\u30E9\u306E\u30A6\u30ED\u30B3"
+    coord: [-182.5625, -1169.4375]
+- _Korok::X02
+- _Korok::X11
+- _Boss::Talus::Rare:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u5E0C\u5C11\uFF09"
+    coord: [-136.8125, -956.125]
+- .fury() the talus:
+    fury: 3
+- _Chest::Special<Farosh Fang>:
+    comment: "\u30D5\u30ED\u30C9\u30E9\u306E\u7259\u306E\u304B\u3051\u3089"
+    coord: [-132.875, -950.4375]
+- Library:
+    comment: "\u56F3\u66F8\u5BA4"
+    icon: location
+    coord: [-157.8125, -1067.125]
+- _Discover<King's Study>:
+    comment: "\u738B\u306E\u66F8\u658E"
+    coord: [-172.1875, -1120.4375]
+- _Chest<Gold Rupee>:
+    coord: [-174.48, 170.45, -1114.4]
+- Enter Docks
+- _Shrine::SaasKosah:
+    comment: "\u30B5\u30B9\u30FB\u30B3\u30B5\u306E\u7960"
+    notes: .link([Video]https://youtu.be/b0ezOlYvmiw)
+- _Chest<Gold Rupee>:
+    coord: [-208.75, 104.69, -1165.51]
+- _Chest<Ancient Arrow>:
+    coord: [-216.22, 114.32, -1180.13]
+- _Chest<Star Fragment>:
+    comment: "\u661F\u306E\u304B\u3051\u3089"
+    notes: Optional if you already got the one at Woodland Tower
+    coord: [-223.9375, -1177.75]
+- _Korok::X01
+- _Korok::X04
+- Enter Lockup
+- _Boss::Hinox::Stal:
+    comment: "\u30B9\u30BF\u30EB\u30D2\u30CE\u30C3\u30AF\u30B9"
+    notes: OB Bomb eye
+    coord: [-491.375, -1009.6875]
+- _Equipment::Shield<Hylian Shield>:
+    comment: "\u30CF\u30A4\u30EA\u30A2\u306E\u76FE"
+    coord: [-501.5, -1011.4375]
+- _Korok::X13
+- .gale() after killing Moblin:
+    gale: 1
+- _Korok::X08
+- _Chest::Special<Dinraal Fang>:
+    comment: "\u30AA\u30EB\u30C9\u30E9\u306E\u7259\u306E\u304B\u3051\u3089"
+    coord: [-326.1875, -1002.1875]
+- _Chest<Ancient Arrow x3>:
+    coord: [-359.22, 205.98, -921.2]
+- _Korok::X19
+- _Chest<Ancient Arrow x3>:
+    coord: [-325.2, 181.06, -798.59]
+- _Chest::Special<Naydra Fang>:
+    comment: "\u30CD\u30EB\u30C9\u30E9\u306E\u7259\u306E\u304B\u3051\u3089"
+    coord: [-356, -810.3125]
+- "_Chest::Special<Royal Guard Boots/\u8FD1\u885B\u5175\u306E\u30D6\u30FC\u30C4>":
+    comment: "EX Royal Guard Rumors/Ex \u8FD1\u885B\u5175\u306E\u30A6\u30EF\u30B5"
+    coord: [-360.58, 182.44, -855.37]
+- _Korok::X18
+- _Discover<First Gatehouse>:
+    comment: "\u4E09\u306E\u4E38"
+    notes: Kill lynel and climb up.
+    coord: [-362.625, -813.125]
+- _Chest<Bomb Arrow x10>:
+    coord: [-347.1, 215.33, -836.86]
+- _Chest<Bomb Arrow x5>:
+    coord: [-339.59, 238.97, -822.65]
+- .gale() from the location indicated:
+    gale: 1
+    icon: npc-rito
+    time-override: 1000
+    coord: [-339.59, 238.97, -822.65]
+- _Korok::X17
+- _Korok::X14
+- .gale() up and glide toward X12:
+    gale: 1
+- _Chest<Bomb Arrow x5>:
+    coord: [-96.0, 250.63, -932.87]
+- _Chest<Shock Arrow x5>:
+    coord: [-98.5, 280.78, -931.37]
+- _Korok::X12
+- _Discover<Second Gatehouse>:
+    comment: "\u4E8C\u306E\u4E38"
+    notes: Kill lynel then climb up and out to gale location.
+    coord: [-154.6875, -893.375]
+- _Chest<Ancient Arrow x3>:
+    coord: [-166.29, 239.04, -881.66]
+- _Chest<Bomb Arrow x5>:
+    coord: [-154.75, 262.68, -893.34]
+- .gale() up to X16 from the indicated location:
+    gale: 1
+    icon: npc-rito
+    coord: [-145.4375, -874.375]
+- _Korok::X16
+- _Discover<Dining Hall>:
+    comment: "\u98DF\u5802"
+    notes: Raw meat, raw gourmet meat
+    coord: [-116.375, -837.6875]
+- _Korok::X15
+- "_Chest::Special<Royal Guard Uniform/\u8FD1\u885B\u5175\u306E\u670D>":
+    comment: "EX Royal Guard Rumors/Ex \u8FD1\u885B\u5175\u306E\u30A6\u30EF\u30B5"
+    coord: [-175.26, 211.33, -889.62]
+- _Korok::X20
+- .gale() up to road above korok:
+    gale: 1
+- .gale() over malice to X23:
+    gale: 1
+    icon: npc-rito
+    coord: [-218.08, 231.36, -778.71]
+- _Korok::X23
+- _Discover<Observation Room>:
+    comment: "\u5C55\u671B\u5BA4"
+    notes: Walk into the malice for the location.
+    coord: [-251.75, -744.8125]
+- _Korok::X22
+- _Korok::X21
+- .gale() over to X24:
+    gale: 1
+- _Korok::X24
+- _Korok::C16
+- _Korok::X25

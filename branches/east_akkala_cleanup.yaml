@@ -1,0 +1,12 @@
+- _Korok::A44
+- _Korok::A35
+- _Korok::A36
+- "_Npc<Ancient Text/\u53E4\u4EE3\u306E\u30C6\u30AD\u30B9\u30C8>":
+    comment: "Into the Vortex/\u6E26\u5DFB\u306E\u4E2D\u5FC3\u3078"
+    coord: [4626.25, 131.11, -1829.19]
+- .gale() toward the orb after shooting it with a bomb arrow:
+    gale: 1
+- _Shrine::RitaagZumo:
+    comment: "\u30EA\u30BF\u30FC\u30FB\u30BA\u30E2\u306E\u7960"
+    notes: Giant ancient core (Optional)
+- _Korok::A33

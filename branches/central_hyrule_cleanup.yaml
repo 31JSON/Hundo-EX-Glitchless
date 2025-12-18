@@ -1,0 +1,147 @@
+- _Warp::Shrine::KayaWan
+- _Korok::C46
+- _Korok::C51
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [421.3125, 329.625]
+- _Korok::C56
+- _Korok::C50
+- "_Chest::Special<Tingle's Tights/\u30C1\u30F3\u30AF\u30EB\u306E\u30BA\u30DC\u30F3>":
+    comment: "EX Treasure Fairy Clothes/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u5996\
+      \u7CBE\u306E\u7DD1\u8863"
+    coord: [-31.15, 129.91, 211.62]
+- _Discover<Mabe Village Ruins>:
+    comment: "\u30E1\u30FC\u3079\u306E\u753A\u8DE1"
+    coord: [-57.9375, 174.5625]
+- _Korok::C44
+- _Korok::C45
+- _Korok::C34
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [626.125, -305.4375]
+- .gale() from the location indicated across the river in the direction of Z21:
+    gale: 1
+    icon: npc-rito
+    coord: [698.125, -336.6875]
+- Rock for Z21:
+    coord: [1085.17, 162.78, -202.45]
+- _Korok::Z21
+- _Korok::Z11
+- _Korok::C13
+- Cube for K35:
+    coord: [1683.72, 130.4, -836.82]
+- _Korok::K35
+- _Korok::Z02
+- _Korok::Z03
+- _Korok::K34
+- .gale() from cryo block to K33:
+    gale: 1
+- _Korok::K33
+- _Shrine::MirroShaz:
+    comment: "\u30DF\u30FC\u30ED\u30FB\u30C4\u30D2\u306E\u7960"
+    notes: .link([Video]https://youtu.be/M9o6ORQ7Fp0) - Giant ancient core, if needed
+- "_Npc::SheikaFemale<Shamae/\u30B7\u30E3\u30FC\u30E1>":
+    comment: "Balloon Flight/\u98A8\u8239\u3088\u821E\u3044\u4E0A\u304C\u308C\uFF01"
+    coord: [1080.5, 127.38, -1125.0]
+- _Tod::Noon:
+    icon-map: null
+    notes: For the next Stalnox
+- _Discover<Rauru Settlement Ruins>:
+    comment: "\u30E9\u30A6\u30EB\u96C6\u843D\u8DE1"
+    coord: [703.9375, -1256.5625]
+- _Discover<Helmhead Bridge>:
+    comment: "\u30D5\u30A7\u30F3\u30B5\u6A4B"
+    coord: [398.1875, -1167.3125]
+- Cube for C02:
+    coord: [621.07, 120.38, -1059.92]
+- _Korok::C02
+- _Boss::Talus::Luminous:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u591C\u5149\uFF09"
+    coord: [771.3125, -1014.25]
+- .fury():
+    fury: 3
+- _Shrine::NamikaOzz:
+    comment: "\u30CA\u30DF\u30AB\u30FB\u30AA\u30BA\u306E\u7960"
+    notes: .link([Video]https://youtu.be/O8x0RdEbkmo) - Guadian Axe+; Frost spear
+      from chest
+- _Korok::C09
+- _Korok::C11
+- _Korok::C12
+- _Korok::C19
+- _Discover<Orsedd Bridge>:
+    comment: "\u30DE\u30C5\u30E9\u6A4B"
+    coord: [520.0625, -498.9375]
+- _Korok::C23
+- _Korok::C18
+- _Korok::C10
+- .gale() across the river in the direction of C06:
+    gale: 1
+- _Korok::C06
+- .gale() from the lip of the tree back across the river:
+    gale: 1
+- _Korok::C05
+- _Boss::Hinox::Stal:
+    comment: "\u30B9\u30BF\u30EB\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [256.4375, -913.3125]
+- _Korok::C04
+- _Chest<Bomb Arrow x5>:
+    coord: [149.0, 132.88, -711.0]
+- _Korok::C17
+- _Korok::C29
+- _Korok::C28
+- _Chest<Luminous Stone>:
+    coord: [-240.18, 131.43, -303.73]
+- _Korok::C32
+- .gale() from race start:
+    gale: 1
+    icon: npc-rito
+    coord: [-296.75, 145.68, -261.92]
+- _Korok::C27
+- _Chest<Sapphire>:
+    coord: [-333.5, 128.19, -403.0]
+- _Korok::C31
+- _Discover<Water Reservoir>:
+    comment: "\u8CAF\u6C34\u6C60\u8DE1"
+    coord: [-597.0625, -516.875]
+- Rock for C22:
+    coord: [-673.43, 141.49, -518.38]
+- _Korok::C22
+- Rock for C21:
+    coord: [-777.65, 190.79, -603.21]
+- _Korok::C21
+- _Korok::C20
+- .gale() across to the talus:
+    gale: 1
+    icon: npc-rito
+    coord: [-763.25, -627.5]
+- _Boss::Talus::Rare:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u5E0C\u5C11\uFF09"
+    coord: [-768.8125, -804.4375]
+- .fury():
+    fury: 3
+- _Discover<Moat Bridge>:
+    comment: "\u30AA\u30DB\u30EA\u6A4B"
+    coord: [-612.875, -667.6875]
+- _Korok::C15
+- _Chest<Ancient Arrow>:
+    coord: [-611.0, 132.58, -784.0]
+- "_Chest::Special<Tingle's Shirt/\u30C1\u30F3\u30AF\u30EB\u306E\u670D>":
+    comment: "EX Treasure Fairy Clothes/Ex \u30E9\u30E0\u30C0\u306E\u79D8\u5B9D \u5996\
+      \u7CBE\u306E\u7DD1\u8863"
+    coord: [-681.15, 119.72, -813.12]
+- _Korok::C08
+- Cube for C03:
+    coord: [-659.53, 113.69, -939.06]
+- _Korok::C03
+- _Korok::C01
+- _Korok::C07
+- _Material<Endura Shroom>:
+    coord: [-943.96, 122.65, -779.41]
+- _Material<Courser Bee Honey, 1>:
+    coord: [-963.47, 127.64, -742.32]
+- _Material<Endura Shroom>:
+    coord: [-970.91, 125.8, -728.82]
+- _Korok::C14
+- _Shrine::NoyaNeha:
+    comment: "\u30CB\u30A2\u30FB\u30CD\u30A2\u306E\u7960"
+    notes: .link([Video]https://youtu.be/O8x0RdEbkmo)

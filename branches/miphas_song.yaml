@@ -1,0 +1,153 @@
+- _Warp::Beast::Ruta
+- Zora Stone Monument 7:
+    comment: "\u77F3\u7891 7"
+    icon: location
+    movements:
+    - to: [3265.5, 341.84, 38.7]
+- _Korok::Z34
+- Zora Stone Monument 6:
+    comment: "\u77F3\u7891 6"
+    icon: location
+    movements:
+    - to: [3393.74, 314.18, 49.77]
+- "_Npc::Rito<Kass/\u30AB\u30C3\u30B7\u30FC\u30EF>":
+    comment: "EX Champion Mipha's Song/\u82F1\u5091\u30DF\u30D5\u30A1\u30FC\u306E\u8A69"
+    coord: [3739.8, 401.52, 53.38]
+- _Korok::Z35
+- .gale():
+    gale: 1
+- _Boss::Talus::Luminous:
+    comment: "\u30A4\u30EF\u30ED\u30C3\u30AF\uFF08\u591C\u5149\uFF09"
+    movements:
+    - to: [3992.375, -158.625]
+- .fury():
+    fury: 3
+- _Chest<Gold Rupee>:
+    coord: [4037.04, 341.94, -318.27]
+- _Korok::Z27:
+    notes: .link([Solution]https://raw.githubusercontent.com/31PNMR/hundo-ex-mgr-glitch/main/graphics/Z27.png)
+- _Korok::Z28
+- .gale():
+    gale: 1
+- _Korok::Z20
+- _Material<Hearty Bass, 4>:
+    coord: [4102.27, 367.88, -498.04]
+- Metal boulder for Z19:
+    coord: [4118.09, 480.78, -474.36]
+- _Korok::Z19
+- _Korok::Z08
+- _Material<Fleet-Lotus Seeds>:
+    coord: [3551.23, 278.82, -602.51]
+- Pass through the light rings hanging over the waterfall:
+    comment: "\u6EDD\u306B\u639B\u304B\u308A\u3057\u5149\u8F2A\u3092\u304F\u3050\u308B"
+    icon: npc-zora-female
+    movements:
+    - to: [3561.7, 279.1, -566.6]
+    - to: [3600.3, 345.93, -583.3]
+    - to: [3625.5, 379.8, -580.2]
+    - to: [3648.4, 378.9, -590.5]
+    - to: [3661.51, 459.84, -595.44]
+    - to: [3715.3, 463.1, -589.1]
+    - to: [3734.5, 528.4, -594.2]
+    - to: [3745.67, 547.97, -608.42]
+- _Shrine::MahEliya:
+    comment: "\u30DE\u30A6\u30FB\u30A8\u30EB\u30FC\u30E4\u306E\u7960"
+    notes: .link([Video]https://youtu.be/Y8QfmuJerxU)
+- _Korok::A54
+- _Chest<Opal>:
+    coord: [3980.98, 395.1, -823.42]
+- _Korok::A55
+- _Korok::A57
+- _Material<Lizalfos Parts>:
+    coord: [4344.44, 382.09, -644.65]
+- _Korok::A56
+- _Shrine::KenaiShakah:
+    comment: "\u30B1\u30CB\u30A3\u30FB\u30B7\u30AB\u306E\u7960"
+    notes: Sapphire - .link([Video]https://youtu.be/O8x0RdEbkmo)
+- _Chest<Shock Arrow x10>:
+    coord: [4155.9, 247.06, -789.12]
+- _Korok::A53
+- _Korok::Z09
+- _Korok::Z10
+- _Korok::Z07
+- _Korok::Z06
+- _Korok::Z01
+- _Shrine::KahMael:
+    comment: "\u30AB\u30FB\u30E0\u30FC\u306E\u7960"
+    notes: .link([Video]https://youtu.be/oNc8b9qE6bg) - Diamond (Optional)
+- _Tod::Morning:
+    icon-map: null
+- _Shrine::KeeDafunia:
+    comment: "\u30AD\u30AA\u30FB\u30C0\u30D5\u30CA\u306E\u7960"
+    notes: .link([Video]https://youtu.be/QC-BYtMZw_g)
+- _Warp::Shrine::MahEliya
+- Zora Stone Monument 9:
+    comment: "\u77F3\u7891 9"
+    icon: location
+    coord: [3720.59, 461.92, -532.05]
+- _Korok::Z17
+- _Korok::Z16
+- _Chest::Special<Lightscale Trident>:
+    comment: "\u5149\u9C57\u306E\u69CD"
+    coord: [3329.1875, -547.3125]
+- Zora Stone Monument 10:
+    comment: "\u77F3\u7891 10"
+    icon: location
+    coord: [3207.4, 344.67, -736.45]
+- .gale() up at this location:
+    gale: 1
+    icon: npc-rito
+    coord: [3118.75, -760.375]
+- Kill Skywatchers and Turret:
+    movements:
+    - to: [3117.73, 557.78, -828.94]
+    - to: [3216.3, 570.29, -890.41]
+    - to: [3175.81, 541.08, -925.12]
+    - to: [3063.7, 562.18, -953.64]
+- _Shrine::SatoKoda:
+    comment: "\u30B5\u30BF\u30FB\u30AB\u30C0\u306E\u7960"
+    notes: Giant Ancient Core - .link([Video]https://youtu.be/3wqRC8JZ6W8)
+- "_Npc<Shrine Pedestal/\u53F0\u5EA7>":
+    comment: "The Ceremonial Song/\u82F1\u5091\u796D\u306E\u8A69"
+    notes: Shrine pedestal
+    coord: [3082.3125, -456.5625]
+- _Material<Fleet-Lotus Seeds>:
+    movements:
+    - to: [3114.66, 277.66, -474.3]
+    - to: [3116.5, 277.66, -457.75]
+    - to: [3115.65, 277.66, -437.23]
+- _Shrine::DagahKeek:
+    comment: "\u30C0\u30FB\u30AD\u30AD\u30FC\u306E\u7960"
+    notes: Silver Rupee - .link([Video]https://youtu.be/Kx5kOO6jZjo)
+- _Boss::Hinox::Blue:
+    comment: "\u9752\u30D2\u30CE\u30C3\u30AF\u30B9"
+    coord: [2930.375, -298.25]
+- _Material<Fleet-Lotus Seeds>:
+    movements:
+    - to: [2923.78, 310.31, -274.12]
+    - to: [2913.84, 310.31, -241.41]
+    - to: [2933.12, 310.31, -244.33]
+    - to: [2930.44, 310.31, -227.43]
+    - to: [2936.68, 310.31, -225.2]
+    - to: [2954.88, 310.31, -235.87]
+- _Korok::Z24
+- Zora Stone Monument 3:
+    comment: "\u77F3\u7891 3"
+    icon: location
+    coord: [3062.39, 184.92, -216.65]
+- .gale() over to Z32:
+    gale: 1
+- Rock for Z32:
+    coord: [3139.43, 195.4, -24.71]
+- _Korok::Z32
+- _Warp::Beast::Ruta
+- Mipha's Grace+:
+    comment: "\u82F1\u5091\u30DF\u30D5\u30A1\u30FC\u306E\u7948\u308A+"
+    icon-doc: ruta-done
+    notes: .link([Video]https://youtu.be/o2uBNVKNoRs)
+    counter: .split(SPLIT)
+- .fury() during phase 2 Waterblight:
+    fury: 3
+    notes: Make sure to use all furies so it will be recharging while doing the final
+      trial.
+    time-override: 1000

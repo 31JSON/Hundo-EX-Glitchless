@@ -1,0 +1,54 @@
+- Line Color - Cyan
+- _Warp::Shrine::KayNoh
+- "_Npc::SheikaMale<Pirou/\u30D4\u30EB\u30A8>":
+    comment: "Rushroom Rush!/\u30B4\u30FC\u30B4\u30FC\u30C0\u30B1 GoGo\uFF01"
+    coord: [-2796.5, 2240.25]
+- _Warp::TechLab::Akkala:
+    notes: If you chose not to complete Robbie and Jerrin earlier to save ancient
+      arrows.
+- "_Npc::SheikaMale<Robbie/\u30ED\u30D9\u30EA\u30FC>":
+    comment: "Robbie's Research/\u3082\u3046\u4E00\u4EBA\u306E\u7814\u7A76\u8005"
+    notes: Dialog Options 1 1 2
+    coord: [4514.1875, -3158.625]
+- "_Npc::SheikaFemale<Jerrin/\u30B8\u30A7\u30EA\u30F3>":
+    comment: "The Skull's Eye/\u30C9\u30AF\u30ED\u306E\u5DE6\u76EE"
+    notes: Dialog Options 1 1 3
+    coord: [4509.6875, -3167.8125]
+- _Tod::Night:
+    icon-map: null
+- _Warp::Shrine::DahHesho
+- _Discover<Great Fairy Fountain>:
+    comment: "\u5927\u5996\u7CBE\u306E\u6CC9"
+    notes: "Upgrade to \u2605\u2605\u2605\u2605 - Champion's Tunic, Zora Set, Wild\
+      \ Set"
+    coord: [4111.4375, -1378.3125]
+- _Npc<Kilton>:
+    comment: "\u30AD\u30EB\u30C8\u30F3"
+    notes: Buy monster extract, horse gear; Medals
+    coord: [4152.87, 194.63, -1597.24]
+- _Cook<Monster Cake>:
+    comment: "\u30DE\u30E2\u30CE\u30B1\u30FC\u30AD"
+    notes: wheat, sugar, butter, extract
+    coord: [3946.875, -1603.1875]
+- "_Npc::SheikaFemale<Ruli/\u30CF\u30EA\u30EB>":
+    comment: "A Parent's Love/\u89AA\u306E\u5FC3\u5B50\u77E5\u3089\u305A"
+    coord: [3970.5625, -1567.4375]
+- "_Npc::SheikaMale<Hagie/\u30CF\u30AE>":
+    comment: "Hobbies of the Rich/\u6210\u91D1\u306E\u904A\u3073\u65B9"
+    coord: [3919.375, -1605.6875]
+- "_Npc::SheikaMale<Hudson/\u30A8\u30CE\u30AD\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    coord: [3970.74, 233.6, -1623.47]
+- "_Npc::SheikaMale<Hudson/\u30A8\u30CE\u30AD\u30C0>":
+    comment: "From the Ground Up/\u7FBD\u3070\u305F\u3051\uFF01\u30B5\u30AF\u30E9\u30C0\
+      \u5DE5\u52D9\u5E97"
+    coord: [3970.74, 233.6, -1623.47]
+- _Warp::Shrine::KeoRuug
+- _Npc<Hestu>:
+    comment: "\u30DC\u30C3\u30AF\u30EA\u30F3"
+    notes: Complete remaining upgrades, get giant poop
+    coord: [466.03, 249.56, -2112.38]
+- _Warp::Shrine::HaDahamar
+- _Memory::AshSwamp:
+    comment: "\u899A\u9192 \u30BC\u30EB\u30C0"
